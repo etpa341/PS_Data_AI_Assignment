@@ -1,0 +1,314 @@
+# Kestrel feedback: per-file-family read and mapping config.
+# Built from profiling/data_governance.xlsx (File_Profile, Column_Dictionary, Issues_Log, Decisions_Log).
+#
+# 01_bronze.py uses: files, format, encoding, delimiter, sheets/header_rows, columns.
+# 02_silver.py uses: dealer, date_format, rating scales, department, exclusions.
+#
+# Column targets (bronze field names):
+#   date_raw, department_raw, rating_raw, comment_raw, site_raw, vehicle_raw, action_raw,
+#   channel_raw, month_raw, count_raw:<bucket>
+#   drop:<reason>  -> column is never written anywhere (PII or not needed). SPEC section 8.
+# Every header cell in a sheet must appear in `columns`, otherwise bronze stops with an error.
+
+defaults:
+  encoding: utf-8-sig
+  delimiter: ","
+  header_rows: [1]
+  total_row_regex: '^(grand )?total|^average|^sum\b|^count of'
+  voice_default: customer          # used when a comment has text and is not a staff paraphrase
+
+scales:                             # SPEC D1: true scale min/max, never the observed range
+  num_1_5:    {kind: numeric, min: 1, max: 5}
+  num_1_10:   {kind: numeric, min: 1, max: 10}   # Ringwood from Feb 2026 (I035, I036, D1, D2)
+  labels_1_5: {kind: labels, min: 1, max: 5,
+               map: {very dissatisfied: 1, dissatisfied: 2, neutral: 3, satisfied: 4, very satisfied: 5}}
+  labels_bad_ok_good: {kind: labels, min: 1, max: 3, map: {bad: 1, ok: 2, good: 3}}   # Tamworth (I050)
+  stars_1_5:  {kind: stars, min: 1, max: 5}      # count of filled stars (I119)
+
+# Shared department vocabulary (lower-cased, stripped). Unmapped values -> Unknown + flag.
+department_map:
+  sales: Sales
+  new cars: Sales
+  used cars: Sales
+  sales - new: Sales
+  sales - used: Sales
+  service: Service
+  svc: Service
+  service dept: Service
+  workshop: Service
+  parts: Parts
+  p&a: Parts
+  parts & accessories: Parts
+  parts counter: Parts
+
+site_aliases:                       # North QLD multi-site file (Manifest notes)
+  rocky: QLD07
+  rok: QLD07
+  rockhampton: QLD07
+  tsv: QLD08
+  townsville: QLD08
+
+families:
+  - family: ballarat
+    files: ["Ballarat - Customer Satisfaction.xlsx"]
+    format: xlsx
+    dealer_code: VIC07
+    sheets: {Responses: {header_rows: [2]}}        # row 1 is a merged group banner (I129)
+    columns: {Date: date_raw, Dept: department_raw, Name: "drop:customer_name", Phone: "drop:phone",
+              "How satisfied?": rating_raw, Comments: comment_raw}
+    date_format: excel
+    rating_scale: labels_1_5
+
+  - family: bendigo
+    files: ["bendigo feedback.csv"]
+    format: csv
+    dealer_code: VIC08
+    columns: {Date: date_raw, Dept: department_raw, Stars: rating_raw, "What did they say?": comment_raw}
+    date_format: d_mon_yy
+    rating_scale: stars_1_5
+    department_map_override:        # D3: S = Sales (inferred), SV = Service, P = Parts
+      s: {value: Sales, inferred: true}
+      sv: {value: Service}
+      p: {value: Parts}
+
+  - family: boxhill
+    files: ["boxhill_survey_export_*.csv"]
+    format: csv
+    dealer_code: VIC05
+    columns: {response_id: "drop:record_id", submitted_at: date_raw, department: department_raw,
+              csat: rating_raw, verbatim: comment_raw, vehicle: vehicle_raw, dms_customer_no: "drop:customer_id"}
+    date_format: iso
+    rating_scale: num_1_5
+
+  - family: chatswood
+    files: ["chatswood_*.csv"]
+    format: csv
+    delimiter: ";"                  # I155-I158
+    dealer_code: NSW03
+    columns: {Date: date_raw, Dept: department_raw, Score: rating_raw, Comment: comment_raw, Vehicle: vehicle_raw}
+    date_format: dmy
+    rating_scale: num_1_5
+
+  - family: chermside
+    files: ["Chermside Q* *.xlsx"]
+    format: xlsx
+    dealer_code: QLD01
+    columns: {Date: date_raw, Department: department_raw, Model: vehicle_raw, Rating: rating_raw,
+              Comments: comment_raw, Ref: "drop:record_id", "Customer No": "drop:customer_id"}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: dandenong
+    files: ["Dandenong Customer Feedback 2025-26.xlsx"]
+    format: xlsx
+    dealer_code: VIC01
+    header_rows: [4]                # banner rows above header (I132)
+    sheets: {"May 26": {header_rows: [5]}, Sheet3: {empty: true}}   # Sheet3 is empty (I134)
+    columns: {Date: date_raw, Dept: department_raw, Customer: "drop:customer_name", Vehicle: vehicle_raw,
+              Rego: "drop:rego", "Rating (1-5)": rating_raw, Comments: comment_raw, "Action taken": action_raw}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: essendon
+    files: ["ESSENDON - feedback register.xlsx"]
+    format: xlsx
+    dealer_code: VIC03
+    columns: {Date: date_raw, "Taken by": "drop:staff", "Customer said": comment_raw, Score: rating_raw, Action: action_raw}
+    department_from: sheet_name     # no department column; tab = department (I135)
+    date_format: dmy
+    rating_scale: num_1_5
+    cross_tab_duplicates:           # I012 / I080: same date + comment + score in Sales and Service tabs
+      keep_sheet: Service           # the duplicated texts describe workshop/service visits
+      drop_sheet: Sales
+
+  - family: frankston
+    files: ["Frankston_CX_tracker.xlsx"]
+    format: xlsx
+    dealer_code: VIC04
+    sheets: {Tracker: {header_rows: [1, 160]}}       # template change at row 160 (I013)
+    columns: {Date: date_raw, Area: department_raw, Rating: rating_raw, Comments: comment_raw,
+              CSAT: rating_raw, "Customer comments": comment_raw, Source: channel_raw,
+              Customer: "drop:customer_name", Rego: "drop:rego"}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: geelong
+    files: ["Geelong Feedback.xlsx"]
+    format: xlsx
+    dealer_code: VIC06
+    header_rows: [4]
+    columns: {Date: date_raw, Department: department_raw, Rating: rating_raw, Feedback: comment_raw,
+              Customer: "drop:customer_name"}
+    date_format: dmy_2y
+    rating_scale: num_1_5
+    invert_sheets: ["2025"]         # D1 / I015: banner says 1 = Excellent, 5 = Poor
+
+  - family: hunter
+    files: ["Hunter Motors feedback 25-26.xlsx"]
+    format: xlsx
+    dealer_code: NSW05              # alias mapping, suspected (Manifest: needs decision; brand mix supports it)
+    dealer_alias: true
+    header_rows: [3]
+    columns: {Dealer: site_raw, Date: date_raw, Department: department_raw, Rating: rating_raw,
+              Comments: comment_raw, Vehicle: vehicle_raw}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: ipswich
+    files: ["IPS_feedback_log.xlsx"]
+    format: xlsx
+    dealer_code: QLD03              # alias mapping, suspected ('IPS' / 'KMG-IPS')
+    dealer_alias: true
+    columns: {Site: site_raw, Date: date_raw, Dept: department_raw, Rating: rating_raw, Notes: comment_raw,
+              "Logged by": "drop:staff"}
+    date_format: dmy
+    vague_dates: infer_month        # 'early Oct', 'Aug?' (I084): month only, date stays empty
+    rating_scale: num_1_5
+
+  - family: liverpool
+    files: ["liverpool_q*.csv"]
+    format: csv
+    dealer_code: NSW04
+    columns: {Date: date_raw, Department: department_raw, Customer: "drop:customer_name", Phone: "drop:phone",
+              Rego: "drop:rego", Rating: rating_raw, Feedback: comment_raw}
+    date_format: dmy
+    date_format_by_file: {"liverpool_q3_2026.csv": mdy}   # I068: US order proven
+    rating_scale: num_1_5
+
+  - family: noosa
+    files: ["Noosa feedback cards.xlsx"]
+    format: xlsx
+    dealer_code: QLD05
+    columns: {Date: date_raw, Department: department_raw, Rating: rating_raw, Comments: comment_raw,
+              "Card given by": "drop:staff"}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: north_qld
+    files: ["North QLD feedback (Rocky + TSV).xlsx"]
+    format: xlsx
+    dealer_from_site: true          # Site column -> site_aliases
+    columns: {Site: site_raw, Date: date_raw, Department: department_raw, Rating: rating_raw, Comments: comment_raw}
+    date_format: excel              # stored as Excel serial numbers (I142)
+    rating_scale: num_1_5
+
+  - family: parramatta
+    files: ["Parramatta_Feedback_20*.xlsx"]
+    format: xlsx
+    dealer_code: NSW01
+    columns: {Date: date_raw, "Cust No": "drop:customer_id", Mobile: "drop:phone", Department: department_raw,
+              "Booking ref": "drop:record_id", Rating: rating_raw, Comments: comment_raw, Staff: "drop:staff"}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: penrith
+    files: ["Penrith Feedback.xlsx"]
+    format: xlsx
+    dealer_code: NSW02
+    columns: {Date: date_raw, Department: department_raw, Score: rating_raw, Comments: comment_raw,
+              Customer: "drop:customer_name"}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: ringwood
+    files: ["Ringwood feedback Q* *.xlsx"]
+    format: xlsx
+    dealer_code: VIC02
+    sheets_by_file: {"Ringwood feedback Q1 2026.xlsx": {Feedback: {header_rows: [1, 37]}}}   # I035
+    columns: {"Date Received": date_raw, Date: date_raw, Department: department_raw, Model: vehicle_raw,
+              "Score (1-5)": rating_raw, "Score (out of 10)": rating_raw, "Customer comments": comment_raw,
+              "Followed up?": action_raw, "Follow up (Y/N)": action_raw, Staff: "drop:staff"}
+    date_format: dmy
+    rating_scale: num_1_5
+    rating_scale_by_column: {"Score (out of 10)": num_1_10}   # D1, D2
+
+  - family: shepparton
+    files: ["Shepparton feedback FINAL - site closed.xlsx"]
+    format: xlsx
+    dealer_code: VIC09
+    columns: {Date: date_raw, Dept: department_raw, Rating: rating_raw, Comment: comment_raw}
+    date_format: dmy
+    rating_scale: num_1_5
+    year_correction: after_closure  # D4
+
+  - family: southport
+    files: ["Southport Feedback Tracker.xlsx"]
+    format: xlsx
+    dealer_code: QLD04
+    sheets: {"Google reviews (copied)": {header_rows: [2]}}
+    columns: {Date: date_raw, Department: department_raw, Rating: rating_raw, Comments: comment_raw,
+              Vehicle: vehicle_raw, Rego: "drop:rego", "Customer name": "drop:customer_name", Email: "drop:email",
+              Reviewer: "drop:customer_name", Stars: rating_raw, Review: comment_raw, When: date_raw}
+    date_format: excel
+    rating_scale: num_1_5
+    test_row_regex: '^(test( test)?|testing new form|test - ignore|asdf)$|^01/01/1900$'   # I106
+
+  - family: springwood
+    files: ["Springwood feedback.xlsx"]
+    format: xlsx
+    dealer_code: QLD02
+    columns: {Date: date_raw, Department: department_raw, Name: "drop:customer_name", Mobile: "drop:phone",
+              Email: "drop:email", Rating: rating_raw, Comments: comment_raw}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: tamworth
+    files: ["Tamworth.xlsx"]
+    format: xlsx
+    dealer_code: NSW07
+    columns: {DATE: date_raw, DEPT: department_raw, "HOW WAS IT": rating_raw, COMMENTS: comment_raw}
+    date_format: dmy
+    rating_scale: labels_bad_ok_good
+
+  - family: toowoomba
+    files: ["Toowoomba feedback 2026.xlsx"]
+    format: xlsx
+    dealer_code: QLD06
+    columns: {Date: date_raw, Department: department_raw, Rating: rating_raw, Comments: comment_raw}
+    date_format: excel
+    rating_scale: num_1_5
+
+  - family: toowoomba_summary
+    files: ["Toowoomba Q4 2025 summary.xlsx"]
+    format: xlsx
+    dealer_code: QLD06
+    kind: aggregate                 # I052 / D5: counts only, no row-level feedback
+    header_rows: [3]
+    columns: {Month: month_raw, Department: department_raw, "1": "count_raw:1", "2": "count_raw:2",
+              "3": "count_raw:3", "4": "count_raw:4", "5": "count_raw:5", "Grand Total": "count_raw:total"}
+    date_format: none
+    rating_scale: num_1_5
+
+  - family: wollongong
+    files: ["Wollongong_*.csv"]
+    format: csv
+    encoding: cp1252                # I115 / I117
+    dealer_code: NSW06
+    columns: {Date: date_raw, Dept: department_raw, Rating: rating_raw, "Customer feedback": comment_raw,
+              Name: "drop:customer_name", Mobile: "drop:phone"}
+    date_format: d_mon_yy
+    rating_scale: num_1_5
+
+# Whole-file / whole-sheet exclusions. Rows stay in silver with excluded = true (SPEC section 4).
+# Each one is re-checked against the data by 02_silver.py; the run fails if the evidence no longer holds.
+exclusions:
+  - file: "Chermside Q1 2026 FINAL.xlsx"
+    sheet: "*"
+    reason: "superseded: every row is also in Chermside Q1 2026 FINAL v2 (v2 has 6 more)"
+    refs: "I005"
+    check: {subset_of: {file: "Chermside Q1 2026 FINAL v2.xlsx", sheet: Feedback}}
+  - file: "Penrith Feedback.xlsx"
+    sheet: "Jun 26"
+    reason: "copy of the 'Jul 26' tab; June 2026 is a data gap"
+    refs: "D5, I034, I033, R3"
+    check: {identical_to: {file: "Penrith Feedback.xlsx", sheet: "Jul 26"}}
+  - file: "Southport Feedback Tracker.xlsx"
+    sheet: "Google reviews (copied)"
+    reason: "copied public Google reviews, a different source from dealer-collected feedback"
+    refs: "I048"
+    check: {header_contains: Reviewer}
+  - file: "Toowoomba Q4 2025 summary.xlsx"
+    sheet: "*"
+    reason: "aggregate summary only (counts by rating), no row-level feedback; sensitivity use only"
+    refs: "D5, I052, I053, R1, R2"
+    check: {kind: aggregate}

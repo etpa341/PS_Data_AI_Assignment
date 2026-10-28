@@ -1,0 +1,26 @@
+family,rating_scale,inverted_fixed,dealers,sheets,rows,scale_min,scale_max,observed_min,observed_max,sheet_ranges,consistent_min_max,n_pos_comments,n_neg_comments,pos_mean_score,neg_mean_score,result_before_fix,result_after_fix
+ballarat,labels_1_5,False,VIC07,1,292,1,5,1.0,5.0,1-5,True,39,33,82.7,25.8,pass,pass
+bendigo,stars_1_5,False,VIC08,1,144,1,5,1.0,5.0,1-5,True,24,11,80.2,27.3,pass,pass
+boxhill,num_1_5,False,VIC05,4,309,1,5,1.0,5.0,1-5,True,63,36,82.5,37.5,pass,pass
+chatswood,num_1_5,False,NSW03,4,278,1,5,1.0,5.0,1-5,True,34,32,80.9,40.6,pass,pass
+chermside,num_1_5,False,QLD01,4,460,1,5,1.0,5.0,1-5,True,72,68,83.3,40.1,pass,pass
+dandenong,num_1_5,False,VIC01,12,484,1,5,1.0,5.0,1-5,True,66,73,76.9,44.2,pass,pass
+essendon,num_1_5,False,VIC03,3,333,1,5,1.0,5.0,1-5,True,57,52,81.1,33.2,pass,pass
+frankston,num_1_5,False,VIC04,1,308,1,5,1.0,5.0,1-5,True,43,38,83.1,34.2,pass,pass
+geelong,num_1_5,False,VIC06,1,236,1,5,1.0,5.0,1-5,True,35,35,77.1,44.3,pass,pass
+geelong,num_1_5,True,VIC06,1,68,1,5,1.0,5.0,1-5,True,9,11,80.6,43.2,FAIL (suspected inverted),pass
+hunter,num_1_5,False,NSW05,1,303,1,5,1.0,5.0,1-5,True,53,28,82.1,41.1,pass,pass
+ipswich,num_1_5,False,QLD03,1,277,1,5,1.0,5.0,1-5,True,45,34,78.9,38.2,pass,pass
+liverpool,num_1_5,False,NSW04,4,311,1,5,1.0,5.0,1-5,True,49,42,82.7,42.9,pass,pass
+noosa,num_1_5,False,QLD05,1,49,1,5,1.0,5.0,1-5,True,10,3,92.5,91.7,not testable,not testable
+north_qld,num_1_5,False,"QLD07, QLD08",4,555,1,5,1.0,5.0,1-5,True,99,66,74.2,38.3,pass,pass
+parramatta,num_1_5,False,NSW01,12,479,1,5,1.0,5.0,1-5,True,72,61,77.1,41.8,pass,pass
+penrith,num_1_5,False,NSW02,11,454,1,5,1.0,5.0,1-5,True,76,57,78.9,45.6,pass,pass
+ringwood,num_1_10,False,VIC02,3,321,1,10,1.0,10.0,1-10,True,64,31,76.9,43.4,pass,pass
+ringwood,num_1_5,False,VIC02,2,133,1,5,1.0,5.0,1-5,True,21,15,84.5,50.0,pass,pass
+shepparton,num_1_5,False,VIC09,1,52,1,5,1.0,5.0,1-5,True,9,7,91.7,53.6,not testable,not testable
+southport,num_1_5,False,QLD04,1,250,1,5,1.0,5.0,1-5,True,32,33,64.8,43.2,pass,pass
+springwood,num_1_5,False,QLD02,1,298,1,5,1.0,5.0,1-5,True,51,33,81.9,43.2,pass,pass
+tamworth,labels_bad_ok_good,False,NSW07,1,133,1,3,1.0,3.0,1-3,True,18,18,86.1,33.3,pass,pass
+toowoomba,num_1_5,False,QLD06,1,248,1,5,1.0,5.0,1-5,True,46,37,79.9,41.9,pass,pass
+wollongong,num_1_5,False,NSW06,2,285,1,5,1.0,5.0,1-5,True,48,40,83.3,44.4,pass,pass

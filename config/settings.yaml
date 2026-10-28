@@ -1,0 +1,36 @@
+# Pipeline settings (SPEC section 9). The API key is read from the ANTHROPIC_API_KEY
+# environment variable only and is never stored in the repo.
+
+llm:
+  # Not assumed: select_model.py lists the models available to the API key (GET /v1/models)
+  # and writes the newest Haiku here. 03_label.py --live refuses to run until it has.
+  model: claude-haiku-5-5
+  model_confirmed: true
+  model_display_name: "Claude Haiku 5.5"
+  model_selected_on: 2026-10-28
+  haiku_models_available: ["claude-haiku-5-5", "claude-haiku-4-5-20251001"]
+  # temperature: not set. The current Messages API has no sampling parameters (checked 2026-10-28);
+  # reruns are reproducible because cache.jsonl stores every raw response.
+  max_tokens: 2000               # covers the model's default thinking plus the ~40-token JSON (200 truncated 1 in 36)
+  retries_on_invalid: 1          # one retry on invalid JSON / schema failure (SPEC)
+  timeout_seconds: 60
+  pause_seconds: 0.0             # optional pause between live calls
+
+prompt:
+  file: prompts/classify_v1.txt  # written from the edited Definitions tab once definitions are final
+  version: v1                    # bump when the prompt text changes (cache key includes it)
+  built_by: build_prompt.py      # from labelling/labelling_sheet.xlsx Definitions tab (final 2026-10-27)
+
+labels:
+  themes: [Staff attitude, Communication and updates, Wait time and turnaround, Price and billing,
+           Work quality and fix, Vehicle or product, Process and facilities, Other]
+  sentiments: [positive, neutral, negative, mixed]
+  out_dir: data/silver_labels
+  dry_run_out_dir: data/silver_labels_dryrun
+
+pricing:                         # USD per million tokens, copied from the source page on checked_on
+  source_url: https://platform.claude.com/docs/en/about-claude/pricing
+  checked_on: 2026-10-27
+  by_model:                      # keyed by the model display name returned by /v1/models
+    Claude Haiku 5.5: {input: 0.10, output: 0.50, batch_input: 0.05, batch_output: 0.25, note: "prompts up to 100,000 tokens"}
+    Claude Haiku 4.5: {input: 1.00, output: 5.00, batch_input: 0.50, batch_output: 2.50}

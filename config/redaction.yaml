@@ -1,0 +1,9 @@
+# Staff first names that are NOT in the staff columns (so not in data/bronze/staff_names.csv) but appear in
+# comment text. Found by derived_numbers.py's [STAFF]-slot rule and reviewed by hand on 2026-10-28.
+# Stored as sha256(lowercase name)[:16] so the names are not kept in the repo. 02_silver.py replaces any
+# whole word whose lowercase hash is listed here with [STAFF], in any letter case.
+unlisted_staff_name_sha256_16:
+  - 5d7f15f2fce8ddb2
+  - e8e9689deac5bac9
+  - e1608f75c5d7813f
+  - 10c932ece8048a73

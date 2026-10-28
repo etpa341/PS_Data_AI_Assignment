@@ -1,0 +1,26 @@
+rule_id,rule,rows_checked,rows_failed,action,detail
+R01,Dealer code exists in dealerships.csv,7271,0,none needed,North QLD rows mapped from the Site column via site_aliases
+R02,"Dealer mapped by alias, not by suburb name (Hunter -> NSW05, IPS -> QLD03)",7271,580,flag,Suspected mappings from profiling (brand mix supports Hunter); confirm with head office
+R03,Day/month order proven per file (D/M files: no 2nd part > 12; M/D files: no 1st part > 12),2165,0,fix (parse liverpool_q3_2026.csv as M/D),every slash-date file has proving values and none contradicting
+R04,Date parses with the file's format,7265,22,flag; month inferred for vague dates,"10 vague Ipswich dates ('early Oct', 'Aug?') -> month only, feedback_date left empty; 0 of them fail the neighbour check; 12 others unparsed (test rows)"
+R05,"D4: closed-site rows dated after closure (Shepparton, closed 2026-03-31)",52,6,"fix (year - 1, date_corrected = true)","6 corrected (each within 31 days of a file-order neighbour), 0 left uncorrected"
+R06,Row month inside the period named in the file or tab,7253,43,"flag (month always comes from the row date, never the tab name)",Penrith Feedback.xlsx [Jun 26]: 43
+R07,Rating within the file's true scale,7265,0,flag; score left empty,scales: num_1_5: 6365; num_1_10: 321; labels_1_5: 292; stars_1_5: 144; labels_bad_ok_good: 143
+R08,Rating present,7265,11,"flag (row kept for text, no score)",Southport Feedback Tracker.xlsx: 1; Tamworth.xlsx: 10
+R09,D1: Geelong 2025 inverted scale fixed before normalising (x -> 6 - x),304,68,fix,"tab 2025 banner: 'Rating: 1 = Excellent, 5 = Poor'"
+R11,"Personal data patterns in comment text (phone, email, rego/plate, 'Firstname Lastname - ')",5495,765,fix (redacted in comment_clean),"rows by pattern: {'email': 59, 'phone': 162, 'rego': 486, 'plate': 0, 'name_prefix': 58}; rows still matching after redaction: 0"
+R11b,"Staff first names in comment text (staff-column list + reviewed unlisted names, whole word, any case)",5495,805,fix (replaced with [STAFF] in comment_clean),"16 listed names, 16 found in comments (737 replacements; names not logged); rows with a listed name not in title case: 82; 4 unlisted names (hashed, config/redaction.yaml) in 71 rows; rows still holding a staff name after redaction (token-by-token check): 0. Best effort: names of staff at dealers without a staff column are only caught if reviewed into config/redaction.yaml"
+R12,"PII columns (name, phone, email, rego, customer no, record ids, staff) not carried forward",82,0,"fix (dropped at bronze, never written)",9604 non-empty PII cells dropped at read time
+R13,Voice: staff third-person paraphrase vs customer words (regex heuristic),5495,206,flag (voice = staff_paraphrased; themes use customer voice only),ESSENDON - feedback register.xlsx: 113; IPS_feedback_log.xlsx: 93
+R14,"Department maps to Sales, Service, Parts (else Unknown)",7265,9,flag,"Unknown raw values: {'<blank>': 9}; 32 Bendigo 'S' rows -> Sales, dept_inferred = true (D3)"
+R15,Sheet exclusion re-checked: Chermside Q1 2026 FINAL.xlsx [*],112,112,exclude,"112 rows, 0 not found in Chermside Q1 2026 FINAL v2.xlsx (118 rows)"
+R15,Sheet exclusion re-checked: Penrith Feedback.xlsx [Jun 26],43,43,exclude,content hash equal to [Jul 26]
+R15,Sheet exclusion re-checked: Southport Feedback Tracker.xlsx [Google reviews (copied)],8,8,exclude,header: Reviewer | Stars | Review | When
+R15,Sheet exclusion re-checked: Toowoomba Q4 2025 summary.xlsx [*],6,6,exclude,family kind = aggregate
+R16,"Test / junk rows ('TEST', 'asdf', 01/01/1900)",7271,4,exclude,"Southport Feedback Tracker.xlsx r23, Southport Feedback Tracker.xlsx r167, Southport Feedback Tracker.xlsx r192, Southport Feedback Tracker.xlsx r196"
+R17,No exact duplicate rows within a sheet,7271,16,"exclude later copies, keep the first",ESSENDON - feedback register.xlsx: 1 (rows after the previous copy: {3: 1}); North QLD feedback (Rocky + TSV).xlsx: 1 (rows after the previous copy: {1: 1}); Springwood feedback.xlsx: 12 (rows after the previous copy: {1: 12}); Toowoomba feedback 2026.xlsx: 2 (rows after the previous copy: {1: 2}). 1 = directly below its copy
+R18,No identical tabs or files,82,1,exclude the copy (see R15),Penrith Feedback.xlsx [Jun 26] == Penrith Feedback.xlsx [Jul 26]
+R19,Same feedback logged in more than one tab (Essendon Sales vs Service),346,12,"exclude the Sales copy, keep Service",only rows with comment text are matched; blank-comment rows sharing a date and score are not treated as copies
+R20,Date inside the Oct 2025 - Sep 2026 window,7243,0,exclude (after D4 fix),none
+R21,No feedback after a site's closure date (after D4 fix),52,0,exclude,
+R10,"Rating vs comment sentiment, pooled by file family and scale (positive-word comments must not score lower than negative-word ones)",2029,0,ask / fix if any pool fails,"23 of 25 pools testable, covering 22 of 24 dealers; not testable: QLD05, VIC09; pools with inconsistent min/max: none; failing before the fix: geelong num_1_5 (inverted tab); failing after the fix: none. Needs >= 8 positive-only and >= 8 negative-only comments and a gap >= 12.5 points. Detail: outputs/sentiment_check_pools.csv"

@@ -1,0 +1,1729 @@
+dealer_code,department,scenario,theme,aud,mix_source
+NSW01,Sales,low,Staff attitude,21532.8393442623,department (thin)
+NSW01,Sales,low,Communication and updates,16598.230327868852,department (thin)
+NSW01,Sales,low,Wait time and turnaround,3140.2057377049186,department (thin)
+NSW01,Sales,low,Price and billing,11215.02049180328,department (thin)
+NSW01,Sales,low,Work quality and fix,4486.008196721312,department (thin)
+NSW01,Sales,low,Vehicle or product,897.2016393442624,department (thin)
+NSW01,Sales,low,Process and facilities,4486.008196721312,department (thin)
+NSW01,Sales,low,Other,448.6008196721312,department (thin)
+NSW01,Sales,base,Staff attitude,53832.09836065574,department (thin)
+NSW01,Sales,base,Communication and updates,41495.575819672136,department (thin)
+NSW01,Sales,base,Wait time and turnaround,7850.514344262296,department (thin)
+NSW01,Sales,base,Price and billing,28037.551229508197,department (thin)
+NSW01,Sales,base,Work quality and fix,11215.020491803278,department (thin)
+NSW01,Sales,base,Vehicle or product,2243.004098360656,department (thin)
+NSW01,Sales,base,Process and facilities,11215.020491803278,department (thin)
+NSW01,Sales,base,Other,1121.502049180328,department (thin)
+NSW01,Sales,high,Staff attitude,146115.6955503513,department (thin)
+NSW01,Sales,high,Communication and updates,112630.84865339579,department (thin)
+NSW01,Sales,high,Wait time and turnaround,21308.538934426233,department (thin)
+NSW01,Sales,high,Price and billing,76101.92476580797,department (thin)
+NSW01,Sales,high,Work quality and fix,30440.769906323185,department (thin)
+NSW01,Sales,high,Vehicle or product,6088.153981264637,department (thin)
+NSW01,Sales,high,Process and facilities,30440.769906323185,department (thin)
+NSW01,Sales,high,Other,3044.0769906323185,department (thin)
+NSW02,Sales,low,Staff attitude,25516.537639751557,department (thin)
+NSW02,Sales,low,Communication and updates,19668.99776397516,department (thin)
+NSW02,Sales,low,Wait time and turnaround,3721.1617391304353,department (thin)
+NSW02,Sales,low,Price and billing,13289.863354037268,department (thin)
+NSW02,Sales,low,Work quality and fix,5315.945341614907,department (thin)
+NSW02,Sales,low,Vehicle or product,1063.1890683229815,department (thin)
+NSW02,Sales,low,Process and facilities,5315.945341614907,department (thin)
+NSW02,Sales,low,Other,531.5945341614907,department (thin)
+NSW02,Sales,base,Staff attitude,63791.34409937889,department (thin)
+NSW02,Sales,base,Communication and updates,49172.49440993789,department (thin)
+NSW02,Sales,base,Wait time and turnaround,9302.904347826088,department (thin)
+NSW02,Sales,base,Price and billing,33224.65838509317,department (thin)
+NSW02,Sales,base,Work quality and fix,13289.863354037268,department (thin)
+NSW02,Sales,base,Vehicle or product,2657.9726708074536,department (thin)
+NSW02,Sales,base,Process and facilities,13289.863354037268,department (thin)
+NSW02,Sales,base,Other,1328.9863354037268,department (thin)
+NSW02,Sales,high,Staff attitude,151504.44223602483,department (thin)
+NSW02,Sales,high,Communication and updates,116784.67422360247,department (thin)
+NSW02,Sales,high,Wait time and turnaround,22094.397826086955,department (thin)
+NSW02,Sales,high,Price and billing,78908.56366459627,department (thin)
+NSW02,Sales,high,Work quality and fix,31563.425465838503,department (thin)
+NSW02,Sales,high,Vehicle or product,6312.685093167701,department (thin)
+NSW02,Sales,high,Process and facilities,31563.425465838503,department (thin)
+NSW02,Sales,high,Other,3156.3425465838504,department (thin)
+NSW03,Sales,low,Staff attitude,15929.454545454548,department (thin)
+NSW03,Sales,low,Communication and updates,12278.954545454548,department (thin)
+NSW03,Sales,low,Wait time and turnaround,2323.045454545455,department (thin)
+NSW03,Sales,low,Price and billing,8296.59090909091,department (thin)
+NSW03,Sales,low,Work quality and fix,3318.636363636364,department (thin)
+NSW03,Sales,low,Vehicle or product,663.7272727272727,department (thin)
+NSW03,Sales,low,Process and facilities,3318.636363636364,department (thin)
+NSW03,Sales,low,Other,331.8636363636364,department (thin)
+NSW03,Sales,base,Staff attitude,39823.63636363637,department (thin)
+NSW03,Sales,base,Communication and updates,30697.386363636368,department (thin)
+NSW03,Sales,base,Wait time and turnaround,5807.613636363637,department (thin)
+NSW03,Sales,base,Price and billing,20741.477272727276,department (thin)
+NSW03,Sales,base,Work quality and fix,8296.59090909091,department (thin)
+NSW03,Sales,base,Vehicle or product,1659.318181818182,department (thin)
+NSW03,Sales,base,Process and facilities,8296.59090909091,department (thin)
+NSW03,Sales,base,Other,829.659090909091,department (thin)
+NSW03,Sales,high,Staff attitude,111506.18181818182,department (thin)
+NSW03,Sales,high,Communication and updates,85952.68181818182,department (thin)
+NSW03,Sales,high,Wait time and turnaround,16261.318181818184,department (thin)
+NSW03,Sales,high,Price and billing,58076.13636363637,department (thin)
+NSW03,Sales,high,Work quality and fix,23230.454545454544,department (thin)
+NSW03,Sales,high,Vehicle or product,4646.090909090909,department (thin)
+NSW03,Sales,high,Process and facilities,23230.454545454544,department (thin)
+NSW03,Sales,high,Other,2323.0454545454545,department (thin)
+NSW04,Sales,low,Staff attitude,19144.440000000002,department (thin)
+NSW04,Sales,low,Communication and updates,14757.1725,department (thin)
+NSW04,Sales,low,Wait time and turnaround,2791.8975000000005,department (thin)
+NSW04,Sales,low,Price and billing,9971.062500000002,department (thin)
+NSW04,Sales,low,Work quality and fix,3988.425,department (thin)
+NSW04,Sales,low,Vehicle or product,797.6850000000001,department (thin)
+NSW04,Sales,low,Process and facilities,3988.425,department (thin)
+NSW04,Sales,low,Other,398.84250000000003,department (thin)
+NSW04,Sales,base,Staff attitude,47861.1,department (thin)
+NSW04,Sales,base,Communication and updates,36892.93125,department (thin)
+NSW04,Sales,base,Wait time and turnaround,6979.743750000001,department (thin)
+NSW04,Sales,base,Price and billing,24927.65625,department (thin)
+NSW04,Sales,base,Work quality and fix,9971.0625,department (thin)
+NSW04,Sales,base,Vehicle or product,1994.2124999999999,department (thin)
+NSW04,Sales,base,Process and facilities,9971.0625,department (thin)
+NSW04,Sales,base,Other,997.1062499999999,department (thin)
+NSW04,Sales,high,Staff attitude,170932.5,department (thin)
+NSW04,Sales,high,Communication and updates,131760.46875,department (thin)
+NSW04,Sales,high,Wait time and turnaround,24927.65625,department (thin)
+NSW04,Sales,high,Price and billing,89027.34375,department (thin)
+NSW04,Sales,high,Work quality and fix,35610.9375,department (thin)
+NSW04,Sales,high,Vehicle or product,7122.1875,department (thin)
+NSW04,Sales,high,Process and facilities,35610.9375,department (thin)
+NSW04,Sales,high,Other,3561.09375,department (thin)
+NSW05,Sales,low,Staff attitude,10702.052173913044,department (thin)
+NSW05,Sales,low,Communication and updates,8249.498550724638,department (thin)
+NSW05,Sales,low,Wait time and turnaround,1560.7159420289856,department (thin)
+NSW05,Sales,low,Price and billing,5573.985507246377,department (thin)
+NSW05,Sales,low,Work quality and fix,2229.5942028985505,department (thin)
+NSW05,Sales,low,Vehicle or product,445.91884057971015,department (thin)
+NSW05,Sales,low,Process and facilities,2229.5942028985505,department (thin)
+NSW05,Sales,low,Other,222.95942028985507,department (thin)
+NSW05,Sales,base,Staff attitude,26755.13043478261,department (thin)
+NSW05,Sales,base,Communication and updates,20623.746376811596,department (thin)
+NSW05,Sales,base,Wait time and turnaround,3901.789855072464,department (thin)
+NSW05,Sales,base,Price and billing,13934.963768115944,department (thin)
+NSW05,Sales,base,Work quality and fix,5573.985507246377,department (thin)
+NSW05,Sales,base,Vehicle or product,1114.7971014492755,department (thin)
+NSW05,Sales,base,Process and facilities,5573.985507246377,department (thin)
+NSW05,Sales,base,Other,557.3985507246377,department (thin)
+NSW05,Sales,high,Staff attitude,91731.87577639753,department (thin)
+NSW05,Sales,high,Communication and updates,70709.98757763975,department (thin)
+NSW05,Sales,high,Wait time and turnaround,13377.565217391306,department (thin)
+NSW05,Sales,high,Price and billing,47777.01863354038,department (thin)
+NSW05,Sales,high,Work quality and fix,19110.80745341615,department (thin)
+NSW05,Sales,high,Vehicle or product,3822.16149068323,department (thin)
+NSW05,Sales,high,Process and facilities,19110.80745341615,department (thin)
+NSW05,Sales,high,Other,1911.080745341615,department (thin)
+NSW06,Sales,low,Staff attitude,4496.8708249496985,department (thin)
+NSW06,Sales,low,Communication and updates,3466.3379275653924,department (thin)
+NSW06,Sales,low,Wait time and turnaround,655.793661971831,department (thin)
+NSW06,Sales,low,Price and billing,2342.120221327968,department (thin)
+NSW06,Sales,low,Work quality and fix,936.848088531187,department (thin)
+NSW06,Sales,low,Vehicle or product,187.36961770623742,department (thin)
+NSW06,Sales,low,Process and facilities,936.848088531187,department (thin)
+NSW06,Sales,low,Other,93.68480885311871,department (thin)
+NSW06,Sales,base,Staff attitude,11242.177062374247,department (thin)
+NSW06,Sales,base,Communication and updates,8665.844818913482,department (thin)
+NSW06,Sales,base,Wait time and turnaround,1639.4841549295777,department (thin)
+NSW06,Sales,base,Price and billing,5855.30055331992,department (thin)
+NSW06,Sales,base,Work quality and fix,2342.120221327968,department (thin)
+NSW06,Sales,base,Vehicle or product,468.4240442655936,department (thin)
+NSW06,Sales,base,Process and facilities,2342.120221327968,department (thin)
+NSW06,Sales,base,Other,234.2120221327968,department (thin)
+NSW06,Sales,high,Staff attitude,52463.49295774647,department (thin)
+NSW06,Sales,high,Communication and updates,40440.609154929574,department (thin)
+NSW06,Sales,high,Wait time and turnaround,7650.926056338028,department (thin)
+NSW06,Sales,high,Price and billing,27324.735915492955,department (thin)
+NSW06,Sales,high,Work quality and fix,10929.89436619718,department (thin)
+NSW06,Sales,high,Vehicle or product,2185.9788732394363,department (thin)
+NSW06,Sales,high,Process and facilities,10929.89436619718,department (thin)
+NSW06,Sales,high,Other,1092.9894366197182,department (thin)
+NSW07,Sales,low,Staff attitude,6752.657142857143,department (thin)
+NSW07,Sales,low,Communication and updates,5205.1732142857145,department (thin)
+NSW07,Sales,low,Wait time and turnaround,984.7625,department (thin)
+NSW07,Sales,low,Price and billing,3517.0089285714284,department (thin)
+NSW07,Sales,low,Work quality and fix,1406.8035714285713,department (thin)
+NSW07,Sales,low,Vehicle or product,281.36071428571427,department (thin)
+NSW07,Sales,low,Process and facilities,1406.8035714285713,department (thin)
+NSW07,Sales,low,Other,140.68035714285713,department (thin)
+NSW07,Sales,base,Staff attitude,16881.64285714286,department (thin)
+NSW07,Sales,base,Communication and updates,13012.933035714286,department (thin)
+NSW07,Sales,base,Wait time and turnaround,2461.90625,department (thin)
+NSW07,Sales,base,Price and billing,8792.522321428572,department (thin)
+NSW07,Sales,base,Work quality and fix,3517.0089285714284,department (thin)
+NSW07,Sales,base,Vehicle or product,703.4017857142857,department (thin)
+NSW07,Sales,base,Process and facilities,3517.0089285714284,department (thin)
+NSW07,Sales,base,Other,351.70089285714283,department (thin)
+NSW07,Sales,high,Staff attitude,50644.92857142857,department (thin)
+NSW07,Sales,high,Communication and updates,39038.799107142855,department (thin)
+NSW07,Sales,high,Wait time and turnaround,7385.71875,department (thin)
+NSW07,Sales,high,Price and billing,26377.566964285714,department (thin)
+NSW07,Sales,high,Work quality and fix,10551.026785714284,department (thin)
+NSW07,Sales,high,Vehicle or product,2110.205357142857,department (thin)
+NSW07,Sales,high,Process and facilities,10551.026785714284,department (thin)
+NSW07,Sales,high,Other,1055.1026785714284,department (thin)
+QLD01,Sales,low,Staff attitude,23483.00917431193,department (thin)
+QLD01,Sales,low,Communication and updates,18101.486238532114,department (thin)
+QLD01,Sales,low,Wait time and turnaround,3424.6055045871567,department (thin)
+QLD01,Sales,low,Price and billing,12230.73394495413,department (thin)
+QLD01,Sales,low,Work quality and fix,4892.293577981652,department (thin)
+QLD01,Sales,low,Vehicle or product,978.4587155963304,department (thin)
+QLD01,Sales,low,Process and facilities,4892.293577981652,department (thin)
+QLD01,Sales,low,Other,489.2293577981652,department (thin)
+QLD01,Sales,base,Staff attitude,58707.52293577982,department (thin)
+QLD01,Sales,base,Communication and updates,45253.71559633028,department (thin)
+QLD01,Sales,base,Wait time and turnaround,8561.513761467892,department (thin)
+QLD01,Sales,base,Price and billing,30576.834862385327,department (thin)
+QLD01,Sales,base,Work quality and fix,12230.733944954129,department (thin)
+QLD01,Sales,base,Vehicle or product,2446.146788990826,department (thin)
+QLD01,Sales,base,Process and facilities,12230.733944954129,department (thin)
+QLD01,Sales,base,Other,1223.073394495413,department (thin)
+QLD01,Sales,high,Staff attitude,201282.93577981653,department (thin)
+QLD01,Sales,high,Communication and updates,155155.59633027526,department (thin)
+QLD01,Sales,high,Wait time and turnaround,29353.76146788991,department (thin)
+QLD01,Sales,high,Price and billing,104834.86238532112,department (thin)
+QLD01,Sales,high,Work quality and fix,41933.94495412844,department (thin)
+QLD01,Sales,high,Vehicle or product,8386.78899082569,department (thin)
+QLD01,Sales,high,Process and facilities,41933.94495412844,department (thin)
+QLD01,Sales,high,Other,4193.394495412845,department (thin)
+QLD02,Sales,low,Staff attitude,4423.246332046333,department (thin)
+QLD02,Sales,low,Communication and updates,3409.585714285715,department (thin)
+QLD02,Sales,low,Wait time and turnaround,645.0567567567568,department (thin)
+QLD02,Sales,low,Price and billing,2303.774131274132,department (thin)
+QLD02,Sales,low,Work quality and fix,921.5096525096526,department (thin)
+QLD02,Sales,low,Vehicle or product,184.3019305019305,department (thin)
+QLD02,Sales,low,Process and facilities,921.5096525096526,department (thin)
+QLD02,Sales,low,Other,92.15096525096526,department (thin)
+QLD02,Sales,base,Staff attitude,11058.11583011583,department (thin)
+QLD02,Sales,base,Communication and updates,8523.964285714286,department (thin)
+QLD02,Sales,base,Wait time and turnaround,1612.641891891892,department (thin)
+QLD02,Sales,base,Price and billing,5759.435328185329,department (thin)
+QLD02,Sales,base,Work quality and fix,2303.7741312741314,department (thin)
+QLD02,Sales,base,Vehicle or product,460.7548262548263,department (thin)
+QLD02,Sales,base,Process and facilities,2303.7741312741314,department (thin)
+QLD02,Sales,base,Other,230.37741312741315,department (thin)
+QLD02,Sales,high,Staff attitude,36860.3861003861,department (thin)
+QLD02,Sales,high,Communication and updates,28413.21428571429,department (thin)
+QLD02,Sales,high,Wait time and turnaround,5375.472972972973,department (thin)
+QLD02,Sales,high,Price and billing,19198.117760617763,department (thin)
+QLD02,Sales,high,Work quality and fix,7679.247104247104,department (thin)
+QLD02,Sales,high,Vehicle or product,1535.849420849421,department (thin)
+QLD02,Sales,high,Process and facilities,7679.247104247104,department (thin)
+QLD02,Sales,high,Other,767.9247104247105,department (thin)
+QLD03,Sales,low,Staff attitude,10578.421307506054,department (thin)
+QLD03,Sales,low,Communication and updates,8154.199757869251,department (thin)
+QLD03,Sales,low,Wait time and turnaround,1542.6864406779664,department (thin)
+QLD03,Sales,low,Price and billing,5509.594430992737,department (thin)
+QLD03,Sales,low,Work quality and fix,2203.837772397095,department (thin)
+QLD03,Sales,low,Vehicle or product,440.76755447941895,department (thin)
+QLD03,Sales,low,Process and facilities,2203.837772397095,department (thin)
+QLD03,Sales,low,Other,220.38377723970947,department (thin)
+QLD03,Sales,base,Staff attitude,26446.053268765136,department (thin)
+QLD03,Sales,base,Communication and updates,20385.499394673127,department (thin)
+QLD03,Sales,base,Wait time and turnaround,3856.716101694916,department (thin)
+QLD03,Sales,base,Price and billing,13773.98607748184,department (thin)
+QLD03,Sales,base,Work quality and fix,5509.594430992736,department (thin)
+QLD03,Sales,base,Vehicle or product,1101.9188861985472,department (thin)
+QLD03,Sales,base,Process and facilities,5509.594430992736,department (thin)
+QLD03,Sales,base,Other,550.9594430992736,department (thin)
+QLD03,Sales,high,Staff attitude,96968.86198547216,department (thin)
+QLD03,Sales,high,Communication and updates,74746.83111380145,department (thin)
+QLD03,Sales,high,Wait time and turnaround,14141.292372881357,department (thin)
+QLD03,Sales,high,Price and billing,50504.61561743342,department (thin)
+QLD03,Sales,high,Work quality and fix,20201.846246973364,department (thin)
+QLD03,Sales,high,Vehicle or product,4040.3692493946733,department (thin)
+QLD03,Sales,high,Process and facilities,20201.846246973364,department (thin)
+QLD03,Sales,high,Other,2020.1846246973366,department (thin)
+QLD04,Sales,low,Staff attitude,23685.050420168067,department (thin)
+QLD04,Sales,low,Communication and updates,18257.226365546216,department (thin)
+QLD04,Sales,low,Wait time and turnaround,3454.0698529411766,department (thin)
+QLD04,Sales,low,Price and billing,12335.9637605042,department (thin)
+QLD04,Sales,low,Work quality and fix,4934.38550420168,department (thin)
+QLD04,Sales,low,Vehicle or product,986.8771008403361,department (thin)
+QLD04,Sales,low,Process and facilities,4934.38550420168,department (thin)
+QLD04,Sales,low,Other,493.43855042016804,department (thin)
+QLD04,Sales,base,Staff attitude,59212.62605042017,department (thin)
+QLD04,Sales,base,Communication and updates,45643.06591386555,department (thin)
+QLD04,Sales,base,Wait time and turnaround,8635.174632352942,department (thin)
+QLD04,Sales,base,Price and billing,30839.909401260506,department (thin)
+QLD04,Sales,base,Work quality and fix,12335.9637605042,department (thin)
+QLD04,Sales,base,Vehicle or product,2467.19275210084,department (thin)
+QLD04,Sales,base,Process and facilities,12335.9637605042,department (thin)
+QLD04,Sales,base,Other,1233.59637605042,department (thin)
+QLD04,Sales,high,Staff attitude,157900.3361344538,department (thin)
+QLD04,Sales,high,Communication and updates,121714.8424369748,department (thin)
+QLD04,Sales,high,Wait time and turnaround,23027.13235294118,department (thin)
+QLD04,Sales,high,Price and billing,82239.75840336135,department (thin)
+QLD04,Sales,high,Work quality and fix,32895.903361344535,department (thin)
+QLD04,Sales,high,Vehicle or product,6579.180672268908,department (thin)
+QLD04,Sales,high,Process and facilities,32895.903361344535,department (thin)
+QLD04,Sales,high,Other,3289.590336134454,department (thin)
+QLD05,Sales,low,Staff attitude,5398.351885714286,department (thin)
+QLD05,Sales,low,Communication and updates,4161.229578571429,department (thin)
+QLD05,Sales,low,Wait time and turnaround,787.2596500000001,department (thin)
+QLD05,Sales,low,Price and billing,2811.6416071428575,department (thin)
+QLD05,Sales,low,Work quality and fix,1124.656642857143,department (thin)
+QLD05,Sales,low,Vehicle or product,224.9313285714286,department (thin)
+QLD05,Sales,low,Process and facilities,1124.656642857143,department (thin)
+QLD05,Sales,low,Other,112.4656642857143,department (thin)
+QLD05,Sales,base,Staff attitude,13495.879714285717,department (thin)
+QLD05,Sales,base,Communication and updates,10403.073946428573,department (thin)
+QLD05,Sales,base,Wait time and turnaround,1968.1491250000004,department (thin)
+QLD05,Sales,base,Price and billing,7029.104017857144,department (thin)
+QLD05,Sales,base,Work quality and fix,2811.6416071428575,department (thin)
+QLD05,Sales,base,Vehicle or product,562.3283214285715,department (thin)
+QLD05,Sales,base,Process and facilities,2811.6416071428575,department (thin)
+QLD05,Sales,base,Other,281.16416071428574,department (thin)
+QLD05,Sales,high,Staff attitude,43828.20342857143,department (thin)
+QLD05,Sales,high,Communication and updates,33784.24014285715,department (thin)
+QLD05,Sales,high,Wait time and turnaround,6391.613000000001,department (thin)
+QLD05,Sales,high,Price and billing,22827.18928571429,department (thin)
+QLD05,Sales,high,Work quality and fix,9130.875714285714,department (thin)
+QLD05,Sales,high,Vehicle or product,1826.1751428571429,department (thin)
+QLD05,Sales,high,Process and facilities,9130.875714285714,department (thin)
+QLD05,Sales,high,Other,913.0875714285714,department (thin)
+QLD06,Sales,low,Staff attitude,6140.996228571429,department (thin)
+QLD06,Sales,low,Communication and updates,4733.684592857143,department (thin)
+QLD06,Sales,low,Wait time and turnaround,895.5619500000001,department (thin)
+QLD06,Sales,low,Price and billing,3198.435535714286,department (thin)
+QLD06,Sales,low,Work quality and fix,1279.3742142857143,department (thin)
+QLD06,Sales,low,Vehicle or product,255.87484285714288,department (thin)
+QLD06,Sales,low,Process and facilities,1279.3742142857143,department (thin)
+QLD06,Sales,low,Other,127.93742142857144,department (thin)
+QLD06,Sales,base,Staff attitude,15352.490571428572,department (thin)
+QLD06,Sales,base,Communication and updates,11834.211482142859,department (thin)
+QLD06,Sales,base,Wait time and turnaround,2238.904875,department (thin)
+QLD06,Sales,base,Price and billing,7996.088839285715,department (thin)
+QLD06,Sales,base,Work quality and fix,3198.435535714286,department (thin)
+QLD06,Sales,base,Vehicle or product,639.6871071428571,department (thin)
+QLD06,Sales,base,Process and facilities,3198.435535714286,department (thin)
+QLD06,Sales,base,Other,319.8435535714286,department (thin)
+QLD06,Sales,high,Staff attitude,49857.59314285715,department (thin)
+QLD06,Sales,high,Communication and updates,38431.894714285714,department (thin)
+QLD06,Sales,high,Wait time and turnaround,7270.899000000001,department (thin)
+QLD06,Sales,high,Price and billing,25967.49642857143,department (thin)
+QLD06,Sales,high,Work quality and fix,10386.998571428572,department (thin)
+QLD06,Sales,high,Vehicle or product,2077.3997142857143,department (thin)
+QLD06,Sales,high,Process and facilities,10386.998571428572,department (thin)
+QLD06,Sales,high,Other,1038.6998571428571,department (thin)
+QLD07,Sales,low,Staff attitude,3364.5120000000006,department (thin)
+QLD07,Sales,low,Communication and updates,2593.4780000000005,department (thin)
+QLD07,Sales,low,Wait time and turnaround,490.65800000000013,department (thin)
+QLD07,Sales,low,Price and billing,1752.3500000000004,department (thin)
+QLD07,Sales,low,Work quality and fix,700.94,department (thin)
+QLD07,Sales,low,Vehicle or product,140.18800000000002,department (thin)
+QLD07,Sales,low,Process and facilities,700.94,department (thin)
+QLD07,Sales,low,Other,70.09400000000001,department (thin)
+QLD07,Sales,base,Staff attitude,8411.280000000002,department (thin)
+QLD07,Sales,base,Communication and updates,6483.6950000000015,department (thin)
+QLD07,Sales,base,Wait time and turnaround,1226.6450000000002,department (thin)
+QLD07,Sales,base,Price and billing,4380.875000000001,department (thin)
+QLD07,Sales,base,Work quality and fix,1752.3500000000004,department (thin)
+QLD07,Sales,base,Vehicle or product,350.4700000000001,department (thin)
+QLD07,Sales,base,Process and facilities,1752.3500000000004,department (thin)
+QLD07,Sales,base,Other,175.23500000000004,department (thin)
+QLD07,Sales,high,Staff attitude,27315.840000000004,department (thin)
+QLD07,Sales,high,Communication and updates,21055.960000000003,department (thin)
+QLD07,Sales,high,Wait time and turnaround,3983.560000000001,department (thin)
+QLD07,Sales,high,Price and billing,14227.000000000002,department (thin)
+QLD07,Sales,high,Work quality and fix,5690.8,department (thin)
+QLD07,Sales,high,Vehicle or product,1138.16,department (thin)
+QLD07,Sales,high,Process and facilities,5690.8,department (thin)
+QLD07,Sales,high,Other,569.08,department (thin)
+QLD08,Sales,low,Staff attitude,6498.9171428571435,department (thin)
+QLD08,Sales,low,Communication and updates,5009.581964285715,department (thin)
+QLD08,Sales,low,Wait time and turnaround,947.7587500000002,department (thin)
+QLD08,Sales,low,Price and billing,3384.8526785714294,department (thin)
+QLD08,Sales,low,Work quality and fix,1353.9410714285716,department (thin)
+QLD08,Sales,low,Vehicle or product,270.78821428571433,department (thin)
+QLD08,Sales,low,Process and facilities,1353.9410714285716,department (thin)
+QLD08,Sales,low,Other,135.39410714285717,department (thin)
+QLD08,Sales,base,Staff attitude,16247.29285714286,department (thin)
+QLD08,Sales,base,Communication and updates,12523.954910714288,department (thin)
+QLD08,Sales,base,Wait time and turnaround,2369.3968750000004,department (thin)
+QLD08,Sales,base,Price and billing,8462.131696428572,department (thin)
+QLD08,Sales,base,Work quality and fix,3384.852678571429,department (thin)
+QLD08,Sales,base,Vehicle or product,676.9705357142858,department (thin)
+QLD08,Sales,base,Process and facilities,3384.852678571429,department (thin)
+QLD08,Sales,base,Other,338.4852678571429,department (thin)
+QLD08,Sales,high,Staff attitude,52763.485714285714,department (thin)
+QLD08,Sales,high,Communication and updates,40671.853571428575,department (thin)
+QLD08,Sales,high,Wait time and turnaround,7694.675,department (thin)
+QLD08,Sales,high,Price and billing,27480.982142857145,department (thin)
+QLD08,Sales,high,Work quality and fix,10992.392857142857,department (thin)
+QLD08,Sales,high,Vehicle or product,2198.4785714285713,department (thin)
+QLD08,Sales,high,Process and facilities,10992.392857142857,department (thin)
+QLD08,Sales,high,Other,1099.2392857142856,department (thin)
+VIC01,Sales,low,Staff attitude,9275.231527093596,department (thin)
+VIC01,Sales,low,Communication and updates,7149.657635467981,department (thin)
+VIC01,Sales,low,Wait time and turnaround,1352.6379310344828,department (thin)
+VIC01,Sales,low,Price and billing,4830.8497536945815,department (thin)
+VIC01,Sales,low,Work quality and fix,1932.3399014778324,department (thin)
+VIC01,Sales,low,Vehicle or product,386.4679802955665,department (thin)
+VIC01,Sales,low,Process and facilities,1932.3399014778324,department (thin)
+VIC01,Sales,low,Other,193.23399014778326,department (thin)
+VIC01,Sales,base,Staff attitude,23188.078817733993,department (thin)
+VIC01,Sales,base,Communication and updates,17874.144088669953,department (thin)
+VIC01,Sales,base,Wait time and turnaround,3381.5948275862074,department (thin)
+VIC01,Sales,base,Price and billing,12077.124384236455,department (thin)
+VIC01,Sales,base,Work quality and fix,4830.8497536945815,department (thin)
+VIC01,Sales,base,Vehicle or product,966.1699507389163,department (thin)
+VIC01,Sales,base,Process and facilities,4830.8497536945815,department (thin)
+VIC01,Sales,base,Other,483.08497536945816,department (thin)
+VIC01,Sales,high,Staff attitude,100481.67487684729,department (thin)
+VIC01,Sales,high,Communication and updates,77454.62438423645,department (thin)
+VIC01,Sales,high,Wait time and turnaround,14653.577586206897,department (thin)
+VIC01,Sales,high,Price and billing,52334.20566502463,department (thin)
+VIC01,Sales,high,Work quality and fix,20933.68226600985,department (thin)
+VIC01,Sales,high,Vehicle or product,4186.73645320197,department (thin)
+VIC01,Sales,high,Process and facilities,20933.68226600985,department (thin)
+VIC01,Sales,high,Other,2093.368226600985,department (thin)
+VIC02,Sales,low,Staff attitude,6897.861818181818,department (thin)
+VIC02,Sales,low,Communication and updates,5317.101818181819,department (thin)
+VIC02,Sales,low,Wait time and turnaround,1005.9381818181819,department (thin)
+VIC02,Sales,low,Price and billing,3592.636363636364,department (thin)
+VIC02,Sales,low,Work quality and fix,1437.0545454545454,department (thin)
+VIC02,Sales,low,Vehicle or product,287.4109090909091,department (thin)
+VIC02,Sales,low,Process and facilities,1437.0545454545454,department (thin)
+VIC02,Sales,low,Other,143.70545454545456,department (thin)
+VIC02,Sales,base,Staff attitude,17244.654545454545,department (thin)
+VIC02,Sales,base,Communication and updates,13292.754545454545,department (thin)
+VIC02,Sales,base,Wait time and turnaround,2514.8454545454547,department (thin)
+VIC02,Sales,base,Price and billing,8981.590909090908,department (thin)
+VIC02,Sales,base,Work quality and fix,3592.636363636363,department (thin)
+VIC02,Sales,base,Vehicle or product,718.5272727272727,department (thin)
+VIC02,Sales,base,Process and facilities,3592.636363636363,department (thin)
+VIC02,Sales,base,Other,359.26363636363635,department (thin)
+VIC02,Sales,high,Staff attitude,86223.27272727274,department (thin)
+VIC02,Sales,high,Communication and updates,66463.77272727274,department (thin)
+VIC02,Sales,high,Wait time and turnaround,12574.227272727274,department (thin)
+VIC02,Sales,high,Price and billing,44907.95454545455,department (thin)
+VIC02,Sales,high,Work quality and fix,17963.18181818182,department (thin)
+VIC02,Sales,high,Vehicle or product,3592.636363636364,department (thin)
+VIC02,Sales,high,Process and facilities,17963.18181818182,department (thin)
+VIC02,Sales,high,Other,1796.318181818182,department (thin)
+VIC03,Sales,low,Staff attitude,2807.973960216998,department (thin)
+VIC03,Sales,low,Communication and updates,2164.4799276672693,department (thin)
+VIC03,Sales,low,Wait time and turnaround,409.49620253164557,department (thin)
+VIC03,Sales,low,Price and billing,1462.4864376130197,department (thin)
+VIC03,Sales,low,Work quality and fix,584.9945750452079,department (thin)
+VIC03,Sales,low,Vehicle or product,116.99891500904158,department (thin)
+VIC03,Sales,low,Process and facilities,584.9945750452079,department (thin)
+VIC03,Sales,low,Other,58.49945750452079,department (thin)
+VIC03,Sales,base,Staff attitude,7019.934900542495,department (thin)
+VIC03,Sales,base,Communication and updates,5411.199819168173,department (thin)
+VIC03,Sales,base,Wait time and turnaround,1023.7405063291139,department (thin)
+VIC03,Sales,base,Price and billing,3656.2160940325493,department (thin)
+VIC03,Sales,base,Work quality and fix,1462.4864376130197,department (thin)
+VIC03,Sales,base,Vehicle or product,292.4972875226039,department (thin)
+VIC03,Sales,base,Process and facilities,1462.4864376130197,department (thin)
+VIC03,Sales,base,Other,146.24864376130196,department (thin)
+VIC03,Sales,high,Staff attitude,42119.60940325498,department (thin)
+VIC03,Sales,high,Communication and updates,32467.19891500905,department (thin)
+VIC03,Sales,high,Wait time and turnaround,6142.443037974685,department (thin)
+VIC03,Sales,high,Price and billing,21937.2965641953,department (thin)
+VIC03,Sales,high,Work quality and fix,8774.91862567812,department (thin)
+VIC03,Sales,high,Vehicle or product,1754.9837251356241,department (thin)
+VIC03,Sales,high,Process and facilities,8774.91862567812,department (thin)
+VIC03,Sales,high,Other,877.4918625678121,department (thin)
+VIC04,Sales,low,Staff attitude,12596.878464818761,department (thin)
+VIC04,Sales,low,Communication and updates,9710.09381663113,department (thin)
+VIC04,Sales,low,Wait time and turnaround,1837.0447761194027,department (thin)
+VIC04,Sales,low,Price and billing,6560.874200426439,department (thin)
+VIC04,Sales,low,Work quality and fix,2624.349680170575,department (thin)
+VIC04,Sales,low,Vehicle or product,524.8699360341151,department (thin)
+VIC04,Sales,low,Process and facilities,2624.349680170575,department (thin)
+VIC04,Sales,low,Other,262.43496801705754,department (thin)
+VIC04,Sales,base,Staff attitude,31492.19616204691,department (thin)
+VIC04,Sales,base,Communication and updates,24275.234541577825,department (thin)
+VIC04,Sales,base,Wait time and turnaround,4592.611940298508,department (thin)
+VIC04,Sales,base,Price and billing,16402.1855010661,department (thin)
+VIC04,Sales,base,Work quality and fix,6560.874200426439,department (thin)
+VIC04,Sales,base,Vehicle or product,1312.1748400852878,department (thin)
+VIC04,Sales,base,Process and facilities,6560.874200426439,department (thin)
+VIC04,Sales,base,Other,656.0874200426439,department (thin)
+VIC04,Sales,high,Staff attitude,94476.58848614074,department (thin)
+VIC04,Sales,high,Communication and updates,72825.70362473348,department (thin)
+VIC04,Sales,high,Wait time and turnaround,13777.835820895525,department (thin)
+VIC04,Sales,high,Price and billing,49206.5565031983,department (thin)
+VIC04,Sales,high,Work quality and fix,19682.62260127932,department (thin)
+VIC04,Sales,high,Vehicle or product,3936.524520255864,department (thin)
+VIC04,Sales,high,Process and facilities,19682.62260127932,department (thin)
+VIC04,Sales,high,Other,1968.262260127932,department (thin)
+VIC05,Sales,low,Staff attitude,22168.911317254177,department (thin)
+VIC05,Sales,low,Communication and updates,17088.535807050095,department (thin)
+VIC05,Sales,low,Wait time and turnaround,3232.966233766234,department (thin)
+VIC05,Sales,low,Price and billing,11546.30797773655,department (thin)
+VIC05,Sales,low,Work quality and fix,4618.5231910946195,department (thin)
+VIC05,Sales,low,Vehicle or product,923.704638218924,department (thin)
+VIC05,Sales,low,Process and facilities,4618.5231910946195,department (thin)
+VIC05,Sales,low,Other,461.852319109462,department (thin)
+VIC05,Sales,base,Staff attitude,55422.278293135445,department (thin)
+VIC05,Sales,base,Communication and updates,42721.33951762524,department (thin)
+VIC05,Sales,base,Wait time and turnaround,8082.415584415587,department (thin)
+VIC05,Sales,base,Price and billing,28865.76994434138,department (thin)
+VIC05,Sales,base,Work quality and fix,11546.307977736551,department (thin)
+VIC05,Sales,base,Vehicle or product,2309.26159554731,department (thin)
+VIC05,Sales,base,Process and facilities,11546.307977736551,department (thin)
+VIC05,Sales,base,Other,1154.630797773655,department (thin)
+VIC05,Sales,high,Staff attitude,159339.0500927644,department (thin)
+VIC05,Sales,high,Communication and updates,122823.85111317255,department (thin)
+VIC05,Sales,high,Wait time and turnaround,23236.94480519481,department (thin)
+VIC05,Sales,high,Price and billing,82989.08858998146,department (thin)
+VIC05,Sales,high,Work quality and fix,33195.63543599258,department (thin)
+VIC05,Sales,high,Vehicle or product,6639.127087198516,department (thin)
+VIC05,Sales,high,Process and facilities,33195.63543599258,department (thin)
+VIC05,Sales,high,Other,3319.563543599258,department (thin)
+VIC06,Sales,low,Staff attitude,7593.416149068324,department (thin)
+VIC06,Sales,low,Communication and updates,5853.2582815734995,department (thin)
+VIC06,Sales,low,Wait time and turnaround,1107.3731884057972,department (thin)
+VIC06,Sales,low,Price and billing,3954.9042443064186,department (thin)
+VIC06,Sales,low,Work quality and fix,1581.9616977225674,department (thin)
+VIC06,Sales,low,Vehicle or product,316.39233954451345,department (thin)
+VIC06,Sales,low,Process and facilities,1581.9616977225674,department (thin)
+VIC06,Sales,low,Other,158.19616977225672,department (thin)
+VIC06,Sales,base,Staff attitude,18983.540372670806,department (thin)
+VIC06,Sales,base,Communication and updates,14633.145703933747,department (thin)
+VIC06,Sales,base,Wait time and turnaround,2768.432971014493,department (thin)
+VIC06,Sales,base,Price and billing,9887.260610766047,department (thin)
+VIC06,Sales,base,Work quality and fix,3954.904244306418,department (thin)
+VIC06,Sales,base,Vehicle or product,790.9808488612837,department (thin)
+VIC06,Sales,base,Process and facilities,3954.904244306418,department (thin)
+VIC06,Sales,base,Other,395.49042443064184,department (thin)
+VIC06,Sales,high,Staff attitude,60747.32919254659,department (thin)
+VIC06,Sales,high,Communication and updates,46826.066252587996,department (thin)
+VIC06,Sales,high,Wait time and turnaround,8858.985507246378,department (thin)
+VIC06,Sales,high,Price and billing,31639.23395445135,department (thin)
+VIC06,Sales,high,Work quality and fix,12655.693581780539,department (thin)
+VIC06,Sales,high,Vehicle or product,2531.1387163561076,department (thin)
+VIC06,Sales,high,Process and facilities,12655.693581780539,department (thin)
+VIC06,Sales,high,Other,1265.5693581780538,department (thin)
+VIC07,Sales,low,Staff attitude,8821.489461358315,department (thin)
+VIC07,Sales,low,Communication and updates,6799.8981264637005,department (thin)
+VIC07,Sales,low,Wait time and turnaround,1286.4672131147543,department (thin)
+VIC07,Sales,low,Price and billing,4594.525761124122,department (thin)
+VIC07,Sales,low,Work quality and fix,1837.8103044496486,department (thin)
+VIC07,Sales,low,Vehicle or product,367.56206088992974,department (thin)
+VIC07,Sales,low,Process and facilities,1837.8103044496486,department (thin)
+VIC07,Sales,low,Other,183.78103044496487,department (thin)
+VIC07,Sales,base,Staff attitude,22053.723653395784,department (thin)
+VIC07,Sales,base,Communication and updates,16999.745316159253,department (thin)
+VIC07,Sales,base,Wait time and turnaround,3216.1680327868853,department (thin)
+VIC07,Sales,base,Price and billing,11486.314402810305,department (thin)
+VIC07,Sales,base,Work quality and fix,4594.525761124121,department (thin)
+VIC07,Sales,base,Vehicle or product,918.9051522248243,department (thin)
+VIC07,Sales,base,Process and facilities,4594.525761124121,department (thin)
+VIC07,Sales,base,Other,459.45257611241215,department (thin)
+VIC07,Sales,high,Staff attitude,70571.91569086652,department (thin)
+VIC07,Sales,high,Communication and updates,54399.185011709604,department (thin)
+VIC07,Sales,high,Wait time and turnaround,10291.737704918034,department (thin)
+VIC07,Sales,high,Price and billing,36756.20608899298,department (thin)
+VIC07,Sales,high,Work quality and fix,14702.482435597189,department (thin)
+VIC07,Sales,high,Vehicle or product,2940.496487119438,department (thin)
+VIC07,Sales,high,Process and facilities,14702.482435597189,department (thin)
+VIC07,Sales,high,Other,1470.248243559719,department (thin)
+VIC08,Sales,low,Staff attitude,1685.9035714285715,department (thin)
+VIC08,Sales,low,Communication and updates,1299.5506696428572,department (thin)
+VIC08,Sales,low,Wait time and turnaround,245.8609375,department (thin)
+VIC08,Sales,low,Price and billing,878.0747767857143,department (thin)
+VIC08,Sales,low,Work quality and fix,351.2299107142857,department (thin)
+VIC08,Sales,low,Vehicle or product,70.24598214285714,department (thin)
+VIC08,Sales,low,Process and facilities,351.2299107142857,department (thin)
+VIC08,Sales,low,Other,35.12299107142857,department (thin)
+VIC08,Sales,base,Staff attitude,4214.758928571428,department (thin)
+VIC08,Sales,base,Communication and updates,3248.876674107143,department (thin)
+VIC08,Sales,base,Wait time and turnaround,614.65234375,department (thin)
+VIC08,Sales,base,Price and billing,2195.186941964286,department (thin)
+VIC08,Sales,base,Work quality and fix,878.0747767857142,department (thin)
+VIC08,Sales,base,Vehicle or product,175.61495535714286,department (thin)
+VIC08,Sales,base,Process and facilities,878.0747767857142,department (thin)
+VIC08,Sales,base,Other,87.80747767857143,department (thin)
+VIC08,Sales,high,Staff attitude,33718.07142857143,department (thin)
+VIC08,Sales,high,Communication and updates,25991.013392857145,department (thin)
+VIC08,Sales,high,Wait time and turnaround,4917.21875,department (thin)
+VIC08,Sales,high,Price and billing,17561.495535714286,department (thin)
+VIC08,Sales,high,Work quality and fix,7024.598214285714,department (thin)
+VIC08,Sales,high,Vehicle or product,1404.919642857143,department (thin)
+VIC08,Sales,high,Process and facilities,7024.598214285714,department (thin)
+VIC08,Sales,high,Other,702.4598214285714,department (thin)
+VIC09,Sales,low,Staff attitude,2560.782857142857,department (thin)
+VIC09,Sales,low,Communication and updates,1973.9367857142856,department (thin)
+VIC09,Sales,low,Wait time and turnaround,373.4475,department (thin)
+VIC09,Sales,low,Price and billing,1333.7410714285713,department (thin)
+VIC09,Sales,low,Work quality and fix,533.4964285714285,department (thin)
+VIC09,Sales,low,Vehicle or product,106.69928571428571,department (thin)
+VIC09,Sales,low,Process and facilities,533.4964285714285,department (thin)
+VIC09,Sales,low,Other,53.349642857142854,department (thin)
+VIC09,Sales,base,Staff attitude,6401.957142857143,department (thin)
+VIC09,Sales,base,Communication and updates,4934.841964285714,department (thin)
+VIC09,Sales,base,Wait time and turnaround,933.6187500000001,department (thin)
+VIC09,Sales,base,Price and billing,3334.3526785714284,department (thin)
+VIC09,Sales,base,Work quality and fix,1333.7410714285713,department (thin)
+VIC09,Sales,base,Vehicle or product,266.74821428571425,department (thin)
+VIC09,Sales,base,Process and facilities,1333.7410714285713,department (thin)
+VIC09,Sales,base,Other,133.37410714285713,department (thin)
+VIC09,Sales,high,Staff attitude,20790.514285714286,department (thin)
+VIC09,Sales,high,Communication and updates,16026.021428571428,department (thin)
+VIC09,Sales,high,Wait time and turnaround,3031.9500000000003,department (thin)
+VIC09,Sales,high,Price and billing,10828.392857142857,department (thin)
+VIC09,Sales,high,Work quality and fix,4331.357142857142,department (thin)
+VIC09,Sales,high,Vehicle or product,866.2714285714286,department (thin)
+VIC09,Sales,high,Process and facilities,4331.357142857142,department (thin)
+VIC09,Sales,high,Other,433.1357142857143,department (thin)
+NSW01,Service,low,Staff attitude,882.8360741081,cell
+NSW01,Service,low,Communication and updates,17656.721482161996,cell
+NSW01,Service,low,Wait time and turnaround,28250.7543714592,cell
+NSW01,Service,low,Price and billing,15008.2132598377,cell
+NSW01,Service,low,Work quality and fix,12359.705037513399,cell
+NSW01,Service,low,Vehicle or product,0.0,cell
+NSW01,Service,low,Process and facilities,18539.557556270098,cell
+NSW01,Service,low,Other,0.0,cell
+NSW01,Service,base,Staff attitude,1765.6721482162,cell
+NSW01,Service,base,Communication and updates,35313.44296432399,cell
+NSW01,Service,base,Wait time and turnaround,56501.5087429184,cell
+NSW01,Service,base,Price and billing,30016.4265196754,cell
+NSW01,Service,base,Work quality and fix,24719.410075026797,cell
+NSW01,Service,base,Vehicle or product,0.0,cell
+NSW01,Service,base,Process and facilities,37079.115112540196,cell
+NSW01,Service,base,Other,0.0,cell
+NSW01,Service,high,Staff attitude,5062.63518603583,cell
+NSW01,Service,high,Communication and updates,101252.70372071657,cell
+NSW01,Service,high,Wait time and turnaround,162004.32595314656,cell
+NSW01,Service,high,Price and billing,86064.7981626091,cell
+NSW01,Service,high,Work quality and fix,70876.89260450161,cell
+NSW01,Service,high,Vehicle or product,0.0,cell
+NSW01,Service,high,Process and facilities,106315.33890675241,cell
+NSW01,Service,high,Other,0.0,cell
+NSW02,Service,low,Staff attitude,4056.0565721997305,cell
+NSW02,Service,low,Communication and updates,19266.26871794872,cell
+NSW02,Service,low,Wait time and turnaround,21294.297004048585,cell
+NSW02,Service,low,Price and billing,5070.070715249663,cell
+NSW02,Service,low,Work quality and fix,5070.070715249663,cell
+NSW02,Service,low,Vehicle or product,0.0,cell
+NSW02,Service,low,Process and facilities,11154.155573549258,cell
+NSW02,Service,low,Other,0.0,cell
+NSW02,Service,base,Staff attitude,8112.113144399461,cell
+NSW02,Service,base,Communication and updates,38532.53743589744,cell
+NSW02,Service,base,Wait time and turnaround,42588.59400809717,cell
+NSW02,Service,base,Price and billing,10140.141430499327,cell
+NSW02,Service,base,Work quality and fix,10140.141430499327,cell
+NSW02,Service,base,Vehicle or product,0.0,cell
+NSW02,Service,base,Process and facilities,22308.311147098517,cell
+NSW02,Service,base,Other,0.0,cell
+NSW02,Service,high,Staff attitude,23765.06385964913,cell
+NSW02,Service,high,Communication and updates,112884.05333333336,cell
+NSW02,Service,high,Wait time and turnaround,124766.58526315793,cell
+NSW02,Service,high,Price and billing,29706.329824561413,cell
+NSW02,Service,high,Work quality and fix,29706.329824561413,cell
+NSW02,Service,high,Vehicle or product,0.0,cell
+NSW02,Service,high,Process and facilities,65353.925614035106,cell
+NSW02,Service,high,Other,0.0,cell
+NSW03,Service,low,Staff attitude,2819.1333333333337,cell
+NSW03,Service,low,Communication and updates,20673.644444444446,cell
+NSW03,Service,low,Wait time and turnaround,11276.533333333335,cell
+NSW03,Service,low,Price and billing,5638.266666666667,cell
+NSW03,Service,low,Work quality and fix,4698.555555555557,cell
+NSW03,Service,low,Vehicle or product,939.7111111111111,cell
+NSW03,Service,low,Process and facilities,3758.8444444444444,cell
+NSW03,Service,low,Other,0.0,cell
+NSW03,Service,base,Staff attitude,5638.266666666667,cell
+NSW03,Service,base,Communication and updates,41347.28888888889,cell
+NSW03,Service,base,Wait time and turnaround,22553.06666666667,cell
+NSW03,Service,base,Price and billing,11276.533333333335,cell
+NSW03,Service,base,Work quality and fix,9397.111111111113,cell
+NSW03,Service,base,Vehicle or product,1879.4222222222222,cell
+NSW03,Service,base,Process and facilities,7517.688888888889,cell
+NSW03,Service,base,Other,0.0,cell
+NSW03,Service,high,Staff attitude,14699.76666666667,cell
+NSW03,Service,high,Communication and updates,107798.28888888891,cell
+NSW03,Service,high,Wait time and turnaround,58799.06666666668,cell
+NSW03,Service,high,Price and billing,29399.53333333334,cell
+NSW03,Service,high,Work quality and fix,24499.611111111117,cell
+NSW03,Service,high,Vehicle or product,4899.922222222222,cell
+NSW03,Service,high,Process and facilities,19599.68888888889,cell
+NSW03,Service,high,Other,0.0,cell
+NSW04,Service,low,Staff attitude,831.3291473195441,cell
+NSW04,Service,low,Communication and updates,13301.266357112705,cell
+NSW04,Service,low,Wait time and turnaround,13301.266357112705,cell
+NSW04,Service,low,Price and billing,4156.64573659772,cell
+NSW04,Service,low,Work quality and fix,3325.3165892781763,cell
+NSW04,Service,low,Vehicle or product,0.0,cell
+NSW04,Service,low,Process and facilities,3325.3165892781763,cell
+NSW04,Service,low,Other,0.0,cell
+NSW04,Service,base,Staff attitude,1662.6582946390881,cell
+NSW04,Service,base,Communication and updates,26602.53271422541,cell
+NSW04,Service,base,Wait time and turnaround,26602.53271422541,cell
+NSW04,Service,base,Price and billing,8313.29147319544,cell
+NSW04,Service,base,Work quality and fix,6650.6331785563525,cell
+NSW04,Service,base,Vehicle or product,0.0,cell
+NSW04,Service,base,Process and facilities,6650.6331785563525,cell
+NSW04,Service,base,Other,0.0,cell
+NSW04,Service,high,Staff attitude,4389.417897847193,cell
+NSW04,Service,high,Communication and updates,70230.68636555508,cell
+NSW04,Service,high,Wait time and turnaround,70230.68636555508,cell
+NSW04,Service,high,Price and billing,21947.089489235965,cell
+NSW04,Service,high,Work quality and fix,17557.67159138877,cell
+NSW04,Service,high,Vehicle or product,0.0,cell
+NSW04,Service,high,Process and facilities,17557.67159138877,cell
+NSW04,Service,high,Other,0.0,cell
+NSW05,Service,low,Staff attitude,847.1608333333335,cell
+NSW05,Service,low,Communication and updates,20331.86,cell
+NSW05,Service,low,Wait time and turnaround,8471.608333333335,cell
+NSW05,Service,low,Price and billing,5082.965,cell
+NSW05,Service,low,Work quality and fix,2541.4825,cell
+NSW05,Service,low,Vehicle or product,0.0,cell
+NSW05,Service,low,Process and facilities,5082.965,cell
+NSW05,Service,low,Other,0.0,cell
+NSW05,Service,base,Staff attitude,1694.321666666667,cell
+NSW05,Service,base,Communication and updates,40663.72,cell
+NSW05,Service,base,Wait time and turnaround,16943.21666666667,cell
+NSW05,Service,base,Price and billing,10165.93,cell
+NSW05,Service,base,Work quality and fix,5082.965,cell
+NSW05,Service,base,Vehicle or product,0.0,cell
+NSW05,Service,base,Process and facilities,10165.93,cell
+NSW05,Service,base,Other,0.0,cell
+NSW05,Service,high,Staff attitude,4667.376666666668,cell
+NSW05,Service,high,Communication and updates,112017.04000000001,cell
+NSW05,Service,high,Wait time and turnaround,46673.76666666668,cell
+NSW05,Service,high,Price and billing,28004.260000000002,cell
+NSW05,Service,high,Work quality and fix,14002.130000000001,cell
+NSW05,Service,high,Vehicle or product,0.0,cell
+NSW05,Service,high,Process and facilities,28004.260000000002,cell
+NSW05,Service,high,Other,0.0,cell
+NSW06,Service,low,Staff attitude,880.9160181123533,cell
+NSW06,Service,low,Communication and updates,7928.24416301118,cell
+NSW06,Service,low,Wait time and turnaround,11451.908235460593,cell
+NSW06,Service,low,Price and billing,6166.412126786473,cell
+NSW06,Service,low,Work quality and fix,2642.74805433706,cell
+NSW06,Service,low,Vehicle or product,880.9160181123533,cell
+NSW06,Service,low,Process and facilities,2642.74805433706,cell
+NSW06,Service,low,Other,0.0,cell
+NSW06,Service,base,Staff attitude,1761.8320362247066,cell
+NSW06,Service,base,Communication and updates,15856.48832602236,cell
+NSW06,Service,base,Wait time and turnaround,22903.816470921185,cell
+NSW06,Service,base,Price and billing,12332.824253572946,cell
+NSW06,Service,base,Work quality and fix,5285.49610867412,cell
+NSW06,Service,base,Vehicle or product,1761.8320362247066,cell
+NSW06,Service,base,Process and facilities,5285.49610867412,cell
+NSW06,Service,base,Other,0.0,cell
+NSW06,Service,high,Staff attitude,5782.423093250319,cell
+NSW06,Service,high,Communication and updates,52041.80783925287,cell
+NSW06,Service,high,Wait time and turnaround,75171.50021225415,cell
+NSW06,Service,high,Price and billing,40476.96165275223,cell
+NSW06,Service,high,Work quality and fix,17347.269279750955,cell
+NSW06,Service,high,Vehicle or product,5782.423093250319,cell
+NSW06,Service,high,Process and facilities,17347.269279750955,cell
+NSW06,Service,high,Other,0.0,cell
+NSW07,Service,low,Staff attitude,706.6996221662469,department (thin)
+NSW07,Service,low,Communication and updates,4096.462216624685,department (thin)
+NSW07,Service,low,Wait time and turnaround,3521.5201511335013,department (thin)
+NSW07,Service,low,Price and billing,1952.4074307304784,department (thin)
+NSW07,Service,low,Work quality and fix,2144.054785894207,department (thin)
+NSW07,Service,low,Vehicle or product,71.86775818639798,department (thin)
+NSW07,Service,low,Process and facilities,1760.7600755667506,department (thin)
+NSW07,Service,low,Other,11.977959697732997,department (thin)
+NSW07,Service,base,Staff attitude,1413.3992443324937,department (thin)
+NSW07,Service,base,Communication and updates,8192.92443324937,department (thin)
+NSW07,Service,base,Wait time and turnaround,7043.0403022670025,department (thin)
+NSW07,Service,base,Price and billing,3904.8148614609568,department (thin)
+NSW07,Service,base,Work quality and fix,4288.109571788414,department (thin)
+NSW07,Service,base,Vehicle or product,143.73551637279596,department (thin)
+NSW07,Service,base,Process and facilities,3521.5201511335013,department (thin)
+NSW07,Service,base,Other,23.955919395465994,department (thin)
+NSW07,Service,high,Staff attitude,5830.271882871537,department (thin)
+NSW07,Service,high,Communication and updates,33795.81328715365,department (thin)
+NSW07,Service,high,Wait time and turnaround,29052.541246851386,department (thin)
+NSW07,Service,high,Price and billing,16107.361303526448,department (thin)
+NSW07,Service,high,Work quality and fix,17688.451983627205,department (thin)
+NSW07,Service,high,Vehicle or product,592.9090050377833,department (thin)
+NSW07,Service,high,Process and facilities,14526.270623425693,department (thin)
+NSW07,Service,high,Other,98.81816750629723,department (thin)
+QLD01,Service,low,Staff attitude,3697.915605095541,cell
+QLD01,Service,low,Communication and updates,26809.88813694267,cell
+QLD01,Service,low,Wait time and turnaround,13867.18351910828,cell
+QLD01,Service,low,Price and billing,7395.831210191082,cell
+QLD01,Service,low,Work quality and fix,12942.704617834394,cell
+QLD01,Service,low,Vehicle or product,924.4789012738853,cell
+QLD01,Service,low,Process and facilities,8320.310111464967,cell
+QLD01,Service,low,Other,0.0,cell
+QLD01,Service,base,Staff attitude,7395.831210191082,cell
+QLD01,Service,base,Communication and updates,53619.77627388534,cell
+QLD01,Service,base,Wait time and turnaround,27734.36703821656,cell
+QLD01,Service,base,Price and billing,14791.662420382165,cell
+QLD01,Service,base,Work quality and fix,25885.409235668787,cell
+QLD01,Service,base,Vehicle or product,1848.9578025477706,cell
+QLD01,Service,base,Process and facilities,16640.620222929934,cell
+QLD01,Service,base,Other,0.0,cell
+QLD01,Service,high,Staff attitude,22952.579617834395,cell
+QLD01,Service,high,Communication and updates,166406.20222929935,cell
+QLD01,Service,high,Wait time and turnaround,86072.17356687898,cell
+QLD01,Service,high,Price and billing,45905.15923566879,cell
+QLD01,Service,high,Work quality and fix,80334.02866242037,cell
+QLD01,Service,high,Vehicle or product,5738.144904458599,cell
+QLD01,Service,high,Process and facilities,51643.30414012739,cell
+QLD01,Service,high,Other,0.0,cell
+QLD02,Service,low,Staff attitude,2652.356708407871,cell
+QLD02,Service,low,Communication and updates,13261.783542039355,cell
+QLD02,Service,low,Wait time and turnaround,6188.8323196183665,cell
+QLD02,Service,low,Price and billing,5304.713416815742,cell
+QLD02,Service,low,Work quality and fix,4420.594514013118,cell
+QLD02,Service,low,Vehicle or product,0.0,cell
+QLD02,Service,low,Process and facilities,6188.8323196183665,cell
+QLD02,Service,low,Other,0.0,cell
+QLD02,Service,base,Staff attitude,5304.713416815742,cell
+QLD02,Service,base,Communication and updates,26523.56708407871,cell
+QLD02,Service,base,Wait time and turnaround,12377.664639236733,cell
+QLD02,Service,base,Price and billing,10609.426833631484,cell
+QLD02,Service,base,Work quality and fix,8841.189028026236,cell
+QLD02,Service,base,Vehicle or product,0.0,cell
+QLD02,Service,base,Process and facilities,12377.664639236733,cell
+QLD02,Service,base,Other,0.0,cell
+QLD02,Service,high,Staff attitude,13838.382826475852,cell
+QLD02,Service,high,Communication and updates,69191.91413237926,cell
+QLD02,Service,high,Wait time and turnaround,32289.559928443658,cell
+QLD02,Service,high,Price and billing,27676.765652951704,cell
+QLD02,Service,high,Work quality and fix,23063.97137745975,cell
+QLD02,Service,high,Vehicle or product,0.0,cell
+QLD02,Service,high,Process and facilities,32289.559928443658,cell
+QLD02,Service,high,Other,0.0,cell
+QLD03,Service,low,Staff attitude,2151.8773658340333,department (thin)
+QLD03,Service,low,Communication and updates,12473.594222292193,department (thin)
+QLD03,Service,low,Wait time and turnaround,10722.914331444166,department (thin)
+QLD03,Service,low,Price and billing,5945.017129338092,department (thin)
+QLD03,Service,low,Work quality and fix,6528.577092954101,department (thin)
+QLD03,Service,low,Vehicle or product,218.83498635600338,department (thin)
+QLD03,Service,low,Process and facilities,5361.457165722083,department (thin)
+QLD03,Service,low,Other,36.47249772600056,department (thin)
+QLD03,Service,base,Staff attitude,4303.754731668067,department (thin)
+QLD03,Service,base,Communication and updates,24947.188444584386,department (thin)
+QLD03,Service,base,Wait time and turnaround,21445.828662888332,department (thin)
+QLD03,Service,base,Price and billing,11890.034258676184,department (thin)
+QLD03,Service,base,Work quality and fix,13057.154185908203,department (thin)
+QLD03,Service,base,Vehicle or product,437.66997271200677,department (thin)
+QLD03,Service,base,Process and facilities,10722.914331444166,department (thin)
+QLD03,Service,base,Other,72.94499545200112,department (thin)
+QLD03,Service,high,Staff attitude,10556.37953050658,department (thin)
+QLD03,Service,high,Communication and updates,61191.21693954661,department (thin)
+QLD03,Service,high,Wait time and turnaround,52602.97596557516,department (thin)
+QLD03,Service,high,Price and billing,29164.234974111398,department (thin)
+QLD03,Service,high,Work quality and fix,32026.981965435218,department (thin)
+QLD03,Service,high,Vehicle or product,1073.5301217464319,department (thin)
+QLD03,Service,high,Process and facilities,26301.48798278758,department (thin)
+QLD03,Service,high,Other,178.92168695773864,department (thin)
+QLD04,Service,low,Staff attitude,3026.109614293818,cell
+QLD04,Service,low,Communication and updates,14121.844866704485,cell
+QLD04,Service,low,Wait time and turnaround,9078.328842881454,cell
+QLD04,Service,low,Price and billing,4034.812819058424,cell
+QLD04,Service,low,Work quality and fix,8069.625638116848,cell
+QLD04,Service,low,Vehicle or product,0.0,cell
+QLD04,Service,low,Process and facilities,5043.51602382303,cell
+QLD04,Service,low,Other,0.0,cell
+QLD04,Service,base,Staff attitude,6052.219228587636,cell
+QLD04,Service,base,Communication and updates,28243.68973340897,cell
+QLD04,Service,base,Wait time and turnaround,18156.657685762908,cell
+QLD04,Service,base,Price and billing,8069.625638116848,cell
+QLD04,Service,base,Work quality and fix,16139.251276233696,cell
+QLD04,Service,base,Vehicle or product,0.0,cell
+QLD04,Service,base,Process and facilities,10087.03204764606,cell
+QLD04,Service,base,Other,0.0,cell
+QLD04,Service,high,Staff attitude,17753.17640385706,cell
+QLD04,Service,high,Communication and updates,82848.15655133297,cell
+QLD04,Service,high,Wait time and turnaround,53259.52921157119,cell
+QLD04,Service,high,Price and billing,23670.901871809416,cell
+QLD04,Service,high,Work quality and fix,47341.80374361883,cell
+QLD04,Service,high,Vehicle or product,0.0,cell
+QLD04,Service,high,Process and facilities,29588.62733976177,cell
+QLD04,Service,high,Other,0.0,cell
+QLD05,Service,low,Staff attitude,1161.0815583543242,department (thin)
+QLD05,Service,low,Communication and updates,6730.337168765744,department (thin)
+QLD05,Service,low,Wait time and turnaround,5785.728443324938,department (thin)
+QLD05,Service,low,Price and billing,3207.733796809404,department (thin)
+QLD05,Service,low,Work quality and fix,3522.6033719563397,department (thin)
+QLD05,Service,low,Vehicle or product,118.07609068010076,department (thin)
+QLD05,Service,low,Process and facilities,2892.864221662469,department (thin)
+QLD05,Service,low,Other,19.679348446683463,department (thin)
+QLD05,Service,base,Staff attitude,2322.1631167086484,department (thin)
+QLD05,Service,base,Communication and updates,13460.674337531487,department (thin)
+QLD05,Service,base,Wait time and turnaround,11571.456886649876,department (thin)
+QLD05,Service,base,Price and billing,6415.467593618808,department (thin)
+QLD05,Service,base,Work quality and fix,7045.2067439126795,department (thin)
+QLD05,Service,base,Vehicle or product,236.15218136020152,department (thin)
+QLD05,Service,base,Process and facilities,5785.728443324938,department (thin)
+QLD05,Service,base,Other,39.358696893366925,department (thin)
+QLD05,Service,high,Staff attitude,6642.069502938709,department (thin)
+QLD05,Service,high,Communication and updates,38501.487627204035,department (thin)
+QLD05,Service,high,Wait time and turnaround,33097.77006549119,department (thin)
+QLD05,Service,high,Price and billing,18350.12421998321,department (thin)
+QLD05,Service,high,Work quality and fix,20151.363407220826,department (thin)
+QLD05,Service,high,Vehicle or product,675.4646952141059,department (thin)
+QLD05,Service,high,Process and facilities,16548.885032745595,department (thin)
+QLD05,Service,high,Other,112.57744920235099,department (thin)
+QLD06,Service,low,Staff attitude,3775.4268689057426,cell
+QLD06,Service,low,Communication and updates,17618.658721560132,cell
+QLD06,Service,low,Wait time and turnaround,17618.658721560132,cell
+QLD06,Service,low,Price and billing,11326.280606717228,cell
+QLD06,Service,low,Work quality and fix,11326.280606717228,cell
+QLD06,Service,low,Vehicle or product,0.0,cell
+QLD06,Service,low,Process and facilities,3775.4268689057426,cell
+QLD06,Service,low,Other,0.0,cell
+QLD06,Service,base,Staff attitude,7550.853737811485,cell
+QLD06,Service,base,Communication and updates,35237.317443120264,cell
+QLD06,Service,base,Wait time and turnaround,35237.317443120264,cell
+QLD06,Service,base,Price and billing,22652.561213434456,cell
+QLD06,Service,base,Work quality and fix,22652.561213434456,cell
+QLD06,Service,base,Vehicle or product,0.0,cell
+QLD06,Service,base,Process and facilities,7550.853737811485,cell
+QLD06,Service,base,Other,0.0,cell
+QLD06,Service,high,Staff attitude,21304.19447453955,cell
+QLD06,Service,high,Communication and updates,99419.57421451788,cell
+QLD06,Service,high,Wait time and turnaround,99419.57421451788,cell
+QLD06,Service,high,Price and billing,63912.58342361864,cell
+QLD06,Service,high,Work quality and fix,63912.58342361864,cell
+QLD06,Service,high,Vehicle or product,0.0,cell
+QLD06,Service,high,Process and facilities,21304.19447453955,cell
+QLD06,Service,high,Other,0.0,cell
+QLD07,Service,low,Staff attitude,2496.8765295495964,cell
+QLD07,Service,low,Communication and updates,14148.967000781047,cell
+QLD07,Service,low,Wait time and turnaround,8322.921765165322,cell
+QLD07,Service,low,Price and billing,6658.337412132258,cell
+QLD07,Service,low,Work quality and fix,5826.045235615726,cell
+QLD07,Service,low,Vehicle or product,0.0,cell
+QLD07,Service,low,Process and facilities,832.2921765165322,cell
+QLD07,Service,low,Other,0.0,cell
+QLD07,Service,base,Staff attitude,4993.753059099193,cell
+QLD07,Service,base,Communication and updates,28297.934001562095,cell
+QLD07,Service,base,Wait time and turnaround,16645.843530330643,cell
+QLD07,Service,base,Price and billing,13316.674824264515,cell
+QLD07,Service,base,Work quality and fix,11652.090471231451,cell
+QLD07,Service,base,Vehicle or product,0.0,cell
+QLD07,Service,base,Process and facilities,1664.5843530330644,cell
+QLD07,Service,base,Other,0.0,cell
+QLD07,Service,high,Staff attitude,15087.509242384798,cell
+QLD07,Service,high,Communication and updates,85495.88570684718,cell
+QLD07,Service,high,Wait time and turnaround,50291.697474616,cell
+QLD07,Service,high,Price and billing,40233.357979692795,cell
+QLD07,Service,high,Work quality and fix,35204.1882322312,cell
+QLD07,Service,high,Vehicle or product,0.0,cell
+QLD07,Service,high,Process and facilities,5029.169747461599,cell
+QLD07,Service,high,Other,0.0,cell
+QLD08,Service,low,Staff attitude,3634.6875790538834,cell
+QLD08,Service,low,Communication and updates,17264.766000505944,cell
+QLD08,Service,low,Wait time and turnaround,18173.437895269413,cell
+QLD08,Service,low,Price and billing,9995.39084239818,cell
+QLD08,Service,low,Work quality and fix,7269.375158107767,cell
+QLD08,Service,low,Vehicle or product,908.6718947634708,cell
+QLD08,Service,low,Process and facilities,3634.6875790538834,cell
+QLD08,Service,low,Other,0.0,cell
+QLD08,Service,base,Staff attitude,7269.375158107767,cell
+QLD08,Service,base,Communication and updates,34529.53200101189,cell
+QLD08,Service,base,Wait time and turnaround,36346.87579053883,cell
+QLD08,Service,base,Price and billing,19990.78168479636,cell
+QLD08,Service,base,Work quality and fix,14538.750316215534,cell
+QLD08,Service,base,Vehicle or product,1817.3437895269417,cell
+QLD08,Service,base,Process and facilities,7269.375158107767,cell
+QLD08,Service,base,Other,0.0,cell
+QLD08,Service,high,Staff attitude,21392.732608145714,cell
+QLD08,Service,high,Communication and updates,101615.47988869213,cell
+QLD08,Service,high,Wait time and turnaround,106963.66304072856,cell
+QLD08,Service,high,Price and billing,58830.01467240071,cell
+QLD08,Service,high,Work quality and fix,42785.46521629143,cell
+QLD08,Service,high,Vehicle or product,5348.1831520364285,cell
+QLD08,Service,high,Process and facilities,21392.732608145714,cell
+QLD08,Service,high,Other,0.0,cell
+VIC01,Service,low,Staff attitude,2462.7813923227072,cell
+VIC01,Service,low,Communication and updates,16418.542615484715,cell
+VIC01,Service,low,Wait time and turnaround,26269.668184775543,cell
+VIC01,Service,low,Price and billing,4925.5627846454145,cell
+VIC01,Service,low,Work quality and fix,18060.396877033185,cell
+VIC01,Service,low,Vehicle or product,0.0,cell
+VIC01,Service,low,Process and facilities,18881.324007807423,cell
+VIC01,Service,low,Other,0.0,cell
+VIC01,Service,base,Staff attitude,4925.5627846454145,cell
+VIC01,Service,base,Communication and updates,32837.08523096943,cell
+VIC01,Service,base,Wait time and turnaround,52539.336369551085,cell
+VIC01,Service,base,Price and billing,9851.125569290829,cell
+VIC01,Service,base,Work quality and fix,36120.79375406637,cell
+VIC01,Service,base,Vehicle or product,0.0,cell
+VIC01,Service,base,Process and facilities,37762.64801561485,cell
+VIC01,Service,base,Other,0.0,cell
+VIC01,Service,high,Staff attitude,14239.354231974921,cell
+VIC01,Service,high,Communication and updates,94929.02821316615,cell
+VIC01,Service,high,Wait time and turnaround,151886.44514106584,cell
+VIC01,Service,high,Price and billing,28478.708463949843,cell
+VIC01,Service,high,Work quality and fix,104421.93103448277,cell
+VIC01,Service,high,Vehicle or product,0.0,cell
+VIC01,Service,high,Process and facilities,109168.38244514108,cell
+VIC01,Service,high,Other,0.0,cell
+VIC02,Service,low,Staff attitude,5368.152187618207,cell
+VIC02,Service,low,Communication and updates,14315.07250031522,cell
+VIC02,Service,low,Wait time and turnaround,16104.456562854622,cell
+VIC02,Service,low,Price and billing,14315.07250031522,cell
+VIC02,Service,low,Work quality and fix,8946.920312697011,cell
+VIC02,Service,low,Vehicle or product,894.6920312697013,cell
+VIC02,Service,low,Process and facilities,8946.920312697011,cell
+VIC02,Service,low,Other,0.0,cell
+VIC02,Service,base,Staff attitude,10736.304375236414,cell
+VIC02,Service,base,Communication and updates,28630.14500063044,cell
+VIC02,Service,base,Wait time and turnaround,32208.913125709245,cell
+VIC02,Service,base,Price and billing,28630.14500063044,cell
+VIC02,Service,base,Work quality and fix,17893.840625394023,cell
+VIC02,Service,base,Vehicle or product,1789.3840625394025,cell
+VIC02,Service,base,Process and facilities,17893.840625394023,cell
+VIC02,Service,base,Other,0.0,cell
+VIC02,Service,high,Staff attitude,26509.393519102257,cell
+VIC02,Service,high,Communication and updates,70691.71605093936,cell
+VIC02,Service,high,Wait time and turnaround,79528.18055730677,cell
+VIC02,Service,high,Price and billing,70691.71605093936,cell
+VIC02,Service,high,Work quality and fix,44182.3225318371,cell
+VIC02,Service,high,Vehicle or product,4418.23225318371,cell
+VIC02,Service,high,Process and facilities,44182.3225318371,cell
+VIC02,Service,high,Other,0.0,cell
+VIC03,Service,low,Staff attitude,4132.3530612244895,cell
+VIC03,Service,low,Communication and updates,17906.86326530612,cell
+VIC03,Service,low,Wait time and turnaround,4132.3530612244895,cell
+VIC03,Service,low,Price and billing,6887.2551020408155,cell
+VIC03,Service,low,Work quality and fix,11019.608163265304,cell
+VIC03,Service,low,Vehicle or product,0.0,cell
+VIC03,Service,low,Process and facilities,4132.3530612244895,cell
+VIC03,Service,low,Other,0.0,cell
+VIC03,Service,base,Staff attitude,8264.706122448979,cell
+VIC03,Service,base,Communication and updates,35813.72653061224,cell
+VIC03,Service,base,Wait time and turnaround,8264.706122448979,cell
+VIC03,Service,base,Price and billing,13774.510204081631,cell
+VIC03,Service,base,Work quality and fix,22039.216326530608,cell
+VIC03,Service,base,Vehicle or product,0.0,cell
+VIC03,Service,base,Process and facilities,8264.706122448979,cell
+VIC03,Service,base,Other,0.0,cell
+VIC03,Service,high,Staff attitude,24307.959183673473,cell
+VIC03,Service,high,Communication and updates,105334.48979591837,cell
+VIC03,Service,high,Wait time and turnaround,24307.959183673473,cell
+VIC03,Service,high,Price and billing,40513.26530612245,cell
+VIC03,Service,high,Work quality and fix,64821.22448979592,cell
+VIC03,Service,high,Vehicle or product,0.0,cell
+VIC03,Service,high,Process and facilities,24307.959183673473,cell
+VIC03,Service,high,Other,0.0,cell
+VIC04,Service,low,Staff attitude,3320.296755377324,cell
+VIC04,Service,low,Communication and updates,12451.112832664965,cell
+VIC04,Service,low,Wait time and turnaround,12451.112832664965,cell
+VIC04,Service,low,Price and billing,4150.370944221655,cell
+VIC04,Service,low,Work quality and fix,4150.370944221655,cell
+VIC04,Service,low,Vehicle or product,830.074188844331,cell
+VIC04,Service,low,Process and facilities,4980.445133065987,cell
+VIC04,Service,low,Other,830.074188844331,cell
+VIC04,Service,base,Staff attitude,6640.593510754648,cell
+VIC04,Service,base,Communication and updates,24902.22566532993,cell
+VIC04,Service,base,Wait time and turnaround,24902.22566532993,cell
+VIC04,Service,base,Price and billing,8300.74188844331,cell
+VIC04,Service,base,Work quality and fix,8300.74188844331,cell
+VIC04,Service,base,Vehicle or product,1660.148377688662,cell
+VIC04,Service,base,Process and facilities,9960.890266131973,cell
+VIC04,Service,base,Other,1660.148377688662,cell
+VIC04,Service,high,Staff attitude,18407.259205249728,cell
+VIC04,Service,high,Communication and updates,69027.22201968647,cell
+VIC04,Service,high,Wait time and turnaround,69027.22201968647,cell
+VIC04,Service,high,Price and billing,23009.07400656216,cell
+VIC04,Service,high,Work quality and fix,23009.07400656216,cell
+VIC04,Service,high,Vehicle or product,4601.814801312432,cell
+VIC04,Service,high,Process and facilities,27610.88880787459,cell
+VIC04,Service,high,Other,4601.814801312432,cell
+VIC05,Service,low,Staff attitude,6021.323011963406,cell
+VIC05,Service,low,Communication and updates,8601.890017090582,cell
+VIC05,Service,low,Wait time and turnaround,5161.134010254349,cell
+VIC05,Service,low,Price and billing,5161.134010254349,cell
+VIC05,Service,low,Work quality and fix,14623.213029053988,cell
+VIC05,Service,low,Vehicle or product,0.0,cell
+VIC05,Service,low,Process and facilities,2580.5670051271745,cell
+VIC05,Service,low,Other,0.0,cell
+VIC05,Service,base,Staff attitude,12042.646023926813,cell
+VIC05,Service,base,Communication and updates,17203.780034181164,cell
+VIC05,Service,base,Wait time and turnaround,10322.268020508698,cell
+VIC05,Service,base,Price and billing,10322.268020508698,cell
+VIC05,Service,base,Work quality and fix,29246.426058107976,cell
+VIC05,Service,base,Vehicle or product,0.0,cell
+VIC05,Service,base,Process and facilities,5161.134010254349,cell
+VIC05,Service,base,Other,0.0,cell
+VIC05,Service,high,Staff attitude,36127.93807178044,cell
+VIC05,Service,high,Communication and updates,51611.34010254349,cell
+VIC05,Service,high,Wait time and turnaround,30966.80406152609,cell
+VIC05,Service,high,Price and billing,30966.80406152609,cell
+VIC05,Service,high,Work quality and fix,87739.27817432392,cell
+VIC05,Service,high,Vehicle or product,0.0,cell
+VIC05,Service,high,Process and facilities,15483.402030763045,cell
+VIC05,Service,high,Other,0.0,cell
+VIC06,Service,low,Staff attitude,808.6670047329278,cell
+VIC06,Service,low,Communication and updates,11321.338066260989,cell
+VIC06,Service,low,Wait time and turnaround,10512.67106152806,cell
+VIC06,Service,low,Price and billing,8086.6700473292785,cell
+VIC06,Service,low,Work quality and fix,10512.67106152806,cell
+VIC06,Service,low,Vehicle or product,0.0,cell
+VIC06,Service,low,Process and facilities,5660.669033130494,cell
+VIC06,Service,low,Other,0.0,cell
+VIC06,Service,base,Staff attitude,1617.3340094658556,cell
+VIC06,Service,base,Communication and updates,22642.676132521978,cell
+VIC06,Service,base,Wait time and turnaround,21025.34212305612,cell
+VIC06,Service,base,Price and billing,16173.340094658557,cell
+VIC06,Service,base,Work quality and fix,21025.34212305612,cell
+VIC06,Service,base,Vehicle or product,0.0,cell
+VIC06,Service,base,Process and facilities,11321.338066260989,cell
+VIC06,Service,base,Other,0.0,cell
+VIC06,Service,high,Staff attitude,4495.64029749831,cell
+VIC06,Service,high,Communication and updates,62938.96416497634,cell
+VIC06,Service,high,Wait time and turnaround,58443.32386747803,cell
+VIC06,Service,high,Price and billing,44956.4029749831,cell
+VIC06,Service,high,Work quality and fix,58443.32386747803,cell
+VIC06,Service,high,Vehicle or product,0.0,cell
+VIC06,Service,high,Process and facilities,31469.48208248817,cell
+VIC06,Service,high,Other,0.0,cell
+VIC07,Service,low,Staff attitude,2534.6211340206187,cell
+VIC07,Service,low,Communication and updates,12673.105670103092,cell
+VIC07,Service,low,Wait time and turnaround,7603.863402061856,cell
+VIC07,Service,low,Price and billing,8448.737113402063,cell
+VIC07,Service,low,Work quality and fix,5914.115979381443,cell
+VIC07,Service,low,Vehicle or product,0.0,cell
+VIC07,Service,low,Process and facilities,6758.98969072165,cell
+VIC07,Service,low,Other,0.0,cell
+VIC07,Service,base,Staff attitude,5069.242268041237,cell
+VIC07,Service,base,Communication and updates,25346.211340206184,cell
+VIC07,Service,base,Wait time and turnaround,15207.726804123711,cell
+VIC07,Service,base,Price and billing,16897.474226804126,cell
+VIC07,Service,base,Work quality and fix,11828.231958762886,cell
+VIC07,Service,base,Vehicle or product,0.0,cell
+VIC07,Service,base,Process and facilities,13517.9793814433,cell
+VIC07,Service,base,Other,0.0,cell
+VIC07,Service,high,Staff attitude,15402.697660586837,cell
+VIC07,Service,high,Communication and updates,77013.48830293417,cell
+VIC07,Service,high,Wait time and turnaround,46208.09298176051,cell
+VIC07,Service,high,Price and billing,51342.325535289456,cell
+VIC07,Service,high,Work quality and fix,35939.627874702615,cell
+VIC07,Service,high,Vehicle or product,0.0,cell
+VIC07,Service,high,Process and facilities,41073.860428231565,cell
+VIC07,Service,high,Other,0.0,cell
+VIC08,Service,low,Staff attitude,1090.0447514433856,department (thin)
+VIC08,Service,low,Communication and updates,6318.564491417591,department (thin)
+VIC08,Service,low,Wait time and turnaround,5431.748422446701,department (thin)
+VIC08,Service,low,Price and billing,3011.47956754698,department (thin)
+VIC08,Service,low,Work quality and fix,3307.0849238706105,department (thin)
+VIC08,Service,low,Vehicle or product,110.85200862136124,department (thin)
+VIC08,Service,low,Process and facilities,2715.8742112233504,department (thin)
+VIC08,Service,low,Other,18.475334770226873,department (thin)
+VIC08,Service,base,Staff attitude,2180.0895028867712,department (thin)
+VIC08,Service,base,Communication and updates,12637.128982835182,department (thin)
+VIC08,Service,base,Wait time and turnaround,10863.496844893401,department (thin)
+VIC08,Service,base,Price and billing,6022.95913509396,department (thin)
+VIC08,Service,base,Work quality and fix,6614.169847741221,department (thin)
+VIC08,Service,base,Vehicle or product,221.70401724272247,department (thin)
+VIC08,Service,base,Process and facilities,5431.748422446701,department (thin)
+VIC08,Service,base,Other,36.950669540453745,department (thin)
+VIC08,Service,high,Staff attitude,6104.250608082959,department (thin)
+VIC08,Service,high,Communication and updates,35383.96115193851,department (thin)
+VIC08,Service,high,Wait time and turnaround,30417.791165701525,department (thin)
+VIC08,Service,high,Price and billing,16864.28557826309,department (thin)
+VIC08,Service,high,Work quality and fix,18519.67557367542,department (thin)
+VIC08,Service,high,Vehicle or product,620.7712482796229,department (thin)
+VIC08,Service,high,Process and facilities,15208.895582850762,department (thin)
+VIC08,Service,high,Other,103.46187471327049,department (thin)
+VIC09,Service,low,Staff attitude,453.0169605373636,department (thin)
+VIC09,Service,low,Communication and updates,2625.962720403023,department (thin)
+VIC09,Service,low,Wait time and turnaround,2257.4065491183883,department (thin)
+VIC09,Service,low,Price and billing,1251.5553316540722,department (thin)
+VIC09,Service,low,Work quality and fix,1374.4073887489508,department (thin)
+VIC09,Service,low,Vehicle or product,46.06952141057935,department (thin)
+VIC09,Service,low,Process and facilities,1128.7032745591941,department (thin)
+VIC09,Service,low,Other,7.678253568429891,department (thin)
+VIC09,Service,base,Staff attitude,906.0339210747272,department (thin)
+VIC09,Service,base,Communication and updates,5251.925440806046,department (thin)
+VIC09,Service,base,Wait time and turnaround,4514.813098236777,department (thin)
+VIC09,Service,base,Price and billing,2503.1106633081445,department (thin)
+VIC09,Service,base,Work quality and fix,2748.8147774979016,department (thin)
+VIC09,Service,base,Vehicle or product,92.1390428211587,department (thin)
+VIC09,Service,base,Process and facilities,2257.4065491183883,department (thin)
+VIC09,Service,base,Other,15.356507136859783,department (thin)
+VIC09,Service,high,Staff attitude,2491.5932829554995,department (thin)
+VIC09,Service,high,Communication and updates,14442.794962216625,department (thin)
+VIC09,Service,high,Wait time and turnaround,12415.736020151135,department (thin)
+VIC09,Service,high,Price and billing,6883.554324097397,department (thin)
+VIC09,Service,high,Work quality and fix,7559.240638119228,department (thin)
+VIC09,Service,high,Vehicle or product,253.3823677581864,department (thin)
+VIC09,Service,high,Process and facilities,6207.868010075567,department (thin)
+VIC09,Service,high,Other,42.2303946263644,department (thin)
+NSW01,Parts,low,Staff attitude,577.4422360248448,department (thin)
+NSW01,Parts,low,Communication and updates,1154.8844720496895,department (thin)
+NSW01,Parts,low,Wait time and turnaround,2176.5130434782614,department (thin)
+NSW01,Parts,low,Price and billing,621.8608695652174,department (thin)
+NSW01,Parts,low,Work quality and fix,0.0,department (thin)
+NSW01,Parts,low,Vehicle or product,88.83726708074536,department (thin)
+NSW01,Parts,low,Process and facilities,44.41863354037268,department (thin)
+NSW01,Parts,low,Other,0.0,department (thin)
+NSW01,Parts,base,Staff attitude,1154.8844720496895,department (thin)
+NSW01,Parts,base,Communication and updates,2309.768944099379,department (thin)
+NSW01,Parts,base,Wait time and turnaround,4353.026086956523,department (thin)
+NSW01,Parts,base,Price and billing,1243.7217391304348,department (thin)
+NSW01,Parts,base,Work quality and fix,0.0,department (thin)
+NSW01,Parts,base,Vehicle or product,177.67453416149073,department (thin)
+NSW01,Parts,base,Process and facilities,88.83726708074536,department (thin)
+NSW01,Parts,base,Other,0.0,department (thin)
+NSW01,Parts,high,Staff attitude,5004.499378881988,department (thin)
+NSW01,Parts,high,Communication and updates,10008.998757763977,department (thin)
+NSW01,Parts,high,Wait time and turnaround,18863.113043478264,department (thin)
+NSW01,Parts,high,Price and billing,5389.460869565218,department (thin)
+NSW01,Parts,high,Work quality and fix,0.0,department (thin)
+NSW01,Parts,high,Vehicle or product,769.9229813664598,department (thin)
+NSW01,Parts,high,Process and facilities,384.9614906832299,department (thin)
+NSW01,Parts,high,Other,0.0,department (thin)
+NSW02,Parts,low,Staff attitude,907.8986772486772,department (thin)
+NSW02,Parts,low,Communication and updates,1815.7973544973545,department (thin)
+NSW02,Parts,low,Wait time and turnaround,3422.0796296296294,department (thin)
+NSW02,Parts,low,Price and billing,977.737037037037,department (thin)
+NSW02,Parts,low,Work quality and fix,0.0,department (thin)
+NSW02,Parts,low,Vehicle or product,139.6767195767196,department (thin)
+NSW02,Parts,low,Process and facilities,69.8383597883598,department (thin)
+NSW02,Parts,low,Other,0.0,department (thin)
+NSW02,Parts,base,Staff attitude,1815.7973544973545,department (thin)
+NSW02,Parts,base,Communication and updates,3631.594708994709,department (thin)
+NSW02,Parts,base,Wait time and turnaround,6844.159259259259,department (thin)
+NSW02,Parts,base,Price and billing,1955.474074074074,department (thin)
+NSW02,Parts,base,Work quality and fix,0.0,department (thin)
+NSW02,Parts,base,Vehicle or product,279.3534391534392,department (thin)
+NSW02,Parts,base,Process and facilities,139.6767195767196,department (thin)
+NSW02,Parts,base,Other,0.0,department (thin)
+NSW02,Parts,high,Staff attitude,4622.029629629629,department (thin)
+NSW02,Parts,high,Communication and updates,9244.059259259258,department (thin)
+NSW02,Parts,high,Wait time and turnaround,17421.496296296296,department (thin)
+NSW02,Parts,high,Price and billing,4977.570370370369,department (thin)
+NSW02,Parts,high,Work quality and fix,0.0,department (thin)
+NSW02,Parts,high,Vehicle or product,711.0814814814814,department (thin)
+NSW02,Parts,high,Process and facilities,355.5407407407407,department (thin)
+NSW02,Parts,high,Other,0.0,department (thin)
+NSW03,Parts,low,Staff attitude,250.45892857142857,department (thin)
+NSW03,Parts,low,Communication and updates,500.91785714285714,department (thin)
+NSW03,Parts,low,Wait time and turnaround,944.0375,department (thin)
+NSW03,Parts,low,Price and billing,269.725,department (thin)
+NSW03,Parts,low,Work quality and fix,0.0,department (thin)
+NSW03,Parts,low,Vehicle or product,38.53214285714286,department (thin)
+NSW03,Parts,low,Process and facilities,19.26607142857143,department (thin)
+NSW03,Parts,low,Other,0.0,department (thin)
+NSW03,Parts,base,Staff attitude,500.91785714285714,department (thin)
+NSW03,Parts,base,Communication and updates,1001.8357142857143,department (thin)
+NSW03,Parts,base,Wait time and turnaround,1888.075,department (thin)
+NSW03,Parts,base,Price and billing,539.45,department (thin)
+NSW03,Parts,base,Work quality and fix,0.0,department (thin)
+NSW03,Parts,base,Vehicle or product,77.06428571428572,department (thin)
+NSW03,Parts,base,Process and facilities,38.53214285714286,department (thin)
+NSW03,Parts,base,Other,0.0,department (thin)
+NSW03,Parts,high,Staff attitude,2003.6714285714286,department (thin)
+NSW03,Parts,high,Communication and updates,4007.342857142857,department (thin)
+NSW03,Parts,high,Wait time and turnaround,7552.3,department (thin)
+NSW03,Parts,high,Price and billing,2157.8,department (thin)
+NSW03,Parts,high,Work quality and fix,0.0,department (thin)
+NSW03,Parts,high,Vehicle or product,308.25714285714287,department (thin)
+NSW03,Parts,high,Process and facilities,154.12857142857143,department (thin)
+NSW03,Parts,high,Other,0.0,department (thin)
+NSW04,Parts,low,Staff attitude,446.70265714285716,department (thin)
+NSW04,Parts,low,Communication and updates,893.4053142857143,department (thin)
+NSW04,Parts,low,Wait time and turnaround,1683.7254,department (thin)
+NSW04,Parts,low,Price and billing,481.06440000000003,department (thin)
+NSW04,Parts,low,Work quality and fix,0.0,department (thin)
+NSW04,Parts,low,Vehicle or product,68.72348571428573,department (thin)
+NSW04,Parts,low,Process and facilities,34.361742857142865,department (thin)
+NSW04,Parts,low,Other,0.0,department (thin)
+NSW04,Parts,base,Staff attitude,893.4053142857143,department (thin)
+NSW04,Parts,base,Communication and updates,1786.8106285714287,department (thin)
+NSW04,Parts,base,Wait time and turnaround,3367.4508,department (thin)
+NSW04,Parts,base,Price and billing,962.1288000000001,department (thin)
+NSW04,Parts,base,Work quality and fix,0.0,department (thin)
+NSW04,Parts,base,Vehicle or product,137.44697142857146,department (thin)
+NSW04,Parts,base,Process and facilities,68.72348571428573,department (thin)
+NSW04,Parts,base,Other,0.0,department (thin)
+NSW04,Parts,high,Staff attitude,3132.4334476190475,department (thin)
+NSW04,Parts,high,Communication and updates,6264.866895238095,department (thin)
+NSW04,Parts,high,Wait time and turnaround,11806.864533333333,department (thin)
+NSW04,Parts,high,Price and billing,3373.3898666666664,department (thin)
+NSW04,Parts,high,Work quality and fix,0.0,department (thin)
+NSW04,Parts,high,Vehicle or product,481.9128380952381,department (thin)
+NSW04,Parts,high,Process and facilities,240.95641904761905,department (thin)
+NSW04,Parts,high,Other,0.0,department (thin)
+NSW05,Parts,low,Staff attitude,623.2344444444444,department (thin)
+NSW05,Parts,low,Communication and updates,1246.4688888888888,department (thin)
+NSW05,Parts,low,Wait time and turnaround,2349.1144444444444,department (thin)
+NSW05,Parts,low,Price and billing,671.1755555555555,department (thin)
+NSW05,Parts,low,Work quality and fix,0.0,department (thin)
+NSW05,Parts,low,Vehicle or product,95.88222222222223,department (thin)
+NSW05,Parts,low,Process and facilities,47.94111111111111,department (thin)
+NSW05,Parts,low,Other,0.0,department (thin)
+NSW05,Parts,base,Staff attitude,1246.4688888888888,department (thin)
+NSW05,Parts,base,Communication and updates,2492.9377777777777,department (thin)
+NSW05,Parts,base,Wait time and turnaround,4698.228888888889,department (thin)
+NSW05,Parts,base,Price and billing,1342.351111111111,department (thin)
+NSW05,Parts,base,Work quality and fix,0.0,department (thin)
+NSW05,Parts,base,Vehicle or product,191.76444444444445,department (thin)
+NSW05,Parts,base,Process and facilities,95.88222222222223,department (thin)
+NSW05,Parts,base,Other,0.0,department (thin)
+NSW05,Parts,high,Staff attitude,3917.473650793651,department (thin)
+NSW05,Parts,high,Communication and updates,7834.947301587302,department (thin)
+NSW05,Parts,high,Wait time and turnaround,14765.862222222222,department (thin)
+NSW05,Parts,high,Price and billing,4218.817777777777,department (thin)
+NSW05,Parts,high,Work quality and fix,0.0,department (thin)
+NSW05,Parts,high,Vehicle or product,602.688253968254,department (thin)
+NSW05,Parts,high,Process and facilities,301.344126984127,department (thin)
+NSW05,Parts,high,Other,0.0,department (thin)
+NSW06,Parts,low,Staff attitude,449.24991428571434,department (thin)
+NSW06,Parts,low,Communication and updates,898.4998285714287,department (thin)
+NSW06,Parts,low,Wait time and turnaround,1693.3266,department (thin)
+NSW06,Parts,low,Price and billing,483.80760000000004,department (thin)
+NSW06,Parts,low,Work quality and fix,0.0,department (thin)
+NSW06,Parts,low,Vehicle or product,69.11537142857144,department (thin)
+NSW06,Parts,low,Process and facilities,34.55768571428572,department (thin)
+NSW06,Parts,low,Other,0.0,department (thin)
+NSW06,Parts,base,Staff attitude,898.4998285714287,department (thin)
+NSW06,Parts,base,Communication and updates,1796.9996571428574,department (thin)
+NSW06,Parts,base,Wait time and turnaround,3386.6532,department (thin)
+NSW06,Parts,base,Price and billing,967.6152000000001,department (thin)
+NSW06,Parts,base,Work quality and fix,0.0,department (thin)
+NSW06,Parts,base,Vehicle or product,138.23074285714287,department (thin)
+NSW06,Parts,base,Process and facilities,69.11537142857144,department (thin)
+NSW06,Parts,base,Other,0.0,department (thin)
+NSW06,Parts,high,Staff attitude,3150.2956952380955,department (thin)
+NSW06,Parts,high,Communication and updates,6300.591390476191,department (thin)
+NSW06,Parts,high,Wait time and turnaround,11874.191466666667,department (thin)
+NSW06,Parts,high,Price and billing,3392.626133333333,department (thin)
+NSW06,Parts,high,Work quality and fix,0.0,department (thin)
+NSW06,Parts,high,Vehicle or product,484.66087619047624,department (thin)
+NSW06,Parts,high,Process and facilities,242.33043809523812,department (thin)
+NSW06,Parts,high,Other,0.0,department (thin)
+NSW07,Parts,low,Staff attitude,243.3733714285715,department (thin)
+NSW07,Parts,low,Communication and updates,486.746742857143,department (thin)
+NSW07,Parts,low,Wait time and turnaround,917.3304000000002,department (thin)
+NSW07,Parts,low,Price and billing,262.09440000000006,department (thin)
+NSW07,Parts,low,Work quality and fix,0.0,department (thin)
+NSW07,Parts,low,Vehicle or product,37.44205714285715,department (thin)
+NSW07,Parts,low,Process and facilities,18.721028571428576,department (thin)
+NSW07,Parts,low,Other,0.0,department (thin)
+NSW07,Parts,base,Staff attitude,486.746742857143,department (thin)
+NSW07,Parts,base,Communication and updates,973.493485714286,department (thin)
+NSW07,Parts,base,Wait time and turnaround,1834.6608000000003,department (thin)
+NSW07,Parts,base,Price and billing,524.1888000000001,department (thin)
+NSW07,Parts,base,Work quality and fix,0.0,department (thin)
+NSW07,Parts,base,Vehicle or product,74.8841142857143,department (thin)
+NSW07,Parts,base,Process and facilities,37.44205714285715,department (thin)
+NSW07,Parts,base,Other,0.0,department (thin)
+NSW07,Parts,high,Staff attitude,1706.6182095238096,department (thin)
+NSW07,Parts,high,Communication and updates,3413.236419047619,department (thin)
+NSW07,Parts,high,Wait time and turnaround,6432.637866666667,department (thin)
+NSW07,Parts,high,Price and billing,1837.8965333333333,department (thin)
+NSW07,Parts,high,Work quality and fix,0.0,department (thin)
+NSW07,Parts,high,Vehicle or product,262.5566476190476,department (thin)
+NSW07,Parts,high,Process and facilities,131.2783238095238,department (thin)
+NSW07,Parts,high,Other,0.0,department (thin)
+QLD01,Parts,low,Staff attitude,957.9243243243244,department (thin)
+QLD01,Parts,low,Communication and updates,1915.8486486486488,department (thin)
+QLD01,Parts,low,Wait time and turnaround,3610.637837837838,department (thin)
+QLD01,Parts,low,Price and billing,1031.6108108108108,department (thin)
+QLD01,Parts,low,Work quality and fix,0.0,department (thin)
+QLD01,Parts,low,Vehicle or product,147.372972972973,department (thin)
+QLD01,Parts,low,Process and facilities,73.6864864864865,department (thin)
+QLD01,Parts,low,Other,0.0,department (thin)
+QLD01,Parts,base,Staff attitude,1915.8486486486488,department (thin)
+QLD01,Parts,base,Communication and updates,3831.6972972972976,department (thin)
+QLD01,Parts,base,Wait time and turnaround,7221.275675675676,department (thin)
+QLD01,Parts,base,Price and billing,2063.2216216216216,department (thin)
+QLD01,Parts,base,Work quality and fix,0.0,department (thin)
+QLD01,Parts,base,Vehicle or product,294.745945945946,department (thin)
+QLD01,Parts,base,Process and facilities,147.372972972973,department (thin)
+QLD01,Parts,base,Other,0.0,department (thin)
+QLD01,Parts,high,Staff attitude,6226.508108108109,department (thin)
+QLD01,Parts,high,Communication and updates,12453.016216216218,department (thin)
+QLD01,Parts,high,Wait time and turnaround,23469.14594594595,department (thin)
+QLD01,Parts,high,Price and billing,6705.470270270271,department (thin)
+QLD01,Parts,high,Work quality and fix,0.0,department (thin)
+QLD01,Parts,high,Vehicle or product,957.9243243243245,department (thin)
+QLD01,Parts,high,Process and facilities,478.96216216216226,department (thin)
+QLD01,Parts,high,Other,0.0,department (thin)
+QLD02,Parts,low,Staff attitude,434.4176571428572,department (thin)
+QLD02,Parts,low,Communication and updates,868.8353142857144,department (thin)
+QLD02,Parts,low,Wait time and turnaround,1637.4204000000002,department (thin)
+QLD02,Parts,low,Price and billing,467.8344,department (thin)
+QLD02,Parts,low,Work quality and fix,0.0,department (thin)
+QLD02,Parts,low,Vehicle or product,66.83348571428573,department (thin)
+QLD02,Parts,low,Process and facilities,33.416742857142864,department (thin)
+QLD02,Parts,low,Other,0.0,department (thin)
+QLD02,Parts,base,Staff attitude,868.8353142857144,department (thin)
+QLD02,Parts,base,Communication and updates,1737.6706285714288,department (thin)
+QLD02,Parts,base,Wait time and turnaround,3274.8408000000004,department (thin)
+QLD02,Parts,base,Price and billing,935.6688,department (thin)
+QLD02,Parts,base,Work quality and fix,0.0,department (thin)
+QLD02,Parts,base,Vehicle or product,133.66697142857146,department (thin)
+QLD02,Parts,base,Process and facilities,66.83348571428573,department (thin)
+QLD02,Parts,base,Other,0.0,department (thin)
+QLD02,Parts,high,Staff attitude,3046.286780952381,department (thin)
+QLD02,Parts,high,Communication and updates,6092.573561904762,department (thin)
+QLD02,Parts,high,Wait time and turnaround,11482.157866666666,department (thin)
+QLD02,Parts,high,Price and billing,3280.6165333333333,department (thin)
+QLD02,Parts,high,Work quality and fix,0.0,department (thin)
+QLD02,Parts,high,Vehicle or product,468.6595047619048,department (thin)
+QLD02,Parts,high,Process and facilities,234.3297523809524,department (thin)
+QLD02,Parts,high,Other,0.0,department (thin)
+QLD03,Parts,low,Staff attitude,451.0751142857143,department (thin)
+QLD03,Parts,low,Communication and updates,902.1502285714286,department (thin)
+QLD03,Parts,low,Wait time and turnaround,1700.2062,department (thin)
+QLD03,Parts,low,Price and billing,485.7732,department (thin)
+QLD03,Parts,low,Work quality and fix,0.0,department (thin)
+QLD03,Parts,low,Vehicle or product,69.39617142857144,department (thin)
+QLD03,Parts,low,Process and facilities,34.69808571428572,department (thin)
+QLD03,Parts,low,Other,0.0,department (thin)
+QLD03,Parts,base,Staff attitude,902.1502285714286,department (thin)
+QLD03,Parts,base,Communication and updates,1804.300457142857,department (thin)
+QLD03,Parts,base,Wait time and turnaround,3400.4124,department (thin)
+QLD03,Parts,base,Price and billing,971.5464,department (thin)
+QLD03,Parts,base,Work quality and fix,0.0,department (thin)
+QLD03,Parts,base,Vehicle or product,138.79234285714287,department (thin)
+QLD03,Parts,base,Process and facilities,69.39617142857144,department (thin)
+QLD03,Parts,base,Other,0.0,department (thin)
+QLD03,Parts,high,Staff attitude,3163.0946285714285,department (thin)
+QLD03,Parts,high,Communication and updates,6326.189257142857,department (thin)
+QLD03,Parts,high,Wait time and turnaround,11922.4336,department (thin)
+QLD03,Parts,high,Price and billing,3406.4096,department (thin)
+QLD03,Parts,high,Work quality and fix,0.0,department (thin)
+QLD03,Parts,high,Vehicle or product,486.6299428571429,department (thin)
+QLD03,Parts,high,Process and facilities,243.31497142857145,department (thin)
+QLD03,Parts,high,Other,0.0,department (thin)
+QLD04,Parts,low,Staff attitude,439.1812285714286,department (thin)
+QLD04,Parts,low,Communication and updates,878.3624571428572,department (thin)
+QLD04,Parts,low,Wait time and turnaround,1655.3754000000001,department (thin)
+QLD04,Parts,low,Price and billing,472.9644,department (thin)
+QLD04,Parts,low,Work quality and fix,0.0,department (thin)
+QLD04,Parts,low,Vehicle or product,67.56634285714287,department (thin)
+QLD04,Parts,low,Process and facilities,33.783171428571436,department (thin)
+QLD04,Parts,low,Other,0.0,department (thin)
+QLD04,Parts,base,Staff attitude,878.3624571428572,department (thin)
+QLD04,Parts,base,Communication and updates,1756.7249142857145,department (thin)
+QLD04,Parts,base,Wait time and turnaround,3310.7508000000003,department (thin)
+QLD04,Parts,base,Price and billing,945.9288,department (thin)
+QLD04,Parts,base,Work quality and fix,0.0,department (thin)
+QLD04,Parts,base,Vehicle or product,135.13268571428574,department (thin)
+QLD04,Parts,base,Process and facilities,67.56634285714287,department (thin)
+QLD04,Parts,base,Other,0.0,department (thin)
+QLD04,Parts,high,Staff attitude,3079.6905904761907,department (thin)
+QLD04,Parts,high,Communication and updates,6159.381180952381,department (thin)
+QLD04,Parts,high,Wait time and turnaround,11608.064533333332,department (thin)
+QLD04,Parts,high,Price and billing,3316.5898666666667,department (thin)
+QLD04,Parts,high,Work quality and fix,0.0,department (thin)
+QLD04,Parts,high,Vehicle or product,473.7985523809524,department (thin)
+QLD04,Parts,high,Process and facilities,236.8992761904762,department (thin)
+QLD04,Parts,high,Other,0.0,department (thin)
+QLD05,Parts,low,Staff attitude,246.0911142857143,department (thin)
+QLD05,Parts,low,Communication and updates,492.1822285714286,department (thin)
+QLD05,Parts,low,Wait time and turnaround,927.5742,department (thin)
+QLD05,Parts,low,Price and billing,265.0212,department (thin)
+QLD05,Parts,low,Work quality and fix,0.0,department (thin)
+QLD05,Parts,low,Vehicle or product,37.860171428571434,department (thin)
+QLD05,Parts,low,Process and facilities,18.930085714285717,department (thin)
+QLD05,Parts,low,Other,0.0,department (thin)
+QLD05,Parts,base,Staff attitude,492.1822285714286,department (thin)
+QLD05,Parts,base,Communication and updates,984.3644571428572,department (thin)
+QLD05,Parts,base,Wait time and turnaround,1855.1484,department (thin)
+QLD05,Parts,base,Price and billing,530.0424,department (thin)
+QLD05,Parts,base,Work quality and fix,0.0,department (thin)
+QLD05,Parts,base,Vehicle or product,75.72034285714287,department (thin)
+QLD05,Parts,base,Process and facilities,37.860171428571434,department (thin)
+QLD05,Parts,base,Other,0.0,department (thin)
+QLD05,Parts,high,Staff attitude,1725.675961904762,department (thin)
+QLD05,Parts,high,Communication and updates,3451.351923809524,department (thin)
+QLD05,Parts,high,Wait time and turnaround,6504.470933333333,department (thin)
+QLD05,Parts,high,Price and billing,1858.4202666666667,department (thin)
+QLD05,Parts,high,Work quality and fix,0.0,department (thin)
+QLD05,Parts,high,Vehicle or product,265.48860952380954,department (thin)
+QLD05,Parts,high,Process and facilities,132.74430476190477,department (thin)
+QLD05,Parts,high,Other,0.0,department (thin)
+QLD06,Parts,low,Staff attitude,700.7965714285715,department (thin)
+QLD06,Parts,low,Communication and updates,1401.593142857143,department (thin)
+QLD06,Parts,low,Wait time and turnaround,2641.4640000000004,department (thin)
+QLD06,Parts,low,Price and billing,754.7040000000001,department (thin)
+QLD06,Parts,low,Work quality and fix,0.0,department (thin)
+QLD06,Parts,low,Vehicle or product,107.81485714285716,department (thin)
+QLD06,Parts,low,Process and facilities,53.90742857142858,department (thin)
+QLD06,Parts,low,Other,0.0,department (thin)
+QLD06,Parts,base,Staff attitude,1401.593142857143,department (thin)
+QLD06,Parts,base,Communication and updates,2803.186285714286,department (thin)
+QLD06,Parts,base,Wait time and turnaround,5282.928000000001,department (thin)
+QLD06,Parts,base,Price and billing,1509.4080000000001,department (thin)
+QLD06,Parts,base,Work quality and fix,0.0,department (thin)
+QLD06,Parts,base,Vehicle or product,215.62971428571433,department (thin)
+QLD06,Parts,base,Process and facilities,107.81485714285716,department (thin)
+QLD06,Parts,base,Other,0.0,department (thin)
+QLD06,Parts,high,Staff attitude,4914.227809523809,department (thin)
+QLD06,Parts,high,Communication and updates,9828.455619047618,department (thin)
+QLD06,Parts,high,Wait time and turnaround,18522.858666666667,department (thin)
+QLD06,Parts,high,Price and billing,5292.245333333332,department (thin)
+QLD06,Parts,high,Work quality and fix,0.0,department (thin)
+QLD06,Parts,high,Vehicle or product,756.0350476190476,department (thin)
+QLD06,Parts,high,Process and facilities,378.0175238095238,department (thin)
+QLD06,Parts,high,Other,0.0,department (thin)
+QLD07,Parts,low,Staff attitude,392.39794285714294,department (thin)
+QLD07,Parts,low,Communication and updates,784.7958857142859,department (thin)
+QLD07,Parts,low,Wait time and turnaround,1479.0384000000001,department (thin)
+QLD07,Parts,low,Price and billing,422.58240000000006,department (thin)
+QLD07,Parts,low,Work quality and fix,0.0,department (thin)
+QLD07,Parts,low,Vehicle or product,60.3689142857143,department (thin)
+QLD07,Parts,low,Process and facilities,30.18445714285715,department (thin)
+QLD07,Parts,low,Other,0.0,department (thin)
+QLD07,Parts,base,Staff attitude,784.7958857142859,department (thin)
+QLD07,Parts,base,Communication and updates,1569.5917714285717,department (thin)
+QLD07,Parts,base,Wait time and turnaround,2958.0768000000003,department (thin)
+QLD07,Parts,base,Price and billing,845.1648000000001,department (thin)
+QLD07,Parts,base,Work quality and fix,0.0,department (thin)
+QLD07,Parts,base,Vehicle or product,120.7378285714286,department (thin)
+QLD07,Parts,base,Process and facilities,60.3689142857143,department (thin)
+QLD07,Parts,base,Other,0.0,department (thin)
+QLD07,Parts,high,Staff attitude,2751.630019047619,department (thin)
+QLD07,Parts,high,Communication and updates,5503.260038095238,department (thin)
+QLD07,Parts,high,Wait time and turnaround,10371.528533333332,department (thin)
+QLD07,Parts,high,Price and billing,2963.2938666666664,department (thin)
+QLD07,Parts,high,Work quality and fix,0.0,department (thin)
+QLD07,Parts,high,Vehicle or product,423.32769523809526,department (thin)
+QLD07,Parts,high,Process and facilities,211.66384761904763,department (thin)
+QLD07,Parts,high,Other,0.0,department (thin)
+QLD08,Parts,low,Staff attitude,804.9822857142857,department (thin)
+QLD08,Parts,low,Communication and updates,1609.9645714285714,department (thin)
+QLD08,Parts,low,Wait time and turnaround,3034.1639999999998,department (thin)
+QLD08,Parts,low,Price and billing,866.904,department (thin)
+QLD08,Parts,low,Work quality and fix,0.0,department (thin)
+QLD08,Parts,low,Vehicle or product,123.84342857142857,department (thin)
+QLD08,Parts,low,Process and facilities,61.92171428571429,department (thin)
+QLD08,Parts,low,Other,0.0,department (thin)
+QLD08,Parts,base,Staff attitude,1609.9645714285714,department (thin)
+QLD08,Parts,base,Communication and updates,3219.929142857143,department (thin)
+QLD08,Parts,base,Wait time and turnaround,6068.3279999999995,department (thin)
+QLD08,Parts,base,Price and billing,1733.808,department (thin)
+QLD08,Parts,base,Work quality and fix,0.0,department (thin)
+QLD08,Parts,base,Vehicle or product,247.68685714285715,department (thin)
+QLD08,Parts,base,Process and facilities,123.84342857142857,department (thin)
+QLD08,Parts,base,Other,0.0,department (thin)
+QLD08,Parts,high,Staff attitude,4651.008761904763,department (thin)
+QLD08,Parts,high,Communication and updates,9302.017523809525,department (thin)
+QLD08,Parts,high,Wait time and turnaround,17530.725333333336,department (thin)
+QLD08,Parts,high,Price and billing,5008.778666666667,department (thin)
+QLD08,Parts,high,Work quality and fix,0.0,department (thin)
+QLD08,Parts,high,Vehicle or product,715.5398095238097,department (thin)
+QLD08,Parts,high,Process and facilities,357.76990476190485,department (thin)
+QLD08,Parts,high,Other,0.0,department (thin)
+VIC01,Parts,low,Staff attitude,651.4061224489797,department (thin)
+VIC01,Parts,low,Communication and updates,1302.8122448979593,department (thin)
+VIC01,Parts,low,Wait time and turnaround,2455.3,department (thin)
+VIC01,Parts,low,Price and billing,701.5142857142857,department (thin)
+VIC01,Parts,low,Work quality and fix,0.0,department (thin)
+VIC01,Parts,low,Vehicle or product,100.21632653061226,department (thin)
+VIC01,Parts,low,Process and facilities,50.10816326530613,department (thin)
+VIC01,Parts,low,Other,0.0,department (thin)
+VIC01,Parts,base,Staff attitude,1302.8122448979593,department (thin)
+VIC01,Parts,base,Communication and updates,2605.6244897959186,department (thin)
+VIC01,Parts,base,Wait time and turnaround,4910.6,department (thin)
+VIC01,Parts,base,Price and billing,1403.0285714285715,department (thin)
+VIC01,Parts,base,Work quality and fix,0.0,department (thin)
+VIC01,Parts,base,Vehicle or product,200.43265306122453,department (thin)
+VIC01,Parts,base,Process and facilities,100.21632653061226,department (thin)
+VIC01,Parts,base,Other,0.0,department (thin)
+VIC01,Parts,high,Staff attitude,4839.016909620992,department (thin)
+VIC01,Parts,high,Communication and updates,9678.033819241984,department (thin)
+VIC01,Parts,high,Wait time and turnaround,18239.37142857143,department (thin)
+VIC01,Parts,high,Price and billing,5211.248979591837,department (thin)
+VIC01,Parts,high,Work quality and fix,0.0,department (thin)
+VIC01,Parts,high,Vehicle or product,744.4641399416911,department (thin)
+VIC01,Parts,high,Process and facilities,372.23206997084554,department (thin)
+VIC01,Parts,high,Other,0.0,department (thin)
+VIC02,Parts,low,Staff attitude,716.8146938775511,department (thin)
+VIC02,Parts,low,Communication and updates,1433.6293877551022,department (thin)
+VIC02,Parts,low,Wait time and turnaround,2701.84,department (thin)
+VIC02,Parts,low,Price and billing,771.9542857142858,department (thin)
+VIC02,Parts,low,Work quality and fix,0.0,department (thin)
+VIC02,Parts,low,Vehicle or product,110.2791836734694,department (thin)
+VIC02,Parts,low,Process and facilities,55.1395918367347,department (thin)
+VIC02,Parts,low,Other,0.0,department (thin)
+VIC02,Parts,base,Staff attitude,1433.6293877551022,department (thin)
+VIC02,Parts,base,Communication and updates,2867.2587755102045,department (thin)
+VIC02,Parts,base,Wait time and turnaround,5403.68,department (thin)
+VIC02,Parts,base,Price and billing,1543.9085714285716,department (thin)
+VIC02,Parts,base,Work quality and fix,0.0,department (thin)
+VIC02,Parts,base,Vehicle or product,220.5583673469388,department (thin)
+VIC02,Parts,base,Process and facilities,110.2791836734694,department (thin)
+VIC02,Parts,base,Other,0.0,department (thin)
+VIC02,Parts,high,Staff attitude,4778.76462585034,department (thin)
+VIC02,Parts,high,Communication and updates,9557.52925170068,department (thin)
+VIC02,Parts,high,Wait time and turnaround,18012.266666666666,department (thin)
+VIC02,Parts,high,Price and billing,5146.361904761904,department (thin)
+VIC02,Parts,high,Work quality and fix,0.0,department (thin)
+VIC02,Parts,high,Vehicle or product,735.1945578231292,department (thin)
+VIC02,Parts,high,Process and facilities,367.5972789115646,department (thin)
+VIC02,Parts,high,Other,0.0,department (thin)
+VIC03,Parts,low,Staff attitude,547.9438095238095,department (thin)
+VIC03,Parts,low,Communication and updates,1095.887619047619,department (thin)
+VIC03,Parts,low,Wait time and turnaround,2065.326666666667,department (thin)
+VIC03,Parts,low,Price and billing,590.0933333333332,department (thin)
+VIC03,Parts,low,Work quality and fix,0.0,department (thin)
+VIC03,Parts,low,Vehicle or product,84.29904761904763,department (thin)
+VIC03,Parts,low,Process and facilities,42.149523809523814,department (thin)
+VIC03,Parts,low,Other,0.0,department (thin)
+VIC03,Parts,base,Staff attitude,1095.887619047619,department (thin)
+VIC03,Parts,base,Communication and updates,2191.775238095238,department (thin)
+VIC03,Parts,base,Wait time and turnaround,4130.653333333334,department (thin)
+VIC03,Parts,base,Price and billing,1180.1866666666665,department (thin)
+VIC03,Parts,base,Work quality and fix,0.0,department (thin)
+VIC03,Parts,base,Vehicle or product,168.59809523809525,department (thin)
+VIC03,Parts,base,Process and facilities,84.29904761904763,department (thin)
+VIC03,Parts,base,Other,0.0,department (thin)
+VIC03,Parts,high,Staff attitude,3287.6628571428573,department (thin)
+VIC03,Parts,high,Communication and updates,6575.325714285715,department (thin)
+VIC03,Parts,high,Wait time and turnaround,12391.960000000001,department (thin)
+VIC03,Parts,high,Price and billing,3540.56,department (thin)
+VIC03,Parts,high,Work quality and fix,0.0,department (thin)
+VIC03,Parts,high,Vehicle or product,505.79428571428576,department (thin)
+VIC03,Parts,high,Process and facilities,252.89714285714288,department (thin)
+VIC03,Parts,high,Other,0.0,department (thin)
+VIC04,Parts,low,Staff attitude,655.748888888889,department (thin)
+VIC04,Parts,low,Communication and updates,1311.497777777778,department (thin)
+VIC04,Parts,low,Wait time and turnaround,2471.6688888888893,department (thin)
+VIC04,Parts,low,Price and billing,706.1911111111112,department (thin)
+VIC04,Parts,low,Work quality and fix,0.0,department (thin)
+VIC04,Parts,low,Vehicle or product,100.88444444444447,department (thin)
+VIC04,Parts,low,Process and facilities,50.442222222222235,department (thin)
+VIC04,Parts,low,Other,0.0,department (thin)
+VIC04,Parts,base,Staff attitude,1311.497777777778,department (thin)
+VIC04,Parts,base,Communication and updates,2622.995555555556,department (thin)
+VIC04,Parts,base,Wait time and turnaround,4943.337777777779,department (thin)
+VIC04,Parts,base,Price and billing,1412.3822222222225,department (thin)
+VIC04,Parts,base,Work quality and fix,0.0,department (thin)
+VIC04,Parts,base,Vehicle or product,201.76888888888894,department (thin)
+VIC04,Parts,base,Process and facilities,100.88444444444447,department (thin)
+VIC04,Parts,base,Other,0.0,department (thin)
+VIC04,Parts,high,Staff attitude,4871.277460317461,department (thin)
+VIC04,Parts,high,Communication and updates,9742.554920634922,department (thin)
+VIC04,Parts,high,Wait time and turnaround,18360.968888888892,department (thin)
+VIC04,Parts,high,Price and billing,5245.991111111112,department (thin)
+VIC04,Parts,high,Work quality and fix,0.0,department (thin)
+VIC04,Parts,high,Vehicle or product,749.4273015873018,department (thin)
+VIC04,Parts,high,Process and facilities,374.7136507936509,department (thin)
+VIC04,Parts,high,Other,0.0,department (thin)
+VIC05,Parts,low,Staff attitude,451.54645714285715,department (thin)
+VIC05,Parts,low,Communication and updates,903.0929142857143,department (thin)
+VIC05,Parts,low,Wait time and turnaround,1701.9828,department (thin)
+VIC05,Parts,low,Price and billing,486.28079999999994,department (thin)
+VIC05,Parts,low,Work quality and fix,0.0,department (thin)
+VIC05,Parts,low,Vehicle or product,69.46868571428571,department (thin)
+VIC05,Parts,low,Process and facilities,34.734342857142856,department (thin)
+VIC05,Parts,low,Other,0.0,department (thin)
+VIC05,Parts,base,Staff attitude,903.0929142857143,department (thin)
+VIC05,Parts,base,Communication and updates,1806.1858285714286,department (thin)
+VIC05,Parts,base,Wait time and turnaround,3403.9656,department (thin)
+VIC05,Parts,base,Price and billing,972.5615999999999,department (thin)
+VIC05,Parts,base,Work quality and fix,0.0,department (thin)
+VIC05,Parts,base,Vehicle or product,138.93737142857142,department (thin)
+VIC05,Parts,base,Process and facilities,69.46868571428571,department (thin)
+VIC05,Parts,base,Other,0.0,department (thin)
+VIC05,Parts,high,Staff attitude,3166.3998476190473,department (thin)
+VIC05,Parts,high,Communication and updates,6332.7996952380945,department (thin)
+VIC05,Parts,high,Wait time and turnaround,11934.891733333332,department (thin)
+VIC05,Parts,high,Price and billing,3409.969066666666,department (thin)
+VIC05,Parts,high,Work quality and fix,0.0,department (thin)
+VIC05,Parts,high,Vehicle or product,487.1384380952381,department (thin)
+VIC05,Parts,high,Process and facilities,243.56921904761904,department (thin)
+VIC05,Parts,high,Other,0.0,department (thin)
+VIC06,Parts,low,Staff attitude,449.42857142857144,department (thin)
+VIC06,Parts,low,Communication and updates,898.8571428571429,department (thin)
+VIC06,Parts,low,Wait time and turnaround,1694.0,department (thin)
+VIC06,Parts,low,Price and billing,484.0,department (thin)
+VIC06,Parts,low,Work quality and fix,0.0,department (thin)
+VIC06,Parts,low,Vehicle or product,69.14285714285715,department (thin)
+VIC06,Parts,low,Process and facilities,34.57142857142858,department (thin)
+VIC06,Parts,low,Other,0.0,department (thin)
+VIC06,Parts,base,Staff attitude,898.8571428571429,department (thin)
+VIC06,Parts,base,Communication and updates,1797.7142857142858,department (thin)
+VIC06,Parts,base,Wait time and turnaround,3388.0,department (thin)
+VIC06,Parts,base,Price and billing,968.0,department (thin)
+VIC06,Parts,base,Work quality and fix,0.0,department (thin)
+VIC06,Parts,base,Vehicle or product,138.2857142857143,department (thin)
+VIC06,Parts,base,Process and facilities,69.14285714285715,department (thin)
+VIC06,Parts,base,Other,0.0,department (thin)
+VIC06,Parts,high,Staff attitude,4314.5142857142855,department (thin)
+VIC06,Parts,high,Communication and updates,8629.028571428571,department (thin)
+VIC06,Parts,high,Wait time and turnaround,16262.4,department (thin)
+VIC06,Parts,high,Price and billing,4646.4,department (thin)
+VIC06,Parts,high,Work quality and fix,0.0,department (thin)
+VIC06,Parts,high,Vehicle or product,663.7714285714286,department (thin)
+VIC06,Parts,high,Process and facilities,331.8857142857143,department (thin)
+VIC06,Parts,high,Other,0.0,department (thin)
+VIC07,Parts,low,Staff attitude,616.5580437580438,department (thin)
+VIC07,Parts,low,Communication and updates,1233.1160875160876,department (thin)
+VIC07,Parts,low,Wait time and turnaround,2323.94954954955,department (thin)
+VIC07,Parts,low,Price and billing,663.9855855855857,department (thin)
+VIC07,Parts,low,Work quality and fix,0.0,department (thin)
+VIC07,Parts,low,Vehicle or product,94.85508365508367,department (thin)
+VIC07,Parts,low,Process and facilities,47.42754182754184,department (thin)
+VIC07,Parts,low,Other,0.0,department (thin)
+VIC07,Parts,base,Staff attitude,1233.1160875160876,department (thin)
+VIC07,Parts,base,Communication and updates,2466.2321750321753,department (thin)
+VIC07,Parts,base,Wait time and turnaround,4647.8990990991,department (thin)
+VIC07,Parts,base,Price and billing,1327.9711711711714,department (thin)
+VIC07,Parts,base,Work quality and fix,0.0,department (thin)
+VIC07,Parts,base,Vehicle or product,189.71016731016735,department (thin)
+VIC07,Parts,base,Process and facilities,94.85508365508367,department (thin)
+VIC07,Parts,base,Other,0.0,department (thin)
+VIC07,Parts,high,Staff attitude,3699.3482625482634,department (thin)
+VIC07,Parts,high,Communication and updates,7398.696525096527,department (thin)
+VIC07,Parts,high,Wait time and turnaround,13943.6972972973,department (thin)
+VIC07,Parts,high,Price and billing,3983.9135135135143,department (thin)
+VIC07,Parts,high,Work quality and fix,0.0,department (thin)
+VIC07,Parts,high,Vehicle or product,569.1305019305021,department (thin)
+VIC07,Parts,high,Process and facilities,284.56525096525104,department (thin)
+VIC07,Parts,high,Other,0.0,department (thin)
+VIC08,Parts,low,Staff attitude,243.2530285714286,department (thin)
+VIC08,Parts,low,Communication and updates,486.5060571428572,department (thin)
+VIC08,Parts,low,Wait time and turnaround,916.8768000000001,department (thin)
+VIC08,Parts,low,Price and billing,261.9648,department (thin)
+VIC08,Parts,low,Work quality and fix,0.0,department (thin)
+VIC08,Parts,low,Vehicle or product,37.42354285714286,department (thin)
+VIC08,Parts,low,Process and facilities,18.71177142857143,department (thin)
+VIC08,Parts,low,Other,0.0,department (thin)
+VIC08,Parts,base,Staff attitude,486.5060571428572,department (thin)
+VIC08,Parts,base,Communication and updates,973.0121142857143,department (thin)
+VIC08,Parts,base,Wait time and turnaround,1833.7536000000002,department (thin)
+VIC08,Parts,base,Price and billing,523.9296,department (thin)
+VIC08,Parts,base,Work quality and fix,0.0,department (thin)
+VIC08,Parts,base,Vehicle or product,74.84708571428573,department (thin)
+VIC08,Parts,base,Process and facilities,37.42354285714286,department (thin)
+VIC08,Parts,base,Other,0.0,department (thin)
+VIC08,Parts,high,Staff attitude,1705.7743238095238,department (thin)
+VIC08,Parts,high,Communication and updates,3411.5486476190476,department (thin)
+VIC08,Parts,high,Wait time and turnaround,6429.457066666667,department (thin)
+VIC08,Parts,high,Price and billing,1836.9877333333332,department (thin)
+VIC08,Parts,high,Work quality and fix,0.0,department (thin)
+VIC08,Parts,high,Vehicle or product,262.42681904761906,department (thin)
+VIC08,Parts,high,Process and facilities,131.21340952380953,department (thin)
+VIC08,Parts,high,Other,0.0,department (thin)
+VIC09,Parts,low,Staff attitude,115.99045714285717,department (thin)
+VIC09,Parts,low,Communication and updates,231.98091428571433,department (thin)
+VIC09,Parts,low,Wait time and turnaround,437.19480000000004,department (thin)
+VIC09,Parts,low,Price and billing,124.91280000000002,department (thin)
+VIC09,Parts,low,Work quality and fix,0.0,department (thin)
+VIC09,Parts,low,Vehicle or product,17.844685714285717,department (thin)
+VIC09,Parts,low,Process and facilities,8.922342857142858,department (thin)
+VIC09,Parts,low,Other,0.0,department (thin)
+VIC09,Parts,base,Staff attitude,231.98091428571433,department (thin)
+VIC09,Parts,base,Communication and updates,463.96182857142867,department (thin)
+VIC09,Parts,base,Wait time and turnaround,874.3896000000001,department (thin)
+VIC09,Parts,base,Price and billing,249.82560000000004,department (thin)
+VIC09,Parts,base,Work quality and fix,0.0,department (thin)
+VIC09,Parts,base,Vehicle or product,35.689371428571434,department (thin)
+VIC09,Parts,base,Process and facilities,17.844685714285717,department (thin)
+VIC09,Parts,base,Other,0.0,department (thin)
+VIC09,Parts,high,Staff attitude,813.3651809523809,department (thin)
+VIC09,Parts,high,Communication and updates,1626.7303619047618,department (thin)
+VIC09,Parts,high,Wait time and turnaround,3065.7610666666665,department (thin)
+VIC09,Parts,high,Price and billing,875.9317333333332,department (thin)
+VIC09,Parts,high,Work quality and fix,0.0,department (thin)
+VIC09,Parts,high,Vehicle or product,125.13310476190476,department (thin)
+VIC09,Parts,high,Process and facilities,62.56655238095238,department (thin)
+VIC09,Parts,high,Other,0.0,department (thin)

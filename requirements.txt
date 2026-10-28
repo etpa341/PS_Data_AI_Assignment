@@ -1,0 +1,15 @@
+# Python 3.13. These are the versions used to build and verify this repo.
+# Install with:  pip install -r requirements.txt
+pandas==2.3.1
+numpy==2.1.2
+openpyxl==3.1.5
+pyyaml==6.0.3
+matplotlib==3.11.0
+pytest==9.1.1
+
+# Optional: only for a live labelling run (03_label.py --live). Not needed to rerun offline.
+# anthropic==2.3.0
+
+# Optional: only to re-execute analysis.ipynb under Jupyter and save its outputs.
+# nbconvert==7.17.2
+# ipykernel==7.4.0

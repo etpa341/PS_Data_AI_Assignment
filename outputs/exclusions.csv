@@ -1,0 +1,11 @@
+reason_group,source_file,source_sheet,rows,source_rows
+superseded: every row is also in Chermside Q1 2026 FINAL v2 (v2 has 6 more) (I005),Chermside Q1 2026 FINAL.xlsx,Feedback,112,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113"
+"copy of the 'Jul 26' tab; June 2026 is a data gap (D5, I034, I033, R3)",Penrith Feedback.xlsx,Jun 26,43,"2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44"
+"same date, comment and score also in the Service tab; Service copy kept (I012, I080)",ESSENDON - feedback register.xlsx,Sales,12,"6, 7, 8, 14, 15, 44, 45, 60, 74, 79, 81, 82"
+exact duplicate of an earlier row,Springwood feedback.xlsx,All,12,"17, 19, 31, 45, 62, 96, 138, 140, 164, 187, 194, 293"
+"copied public Google reviews, a different source from dealer-collected feedback (I048)",Southport Feedback Tracker.xlsx,Google reviews (copied),8,"3, 4, 5, 6, 7, 8, 9, 10"
+"aggregate summary only (counts by rating), no row-level feedback; sensitivity use only (D5, I052, I053, R1, R2)",Toowoomba Q4 2025 summary.xlsx,Summary,6,"4, 5, 6, 7, 8, 9"
+test / junk row (I106),Southport Feedback Tracker.xlsx,Feedback,4,"23, 167, 192, 196"
+exact duplicate of an earlier row,Toowoomba feedback 2026.xlsx,2026,2,"122, 123"
+exact duplicate of an earlier row,North QLD feedback (Rocky + TSV).xlsx,Q1 2026,1,106
+exact duplicate of an earlier row,ESSENDON - feedback register.xlsx,Service,1,217

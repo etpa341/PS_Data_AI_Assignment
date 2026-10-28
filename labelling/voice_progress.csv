@@ -1,0 +1,31 @@
+row,feedback_id,my_voice,notes
+1,QLD03-8b5040ce55,customer,first person (“I was quoted”)
+2,VIC03-c14a7d942f,customer,"“Surprised how fast” is the customer’s voice. “Said they were out the door in 45 min” is odd, but the clipped phrasing reads like the customer relaying the shop’s claim, not a write-up"
+3,VIC03-a451f0f008,customer,"short and plain, informal register (“no stuffing about”), no third-person cue; best call, low confidence"
+4,VIC03-320e7ff767,customer,first person (“so I could see”)
+5,QLD03-c70ee48562,staff,"third person reporting (“Older gent said”, “he was pleased”, “he left his number”)"
+6,QLD03-0a41bcd1b2,staff,“Cust said” opener plus “Dead serious” mood comment
+7,VIC03-6bbf2c8db6,staff,"“Fleet manager said”, third person reporting"
+8,QLD03-b7b86c9284,customer,"dry, sarcastic voice, with the windscreen punchline reading as the customer’s own"
+9,VIC03-a3f0a3644a,staff,"“Cust, chatty, said she’s...” has a mood comment and third person reporting"
+10,VIC03-fc9dcf4d7a,staff,"“Said she didn’t have to chase anyone”, reported speech with no first person; the missing subject suggests a staff write-up"
+11,VIC03-33891c7d1c,staff,"“Cust said” opener, reported speech"
+12,VIC03-cfd27097a7,customer,"the customer’s own voice, with “[STAFF] just shrugged” as a first-hand account; no write-up cue, though it is third person about staff, which is normal for customers"
+13,QLD03-7a8a21dce1,staff,"“Said she ended up changing the baby”, third person reporting; the first sentence alone would read as c, but the second line shifts it"
+14,VIC03-7bf8e5097a,staff,"“Cust happy with [STAFF]”, staff shorthand and a clipped, note-like style"
+15,QLD03-2614b9ed90,staff,"“Cust frustrated” opener, plus “Says the left hand doesn’t know...” as reported speech"
+16,QLD03-edaf10a4ee,customer,"no reporting cue, with a customer-style rant and “Rubbish” as the unfiltered punchline; short, so moderate confidence"
+17,VIC03-06c48fb614,staff,"“Cust very pleased” is a staff comment on the customer’s mood, even though the first sentence reads like customer voice"
+18,QLD03-416390d613,staff,"“Said she was given...”, reported speech with a third person subject"
+19,VIC03-e1707ae8ec,staff,"“Mentioned that...”, then “Knows the difference and wants the line item corrected” describes the customer from outside"
+20,QLD03-61ac54d5ff,staff,"“Said the team was fantastic”, reported speech, with “Made a first-time buyer feel comfortable” as a third person description"
+21,QLD03-de37ae76ab,customer,first person (“than I thought”)
+22,VIC03-fba771eb49,customer,"first person throughout (“my”, “I waited”); all caps is a formatting quirk, not a write-up cue"
+23,VIC03-e63f927ff9,staff,"“he say”, “than he think”, “Will tell his friends” is third person, and the broken grammar reads like someone typing up what a customer said"
+24,VIC03-e801ee8cd8,staff,"“said it was sorted before the kids’ snack time ran out” is reported speech with no subject; the opener “Fast and efficient” alone would read as c, so moderate confidence"
+25,VIC03-4909b58079,customer,"first person narration (“Booked online, got no confirmation, rang to check”); the [NAME] prefix is a redaction artefact, not a staff sign-off. Moderate confidence"
+26,VIC03-fa4f49e66a,staff,"“Said the brake and rotor job was done...”, reported speech; “Expected it to drag on” describes the customer from outside"
+27,QLD03-e3b30e195a,staff,"“Cust said”, reported speech"
+28,VIC03-03805e07f9,staff,"“Cust advises”, “Says a simple text...”, third person reporting with a staff-style log of the 4 calls"
+29,VIC03-4e240b017f,customer,"short, plain, first-hand tone (“the wait was short and the part was right”); no cue either way, so low confidence"
+30,VIC03-731adb02cb,staff,"“Said the staff were so friendly...”, reported speech, and “Meant as a compliment” is a staff gloss on the customer’s tone"

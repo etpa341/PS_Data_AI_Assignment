@@ -1,0 +1,83 @@
+source_file,source_sheet,manifest_rows,bronze_data_rows,match
+Ballarat - Customer Satisfaction.xlsx,Responses,292,292,True
+Chermside Q1 2026 FINAL v2.xlsx,Feedback,118,118,True
+Chermside Q1 2026 FINAL.xlsx,Feedback,112,112,True
+Chermside Q2 2026.xlsx,Feedback,116,116,True
+Chermside Q3 2026.xlsx,Feedback,124,124,True
+Chermside Q4 2025.xlsx,Feedback,102,102,True
+Dandenong Customer Feedback 2025-26.xlsx,Apr 26,40,40,True
+Dandenong Customer Feedback 2025-26.xlsx,Aug 26,44,44,True
+Dandenong Customer Feedback 2025-26.xlsx,Dec 25,37,37,True
+Dandenong Customer Feedback 2025-26.xlsx,Feb 26,32,32,True
+Dandenong Customer Feedback 2025-26.xlsx,Jan 26,36,36,True
+Dandenong Customer Feedback 2025-26.xlsx,Jul 26,48,48,True
+Dandenong Customer Feedback 2025-26.xlsx,Jun 26,53,53,True
+Dandenong Customer Feedback 2025-26.xlsx,Mar 26,31,31,True
+Dandenong Customer Feedback 2025-26.xlsx,May 26,41,41,True
+Dandenong Customer Feedback 2025-26.xlsx,Nov 25,44,44,True
+Dandenong Customer Feedback 2025-26.xlsx,Oct 25,41,41,True
+Dandenong Customer Feedback 2025-26.xlsx,Sep 26,37,37,True
+Dandenong Customer Feedback 2025-26.xlsx,Sheet3,0,0,True
+ESSENDON - feedback register.xlsx,Parts,30,30,True
+ESSENDON - feedback register.xlsx,Sales,91,91,True
+ESSENDON - feedback register.xlsx,Service,225,225,True
+Frankston_CX_tracker.xlsx,Tracker,308,308,True
+Geelong Feedback.xlsx,2025,68,68,True
+Geelong Feedback.xlsx,2026,236,236,True
+Hunter Motors feedback 25-26.xlsx,Feedback,303,303,True
+IPS_feedback_log.xlsx,Log,277,277,True
+Noosa feedback cards.xlsx,Cards,49,49,True
+North QLD feedback (Rocky + TSV).xlsx,Q1 2026,133,133,True
+North QLD feedback (Rocky + TSV).xlsx,Q2 2026,138,138,True
+North QLD feedback (Rocky + TSV).xlsx,Q3 2026,139,139,True
+North QLD feedback (Rocky + TSV).xlsx,Q4 2025,146,146,True
+Parramatta_Feedback_2025-10.xlsx,Oct 25,47,47,True
+Parramatta_Feedback_2025-11.xlsx,Nov 25,36,36,True
+Parramatta_Feedback_2025-12.xlsx,Dec 25,37,37,True
+Parramatta_Feedback_2026-01.xlsx,Jan 26,42,42,True
+Parramatta_Feedback_2026-02.xlsx,Feb 26,33,33,True
+Parramatta_Feedback_2026-03.xlsx,Mar 26,40,40,True
+Parramatta_Feedback_2026-04.xlsx,Apr 26,34,34,True
+Parramatta_Feedback_2026-05.xlsx,May 26,45,45,True
+Parramatta_Feedback_2026-06.xlsx,Jun 26,49,49,True
+Parramatta_Feedback_2026-07.xlsx,Jul 26,37,37,True
+Parramatta_Feedback_2026-08.xlsx,Aug 26,39,39,True
+Parramatta_Feedback_2026-09.xlsx,Sep 26,40,40,True
+Penrith Feedback.xlsx,Apr 26,37,37,True
+Penrith Feedback.xlsx,Aug 26,56,56,True
+Penrith Feedback.xlsx,Dec 25,36,36,True
+Penrith Feedback.xlsx,Feb 26,45,45,True
+Penrith Feedback.xlsx,Jan 26,30,30,True
+Penrith Feedback.xlsx,Jul 26,43,43,True
+Penrith Feedback.xlsx,Jun 26,43,43,True
+Penrith Feedback.xlsx,Mar 26,45,45,True
+Penrith Feedback.xlsx,May 26,43,43,True
+Penrith Feedback.xlsx,Nov 25,42,42,True
+Penrith Feedback.xlsx,Oct 25,32,32,True
+Penrith Feedback.xlsx,Sep 26,45,45,True
+Ringwood feedback Q1 2026.xlsx,Feedback,112,112,True
+Ringwood feedback Q2 2026.xlsx,Feedback,115,115,True
+Ringwood feedback Q3 2026.xlsx,Feedback,127,127,True
+Ringwood feedback Q4 2025.xlsx,Feedback,100,100,True
+Shepparton feedback FINAL - site closed.xlsx,Log,52,52,True
+Southport Feedback Tracker.xlsx,Feedback,254,254,True
+Southport Feedback Tracker.xlsx,Google reviews (copied),8,8,True
+Springwood feedback.xlsx,All,310,310,True
+Tamworth.xlsx,Sheet1,143,143,True
+Toowoomba Q4 2025 summary.xlsx,Summary,6,6,True
+Toowoomba feedback 2026.xlsx,2026,250,250,True
+Wollongong_Apr26-Sep26.csv,(csv),147,147,True
+Wollongong_Oct25-Mar26.csv,(csv),138,138,True
+bendigo feedback.csv,(csv),144,144,True
+boxhill_survey_export_2025Q4.csv,(csv),64,64,True
+boxhill_survey_export_2026Q1.csv,(csv),77,77,True
+boxhill_survey_export_2026Q2.csv,(csv),83,83,True
+boxhill_survey_export_2026Q3.csv,(csv),85,85,True
+chatswood_2025_q4.csv,(csv),68,68,True
+chatswood_2026_q1.csv,(csv),56,56,True
+chatswood_2026_q2.csv,(csv),76,76,True
+chatswood_2026_q3.csv,(csv),78,78,True
+liverpool_q1_2026.csv,(csv),73,73,True
+liverpool_q2_2026.csv,(csv),71,71,True
+liverpool_q3_2026.csv,(csv),85,85,True
+liverpool_q4_2025.csv,(csv),82,82,True

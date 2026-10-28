@@ -1,0 +1,121 @@
+row,feedback_id,my_primary_theme,my_secondary_theme,my_sentiment,notes
+1,QLD01-736a41dc91,Staff attitude,,positive,
+2,QLD02-a2596b91b4,Work quality and fix,Communication and updates,mixed,
+3,NSW01-2b9114de7b,Price and billing,,positive,
+4,QLD04-2658a760af,Communication and updates,,positive,
+5,NSW04-6b9f08a0af,Communication and updates,,positive,
+6,QLD07-794e294fef,Wait time and turnaround,,negative,
+7,VIC01-a81bd6531d,Staff attitude,Work quality and fix,mixed,
+8,NSW02-f04a977958,Price and billing,,positive,
+9,QLD01-9447f7e9b3,Communication and updates,,mixed,
+10,VIC06-efa88ff4fd,Communication and updates,,negative,
+11,NSW03-76f0ee37c9,Communication and updates,Process and facilities,positive,paperwork explained line by line counts as Communication
+12,QLD07-b7e01bf480,Price and billing,Communication and updates,positive,"fair price is the main point, showing why the part failed is secondary"
+13,NSW02-89b5725459,Staff attitude,,positive,"single word, but specific enough for Staff attitude rather than Other"
+14,NSW07-5ca0b48c32,Work quality and fix,Communication and updates,negative,"repeat battery fault is the core complaint, four calls are secondary"
+15,VIC02-3872688c46,Communication and updates,,negative,plea for status updates only
+16,VIC03-e1ef6d11a6,Communication and updates,Wait time and turnaround,negative,"missed call-back is the main issue, next-day delay is secondary; redact the phone number"
+17,VIC06-3d29b534be,Wait time and turnaround,Process and facilities,negative,"no availability or cancellation list, secondary is the booking system"
+18,NSW01-d803bb8612,Price and billing,,positive,"names price and value directly, so not Other"
+19,VIC02-ffa80895a4,Work quality and fix,Staff attitude,mixed,"courteous staff is a real positive, unchanged smoke is the heavier complaint"
+20,VIC05-af1b52dcce,Communication and updates,,positive,"informed every time, grammar aside, sentiment is clear"
+21,QLD07-90fc23a836,Staff attitude,Wait time and turnaround,mixed,"wonderful staff is a real positive, “wait was a joke” is a real negative; staff is primary since it is stated first, but the two carry equal weight"
+22,QLD01-f64d308c75,Communication and updates,Price and billing,negative,"no call back and no update is the main complaint, surprise charges are secondary"
+23,NSW05-adf0e626c2,Price and billing,,positive,pricing is the point; the fleet volume is context
+24,QLD08-76853ea529,Price and billing,Wait time and turnaround,mixed,"on-time pickup is a real positive, but the unquoted sundry consumables and diagnostic fee are the heavier complaint; wait is secondary because of the pickup timing"
+25,QLD01-dca5a9d55e,Communication and updates,,negative,"zero contact; “pretty ordinary effort” is a mild complaint, still negative"
+26,NSW02-64d7ad6dce,Work quality and fix,,negative,missing wheel nut caps after the rotation counts as damage or loss caused by the work
+27,NSW02-5dc18240be,Communication and updates,,negative,"customer gave a contact instruction that was ignored, then had to chase for information"
+28,VIC07-eed6d0e394,Wait time and turnaround,,positive,"booked at 7:30, back on the tools by 10, so turnaround is the point"
+29,VIC01-f941d7fd16,Communication and updates,,positive,"frequent text updates, with the “shock” framing contrasting against past experience; not a complaint about this visit"
+30,VIC04-4f9282c0ab,Communication and updates,Process and facilities,positive,"no chasing, ringing back or repeating forms; Communication is primary and Process is secondary because of the forms; “Kodiak Trek service” refers to the vehicle but is not about its quality, so it is not Vehicle or product"
+31,NSW04-30b0522dbb,Work quality and fix,Communication and updates,negative,"still not fixed is the core complaint, the unreturned calls are secondary; redact the phone number"
+32,VIC01-67ae75e890,Price and billing,Wait time and turnaround,negative,"cleaning fee and higher parts price than quoted is the sharpest line, back-order delay is secondary; the loan car hassle could also be 7"
+33,NSW04-014ce41230,Process and facilities,,positive,"a simple step by step process; the tight budget is context, not a price comment"
+34,VIC04-72ac3ba426,Wait time and turnaround,Staff attitude,positive,"fast and on time is the main point, kind people is secondary"
+35,QLD04-1a9a434b65,Work quality and fix,,negative,bumper clip left hanging after the headlight job is poor workmanship
+36,VIC06-c72ab15180,Communication and updates,Wait time and turnaround,mixed,"fast turnaround is a real positive, but the unanswered follow-up call is the heavier complaint; flip to 3,2 if you want the positive first"
+37,NSW05-047d518216,Communication and updates,Wait time and turnaround,negative,"nobody calls with updates is the main point, waiting for the car is secondary"
+38,QLD03-60fbfd1789,Wait time and turnaround,,positive,"very fast job; “not sure what they did” is mild and not a clear complaint, but if you read it as doubtful about the lack of explanation it becomes 3,2,m"
+39,VIC08-4573c778ff,Price and billing,Communication and updates,negative,unexpected $45 admin fee; secondary because nobody told them about it
+40,NSW02-ddffcbcd0f,Wait time and turnaround,,positive,quick handover reads as approval of speed; if you want strictly factual comments neutral it becomes u
+41,NSW06-9749174cf3,Communication and updates,,negative,"chasing every update, no word until the customer rang; a text would have helped"
+42,NSW04-d3cfd88b5f,Staff attitude,Process and facilities,positive,"reception staff “just lovely” and made the customer feel looked after; secondary is holding the door, which is a small facilities/process touch, drop it if you want a clean 1,,p"
+43,QLD08-8a1979c7d7,Wait time and turnaround,,negative,way too slow; the rest is non-content
+44,NSW05-1f3f014cfd,Wait time and turnaround,,positive,"quickest part of the week, so turnaround is the point; “cheers” is friendly, not sarcastic; redact the rego"
+45,VIC04-3a2fa23051,Wait time and turnaround,,positive,very fast and back on the road quickly
+46,VIC02-cfaf507f17,Wait time and turnaround,Communication and updates,negative,"the promised “back by lunch” was missed; secondary is the broken promise itself, and the wry tone is a complaint; redact the phone number"
+47,NSW01-1879688952,Wait time and turnaround,Communication and updates,negative,"two hours past the time given by staff; secondary is the wrong estimate; redact the staff name; “Altura Corsa” looks like a model name but is not about the vehicle, so not 6"
+48,VIC03-81d2e6b37f,Price and billing,,positive,numbers better than budgeted and saved a few thousand across the fleet
+49,QLD08-22cf79e719,Communication and updates,Staff attitude,mixed,"friendly staff is a real positive; no text that the car was ready is the complaint; flip to 1,2 if you want the positive first"
+50,QLD01-2b72ab6c05,Price and billing,,positive,"great value, and “I’d have paid more” is strong approval of price"
+51,QLD02-56e6ca96b3,Communication and updates,,negative,"message left for staff was never passed on, which is the “messages passed on” part of Communication; “Typical” confirms it is a complaint; redact the staff name"
+52,NSW06-c91d68bc5e,Communication and updates,,negative,"no “running behind” text, silence, had to chase; the “I get that workshops are busy” is a concession, not praise"
+53,NSW02-931732e3f2,Staff attitude,,positive,"cheerful, friendly and helpful; “wouldn’t expect anything less” is approval"
+54,QLD08-8fd2e9d521,Staff attitude,,positive,welcoming at the counter; redact the staff name
+55,NSW06-305b47963f,Staff attitude,,positive,"friendly, “no worries from anyone”"
+56,VIC07-7d1ebe26de,Staff attitude,,positive,"counter staff laughed and found stickers for the kids; “half-eaten sausage roll” is colour, not a complaint"
+57,NSW01-f7e7b26a80,Work quality and fix,,positive,"straightforward and tidy, “done properly” points to the job being done right; if you read it as vague it could be 8,,p"
+58,QLD01-7568f788b2,Communication and updates,Process and facilities,mixed,"updates were a real strength, three calls to get a booking time is a real complaint; Communication is primary because it is stated first and framed as the main positive, but Process is the sharper complaint, so flip to 7,2 if you want the complaint first"
+59,VIC01-6514612e0c,Wait time and turnaround,,positive,"in and out before smoko ended; “cheers” is friendly, not sarcastic"
+60,QLD08-17a9f4b490,Communication and updates,Price and billing,positive,"SMS updates and “no surprises”; the secondary is no surprise charges, which reads as a billing positive; drop it if you want a clean 2,,p"
+61,VIC02-9cbcb05f5b,Process and facilities,,positive,"smoothest purchase, everything fell into place; this is about the buying process"
+62,NSW05-39b81c3e85,Communication and updates,,negative,"sarcastic; seamless purchase is mocked, the real point is no explanation of the app or charging; sarcasm coded by the actual point"
+63,NSW03-9f89e30c2f,Wait time and turnaround,,positive,"surprisingly fast, under two hours"
+64,VIC04-9c629215ed,Communication and updates,,positive,work explained at the counter so no googling needed
+65,VIC05-ebc1191dc3,Communication and updates,Vehicle or product,positive,clear demonstration of boot and child seat anchor; secondary is the vehicle features being shown
+66,NSW01-d1618c49f7,Work quality and fix,,negative,sarcastic; new rattle in the glovebox lid after the work is damage caused by the job
+67,NSW02-e4690913a9,Work quality and fix,Communication and updates,mixed,"prompt updates are a real positive, but the same fault returning is the heavier complaint; flip to 2,5 if you want the positive first"
+68,VIC02-f992824086,Staff attitude,,positive,super friendly; redact the staff name
+69,NSW01-fe01df6754,Wait time and turnaround,,positive,fast and on time; “no fuss” is approval
+70,NSW03-b0900af82d,Staff attitude,,positive,"kindest bunch, strong staff praise"
+71,QLD01-4590aa3cd0,Staff attitude,,positive,"pleasant, personable crew"
+72,VIC08-9a1ebd8f1f,Communication and updates,,negative,"sarcastic, implies calls are not returned"
+73,NSW01-5441d5fb6d,Communication and updates,Wait time and turnaround,mixed,"warning lights explained, but the long wait is a real complaint"
+74,VIC01-aa3602b472,Communication and updates,,positive,"key fob and app explained, pleasant surprise"
+75,VIC07-a2cd894d86,Wait time and turnaround,,positive,in and out before the next call
+76,VIC04-14c5065a04,Price and billing,Staff attitude,positive,"great value, great people, no real negative"
+77,QLD04-e40dbb336b,Communication and updates,,mixed,"updates every step is a positive, no handover explanation of the charging cable or app is a negative; redact staff name and phone number"
+78,QLD02-08a253ecab,Work quality and fix,,negative,"shudder returned after the software fix, repeat fault"
+79,VIC01-cdd0e17026,Wait time and turnaround,Communication and updates,mixed,"sarcastic opening is a real complaint about the all-day wait, “at least [STAFF] explained everything nicely” is a sincere positive; redact staff name and phone number"
+80,QLD01-26a58829b2,Wait time and turnaround,Communication and updates,mixed,"efficient and within quote is a positive, no instruction on charging equipment or range display is a negative"
+81,VIC02-9e284e156d,Staff attitude,Price and billing,positive,"helpful staff, fair pricing, would recommend"
+82,QLD06-77ee34b906,Wait time and turnaround,,negative,five hours for a “quick service”
+83,VIC07-12f8a22bcc,Wait time and turnaround,,negative,over an hour past the quoted pickup time
+84,VIC01-1d33c10c25,Wait time and turnaround,Process and facilities,mixed,"faster than quoted is a positive, tight parking is a negative"
+85,VIC04-3ab7c14977,Wait time and turnaround,,negative,"part promised in a couple of days, still nothing after two weeks"
+86,QLD01-a53dda03d9,Process and facilities,Price and billing,positive,"easy visit, bill kinder than feared"
+87,QLD06-3a29b0186e,Communication and updates,,negative,"sarcastic praise, messages never passed on"
+88,QLD02-ee747db2b3,Staff attitude,,positive,greeted like a regular; redact staff name
+89,VIC05-90fd4cfc4b,Process and facilities,Staff attitude,positive,"smooth process, friendly crew"
+90,QLD04-c8462e3814,Communication and updates,,positive,brake rotors explained clearly; redact “[STAFF]”
+91,VIC01-91373be43d,Communication and updates,,negative,"calls unanswered, emails ignored, messages lost; all Communication"
+92,NSW06-827491440f,Staff attitude,,positive,"welcoming, relaxed, keen to help; the first-timer line is context"
+93,VIC07-839ca50bd2,Process and facilities,Staff attitude,mixed,"staff treat him like family is a real positive; the rushed handover with the service book and spare key missing is a real negative about handover. Primary is Process because it is the sharper complaint, flip to 1,7 if you want the positive first"
+94,QLD06-74b9f05ede,Wait time and turnaround,Process and facilities,negative,no availability for weeks and the cancellation list never followed up; secondary is the booking process; redact the rego
+95,QLD07-6869e90067,Communication and updates,,positive,"hybrid system explained, “always wondered about that”; redact the staff name “[STAFF]”"
+96,VIC05-5142d8bc19,Price and billing,Staff attitude,negative,"unquoted cabin sanitise and throttle body clean adding about $175 is the main complaint, the flat look and the dismissive “should’ve read the booking terms” is the secondary Staff attitude issue; the long loyalty is context, and the comment is entirely negative so it is n not m; redact the staff name and rego"
+97,NSW07-d74e165500,Communication and updates,Wait time and turnaround,mixed,"clear explanations is a real positive, long wait is a real negative; flip to 3,2 if you want the complaint first"
+98,NSW05-cd58b3d70f,Staff attitude,,positive,"everyone cheery, including the phone staff"
+99,VIC07-61de577636,Work quality and fix,,negative,"gearbox fault persists after the software update, repeat fault; “rubbish” confirms a complaint"
+100,NSW01-50a589d6e1,Price and billing,Process and facilities,mixed,easy purchase with everything ready on arrival is a real positive; the aggressive upselling of extras in the finance room is a real negative and belongs under Price and billing per your definitions. Process is secondary for the easy purchase
+101,QLD03-558e7cc7dd,Work quality and fix,Communication and updates,mixed,"clear explanation of service and price is a real positive; same problem after the visit is a real negative and the heavier complaint, so the failed fix is primary"
+102,NSW03-34f4e98d45,Staff attitude,,positive,"nice folks, “real nice” is emphatic staff praise"
+103,NSW01-4ca127e1a6,Price and billing,,positive,"very reasonable price, paid less than elsewhere"
+104,NSW04-c6f3a623c5,Communication and updates,Wait time and turnaround,mixed,"text updates called the best part is a real positive; the wait every single time is a real negative; flip to 3,2 if you want the complaint first"
+105,VIC05-53695ba2e3,Work quality and fix,Communication and updates,negative,"brake noise still there is the core complaint, nobody telling them it was done is secondary; “Voltra Arc” is a model name, same redaction question as before"
+106,VIC05-d52822140b,Wait time and turnaround,,positive,"lightning quick turnaround, “honestly impressed”"
+107,VIC02-fcfcb561ba,Wait time and turnaround,,positive,"fast enough to still get lunch; “Ha” is light humour, not sarcasm"
+108,VIC06-d17a5b386f,Wait time and turnaround,,negative,eight-week wait with no flexibility is the main complaint; the interference engine risk is context for why it matters
+109,VIC01-65ef61f4ab,Communication and updates,Price and billing,positive,"explained how the fleet discount, on-road costs and delivery schedule fit together; Communication is primary because it is an explanation, Price is secondary because the content is pricing; redact the staff name"
+110,VIC02-c4a75a8dc4,Process and facilities,,positive,whole process without a hitch; the “hates dealing with this” line is context
+111,VIC02-9513c922e2,Communication and updates,Staff attitude,positive,"regular updates; “you’d think I was the only customer” is attentiveness, so Staff attitude is secondary; drop it for a clean 2,,p"
+112,VIC09-3167ccd30d,Communication and updates,,negative,promised call by lunch never came; “communication was terrible” is explicit
+113,NSW03-21b417c53c,Wait time and turnaround,,positive,car done within the 90 minute gap; the skint and time poor line is context
+114,QLD06-855fbb0012,Staff attitude,,positive,"welcome, lovely bunch"
+115,QLD08-91ef64f8a1,Staff attitude,,positive,"polite, friendly, feels respected"
+116,VIC06-31c718b50d,Communication and updates,Process and facilities,mixed,"painless test drive to keys is a real positive about the purchase process; no call back after leaving a number twice is a real negative. Communication is primary because it is the sharper complaint, flip to 7,2 if you want the positive first"
+117,NSW02-537b9cd2a7,Process and facilities,,positive,"walked in unsure, walked out done; “dead simple” describes the process. “Altura terra” is a model name, same redaction question as before"
+118,VIC03-cc2c93e036,Work quality and fix,Communication and updates,negative,"aircon still warm, so the fix failed; the booking notes claim it was fine, and nobody told him until he rang is secondary Communication"
+119,QLD02-2dadde49d5,Wait time and turnaround,,positive,finished ahead of schedule; “Lovely” is mild approval
+120,VIC05-b239b52529,Staff attitude,Communication and updates,mixed,"sweetheart and helpful is a real positive; no call back about the Veyra GT is a real negative. Staff is primary because it is stated first, but the complaint is just as strong, so 2,1,m is equally defensible; redact the staff name and consider the model name"

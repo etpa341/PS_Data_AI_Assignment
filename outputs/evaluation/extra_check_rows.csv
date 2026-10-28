@@ -1,0 +1,35 @@
+feedback_id,dealer_code,department,my_primary_theme,my_secondary_theme,my_sentiment,ai_primary_theme,ai_secondary_theme,ai_sentiment,ai_confidence,primary_agree,sentiment_agree,both_agree,either_theme_agree
+VIC07-44b0a62249,VIC07,Service,Communication and updates,,positive,Other,,positive,0.6,False,True,False,False
+QLD02-748fb765a4,QLD02,Sales,Process and facilities,,positive,Other,,neutral,0.4,False,False,False,False
+NSW06-e870ec0326,NSW06,Service,Process and facilities,,positive,Other,,neutral,0.5,False,False,False,False
+QLD08-44cbc69145,QLD08,Service,Communication and updates,,positive,Other,,positive,0.5,False,True,False,False
+NSW06-6332ed9210,NSW06,Sales,Communication and updates,Vehicle or product,positive,Vehicle or product,Staff attitude,positive,0.75,False,True,False,True
+NSW01-7ef302f482,NSW01,Sales,Process and facilities,,positive,Other,,positive,0.6,False,True,False,False
+VIC04-7a5e1435a8,VIC04,Service,Wait time and turnaround,Communication and updates,negative,Other,,negative,0.4,False,True,False,False
+QLD01-3f11d956d0,QLD01,Parts,Vehicle or product,,negative,Vehicle or product,Wait time and turnaround,negative,0.6,True,True,True,True
+NSW01-ae0e0d79fd,NSW01,Sales,Process and facilities,,positive,Other,,positive,0.6,False,True,False,False
+VIC01-b070c1c185,VIC01,Sales,Process and facilities,,positive,Vehicle or product,Work quality and fix,positive,0.7,False,True,False,False
+VIC02-c38782f126,VIC02,Service,Vehicle or product,,negative,Vehicle or product,Wait time and turnaround,negative,0.6,True,True,True,True
+VIC04-4451815e6a,VIC04,Service,Vehicle or product,,negative,Vehicle or product,Wait time and turnaround,negative,0.6,True,True,True,True
+VIC02-9adef6c54e,VIC02,Sales,Process and facilities,,positive,Other,,positive,0.55,False,True,False,False
+VIC06-022cf97457,VIC06,Sales,Process and facilities,,positive,Other,,positive,0.5,False,True,False,False
+QLD08-ddeb106c09,QLD08,Service,Vehicle or product,,negative,Vehicle or product,Wait time and turnaround,negative,0.6,True,True,True,True
+VIC04-e569c37c5b,VIC04,Sales,Process and facilities,,negative,Vehicle or product,,negative,0.5,False,True,False,False
+QLD04-7ca57f5e31,QLD04,Sales,Process and facilities,,positive,Vehicle or product,Process and facilities,positive,0.6,False,True,False,True
+QLD02-0e107ef5ee,QLD02,Sales,Communication and updates,Vehicle or product,positive,Vehicle or product,Communication and updates,positive,0.8,False,True,False,True
+VIC05-de81e60cf4,VIC05,Sales,Communication and updates,Vehicle or product,negative,Vehicle or product,Communication and updates,negative,0.8,False,True,False,True
+QLD05-7a1e662e95,QLD05,Sales,Process and facilities,,positive,Other,,positive,0.5,False,True,False,False
+NSW06-cbe9fedf8d,NSW06,Service,Vehicle or product,,negative,Vehicle or product,Process and facilities,negative,0.5,True,True,True,True
+NSW02-5af4da473f,NSW02,Sales,Process and facilities,,positive,Other,,positive,0.6,False,True,False,False
+QLD04-926fe1084e,QLD04,Service,Communication and updates,,positive,Other,,neutral,0.5,False,False,False,False
+NSW07-760ae8ede4,NSW07,Sales,Process and facilities,,positive,Other,,positive,0.6,False,True,False,False
+VIC05-5577d5d204,VIC05,Sales,Other,,negative,Other,,negative,0.45,True,True,True,True
+VIC01-c06ddead87,VIC01,Sales,Process and facilities,,positive,Other,,positive,0.4,False,True,False,False
+NSW01-28ccd244c4,NSW01,Sales,Process and facilities,,positive,Other,,positive,0.5,False,True,False,False
+QLD01-92ceb5edce,QLD01,Service,Communication and updates,Vehicle or product,negative,Vehicle or product,Communication and updates,negative,0.6,False,True,False,True
+QLD01-c7c9ceef88,QLD01,Sales,Process and facilities,,positive,Other,,neutral,0.55,False,False,False,False
+NSW02-30b5fa82db,NSW02,Sales,Other,,positive,Other,,positive,0.6,True,True,True,True
+NSW03-231478cd0c,NSW03,Service,Communication and updates,,negative,Vehicle or product,Process and facilities,negative,0.6,False,True,False,False
+VIC06-1028ac4d75,VIC06,Parts,Vehicle or product,Wait time and turnaround,negative,Vehicle or product,Wait time and turnaround,negative,0.6,True,True,True,True
+QLD02-07aa1b0ac4,QLD02,Sales,Other,,positive,Other,,positive,0.6,True,True,True,True
+VIC02-694ee87fbb,VIC02,Sales,Process and facilities,,positive,Other,,positive,0.55,False,True,False,False

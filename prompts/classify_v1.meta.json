@@ -1,0 +1,8 @@
+{
+  "prompt_version": "v1",
+  "prompt_sha": "d96a31004286",
+  "definitions_source": "labelling/labelling_sheet.xlsx, tab Definitions",
+  "definitions_sha": "9bd0ebe362af",
+  "built_on": "2026-10-27",
+  "examples": "invented; checked absent from data/silver (30-character fragments)"
+}

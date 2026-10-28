@@ -1,0 +1,153 @@
+feedback_id,primary_before,primary_after,secondary_before,secondary_after,sentiment_before,sentiment_after
+NSW01-3b4592cb07,Communication and updates,Communication and updates,Price and billing,Price and billing,mixed,mixed
+NSW01-5e8c003be5,Staff attitude,Staff attitude,Vehicle or product,Vehicle or product,positive,positive
+NSW01-6918d55f4b,Process and facilities,Communication and updates,Communication and updates,Process and facilities,mixed,mixed
+NSW01-88d6077213,Communication and updates,Communication and updates,Price and billing,Price and billing,negative,negative
+NSW01-8f91500f64,Staff attitude,Staff attitude,,,positive,positive
+NSW02-03dadf1899,Wait time and turnaround,Wait time and turnaround,,Staff attitude,positive,positive
+NSW02-5223409161,Communication and updates,Communication and updates,Process and facilities,Process and facilities,negative,negative
+NSW02-b627c877ee,Staff attitude,Staff attitude,Price and billing,Communication and updates,negative,negative
+NSW02-b800578c19,Wait time and turnaround,Wait time and turnaround,Communication and updates,Communication and updates,negative,negative
+NSW02-ca48f12d60,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+NSW02-d41469e6cc,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+NSW03-074fa61bb8,Communication and updates,Communication and updates,Staff attitude,Staff attitude,negative,negative
+NSW03-148afd8329,Staff attitude,Staff attitude,Communication and updates,Communication and updates,negative,negative
+NSW03-49c34524e9,Staff attitude,Staff attitude,,,positive,positive
+NSW03-51452e2ae6,Staff attitude,Staff attitude,,,positive,positive
+NSW03-55e5d21b94,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+NSW03-8134e5c071,Price and billing,Price and billing,Staff attitude,Staff attitude,positive,positive
+NSW03-9578b20eae,Communication and updates,Communication and updates,Work quality and fix,Work quality and fix,negative,negative
+NSW03-9652200dbf,Staff attitude,Staff attitude,,,positive,positive
+NSW03-af7b2fd7a3,Communication and updates,Communication and updates,Staff attitude,,positive,positive
+NSW03-b067c3374f,Staff attitude,Staff attitude,,,positive,positive
+NSW03-f056cd37e7,Wait time and turnaround,Wait time and turnaround,Staff attitude,Staff attitude,negative,negative
+NSW03-f9aee5aa0b,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+NSW04-3dbd8dea12,Wait time and turnaround,Wait time and turnaround,Communication and updates,Communication and updates,negative,negative
+NSW04-70413fdb1a,Communication and updates,Communication and updates,Process and facilities,Process and facilities,positive,positive
+NSW04-7b442efd88,Wait time and turnaround,Wait time and turnaround,Communication and updates,Communication and updates,mixed,mixed
+NSW04-8a9f045802,Staff attitude,Staff attitude,,,positive,positive
+NSW04-910e40689a,Process and facilities,Process and facilities,Communication and updates,Communication and updates,positive,positive
+NSW04-93fe16c649,Work quality and fix,Work quality and fix,Communication and updates,Communication and updates,negative,negative
+NSW04-a7d8656328,Staff attitude,Staff attitude,,,positive,positive
+NSW04-bd37bae61f,Wait time and turnaround,Wait time and turnaround,Staff attitude,Staff attitude,positive,positive
+NSW04-d6d49f83e7,Staff attitude,Staff attitude,,,positive,positive
+NSW04-ee131d575f,Staff attitude,Staff attitude,Vehicle or product,Vehicle or product,positive,positive
+NSW05-0ba9015177,Communication and updates,Communication and updates,Staff attitude,Staff attitude,mixed,mixed
+NSW05-193afe7abe,Communication and updates,Staff attitude,Staff attitude,Communication and updates,negative,negative
+NSW05-4acec3aa8e,Work quality and fix,Work quality and fix,Staff attitude,Staff attitude,negative,negative
+NSW05-67db94e924,Process and facilities,Process and facilities,Wait time and turnaround,Wait time and turnaround,negative,negative
+NSW05-697d766a1a,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+NSW05-6fb994e806,Staff attitude,Staff attitude,,,positive,positive
+NSW05-7436c2a2cc,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+NSW05-9e91823000,Staff attitude,Staff attitude,,,positive,positive
+NSW06-578145cd56,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+NSW07-04f7192c49,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+NSW07-2adce4b268,Staff attitude,Staff attitude,,,positive,positive
+NSW07-35ce8e6d95,Staff attitude,Staff attitude,Communication and updates,Communication and updates,mixed,mixed
+NSW07-69ad40fd19,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,negative,negative
+NSW07-91aba443c2,Price and billing,Price and billing,Wait time and turnaround,Communication and updates,negative,negative
+NSW07-e2b1ba3c8d,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD01-63208c57a2,Staff attitude,Staff attitude,,,positive,positive
+QLD01-9446bb997c,Communication and updates,Communication and updates,Vehicle or product,Staff attitude,positive,positive
+QLD01-a36be340f3,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,positive,positive
+QLD01-b3ed0dfcd3,Price and billing,Price and billing,Staff attitude,Staff attitude,positive,positive
+QLD01-e449b2ab0d,Communication and updates,Communication and updates,Staff attitude,Staff attitude,negative,negative
+QLD01-e6b9b2df7b,Staff attitude,Staff attitude,Process and facilities,Process and facilities,mixed,mixed
+QLD01-fec48fbce4,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD01-ffc79cedcc,Staff attitude,Staff attitude,Vehicle or product,Vehicle or product,positive,positive
+QLD02-13435b3125,Staff attitude,Staff attitude,Communication and updates,Communication and updates,mixed,mixed
+QLD02-225a6334b1,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+QLD02-2503cb2ce5,Communication and updates,Communication and updates,Work quality and fix,Work quality and fix,negative,negative
+QLD02-2cad0bf823,Staff attitude,Staff attitude,,,positive,positive
+QLD02-34ef1d5884,Staff attitude,Staff attitude,,,positive,positive
+QLD02-80ec0ec43d,Staff attitude,Staff attitude,Process and facilities,Process and facilities,positive,positive
+QLD02-83c984a06e,Process and facilities,Process and facilities,Communication and updates,Wait time and turnaround,negative,negative
+QLD02-9162a16c7b,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD02-9345f409fa,Staff attitude,Staff attitude,,,positive,positive
+QLD02-a22225f0aa,Staff attitude,Staff attitude,Vehicle or product,Communication and updates,positive,positive
+QLD02-a54b5c5b99,Work quality and fix,Work quality and fix,Communication and updates,Staff attitude,negative,negative
+QLD04-1cf0adbd3a,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+QLD04-407f69b68e,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD04-4978c01687,Staff attitude,Staff attitude,Wait time and turnaround,Wait time and turnaround,mixed,mixed
+QLD04-617dbeb60b,Staff attitude,Staff attitude,,,positive,positive
+QLD04-8b9135ee97,Staff attitude,Staff attitude,,,positive,positive
+QLD04-8f321d6694,Staff attitude,Staff attitude,,,positive,positive
+QLD04-94d3cf125a,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD04-c8462e3814,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD04-dbd702a047,Communication and updates,Communication and updates,Staff attitude,,mixed,positive
+QLD04-f4eae4485e,Wait time and turnaround,Communication and updates,Communication and updates,Wait time and turnaround,positive,positive
+QLD05-ad06357505,Staff attitude,Staff attitude,,,positive,positive
+QLD05-d0f1d04752,Staff attitude,Staff attitude,,,positive,positive
+QLD06-0a8bf19c74,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD06-1469678f0c,Staff attitude,Staff attitude,,,positive,positive
+QLD06-1645a76372,Staff attitude,Staff attitude,Wait time and turnaround,Wait time and turnaround,mixed,mixed
+QLD06-1f02607e51,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,mixed,mixed
+QLD06-1f3fb6f2cd,Staff attitude,Communication and updates,Communication and updates,Vehicle or product,positive,positive
+QLD06-6bba920eea,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD06-7a0cb685a2,Price and billing,Price and billing,Staff attitude,Staff attitude,negative,negative
+QLD06-af44802895,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD06-fffc7aaef6,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD07-20d78b9c2c,Price and billing,Price and billing,,Staff attitude,negative,negative
+QLD07-6869e90067,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD07-6c7142c1ac,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD07-778309264d,Communication and updates,Communication and updates,Process and facilities,Process and facilities,negative,negative
+QLD07-e231100155,Staff attitude,Staff attitude,,,positive,positive
+QLD08-0dd47dc05c,Communication and updates,Communication and updates,Staff attitude,Staff attitude,negative,negative
+QLD08-55b6fbb5a8,Staff attitude,Staff attitude,Work quality and fix,Work quality and fix,mixed,mixed
+QLD08-5c8f6bff0d,Communication and updates,Communication and updates,Staff attitude,Staff attitude,negative,negative
+QLD08-5eaf9b66e3,Process and facilities,Process and facilities,Wait time and turnaround,Wait time and turnaround,mixed,mixed
+QLD08-6ec5cfa88a,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,positive,positive
+QLD08-a86cc142a8,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+QLD08-afd751eee2,Wait time and turnaround,Wait time and turnaround,Price and billing,Price and billing,negative,negative
+QLD08-be8a557ba6,Staff attitude,Staff attitude,,,positive,positive
+QLD08-c0578a0b4e,Wait time and turnaround,Wait time and turnaround,Staff attitude,Staff attitude,positive,positive
+QLD08-d9c50a43b2,Staff attitude,Staff attitude,,,positive,positive
+VIC01-0517fcddfc,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+VIC01-1f9c8117dd,Process and facilities,Process and facilities,Wait time and turnaround,Wait time and turnaround,negative,negative
+VIC01-333f829fe8,Communication and updates,Communication and updates,Staff attitude,Staff attitude,negative,negative
+VIC01-40bd224112,Staff attitude,Staff attitude,,,positive,positive
+VIC01-650be8862e,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+VIC01-6863436cef,Staff attitude,Staff attitude,,,positive,positive
+VIC01-8af77e6214,Wait time and turnaround,Communication and updates,Communication and updates,Wait time and turnaround,mixed,mixed
+VIC01-970c25c1b3,Staff attitude,Staff attitude,,,positive,positive
+VIC01-d0d409f76c,Work quality and fix,Work quality and fix,Communication and updates,Communication and updates,negative,negative
+VIC01-e5887d9170,Staff attitude,Staff attitude,Wait time and turnaround,Wait time and turnaround,mixed,mixed
+VIC02-1886a407fe,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,negative,negative
+VIC02-356eb16744,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+VIC02-3aca1f282e,Process and facilities,Price and billing,Price and billing,Process and facilities,negative,negative
+VIC02-4925841e2e,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+VIC02-5e95b9ee1b,Staff attitude,Staff attitude,,,positive,positive
+VIC02-a3ecd9e188,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+VIC02-c3367589f6,Staff attitude,Staff attitude,,,positive,positive
+VIC02-cb0c207454,Price and billing,Price and billing,Staff attitude,Staff attitude,mixed,mixed
+VIC03-f3f676e0c6,Staff attitude,Staff attitude,,,negative,negative
+VIC03-f6ab11ebf1,Staff attitude,Staff attitude,Price and billing,Price and billing,mixed,mixed
+VIC04-04d1738be2,Staff attitude,Staff attitude,,,positive,positive
+VIC04-5d806a3854,Work quality and fix,Staff attitude,Staff attitude,Work quality and fix,mixed,mixed
+VIC04-62cebb7c3c,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+VIC04-f2e5e29eee,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,positive,positive
+VIC05-0a6ecad478,Communication and updates,Communication and updates,Staff attitude,Staff attitude,mixed,mixed
+VIC05-5b5a7791f7,Staff attitude,Staff attitude,,,positive,positive
+VIC05-5edaa81167,Staff attitude,Staff attitude,Price and billing,Price and billing,positive,positive
+VIC05-84e4cc6699,Staff attitude,Staff attitude,Communication and updates,Communication and updates,positive,positive
+VIC05-b4c4f53309,Staff attitude,Staff attitude,,,positive,positive
+VIC05-b88f1a32cf,Price and billing,Price and billing,Staff attitude,Staff attitude,positive,positive
+VIC05-e356f19a43,Staff attitude,Staff attitude,,,positive,positive
+VIC05-efd5bfc440,Staff attitude,Staff attitude,,,positive,positive
+VIC06-0f5897bd8a,Staff attitude,Staff attitude,,,positive,positive
+VIC06-57bf67a42d,Staff attitude,Staff attitude,,,positive,positive
+VIC06-591abe5fbc,Communication and updates,Communication and updates,Wait time and turnaround,Wait time and turnaround,positive,positive
+VIC06-c6993806ff,Staff attitude,Communication and updates,Wait time and turnaround,Wait time and turnaround,positive,positive
+VIC06-c911af6b0f,Communication and updates,Communication and updates,Staff attitude,Work quality and fix,negative,negative
+VIC06-cf032dedb7,Communication and updates,Communication and updates,Staff attitude,Price and billing,positive,positive
+VIC06-e72fdc9086,Communication and updates,Communication and updates,Staff attitude,Staff attitude,positive,positive
+VIC06-ee87e66ef2,Staff attitude,Staff attitude,,,positive,positive
+VIC06-eefa545c58,Staff attitude,Communication and updates,Communication and updates,Price and billing,positive,positive
+VIC06-fd380c709a,Staff attitude,Staff attitude,,,positive,positive
+VIC07-3a9314cccc,Staff attitude,Communication and updates,Communication and updates,Staff attitude,positive,positive
+VIC07-5fede661b5,Staff attitude,Staff attitude,,,positive,positive
+VIC07-83fc71e1ac,Staff attitude,Staff attitude,,,positive,positive
+VIC07-ff93577f32,Communication and updates,Communication and updates,Process and facilities,Process and facilities,mixed,mixed
+VIC08-5a366dab8b,Staff attitude,Staff attitude,,,positive,positive
+VIC08-7f4ebed36e,Wait time and turnaround,Wait time and turnaround,Staff attitude,Staff attitude,negative,negative
+VIC09-cb2abcc25d,Staff attitude,Staff attitude,,,positive,positive

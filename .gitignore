@@ -1,0 +1,33 @@
+.env
+__pycache__/
+**/__pycache__/
+*.pyc
+~$*
+
+# raw source files from the pack (names, phones, emails, regos): never committed; place in the repo root to rerun
+feedback/
+
+# bronze keeps unredacted comment text (phone/email/plates inside comments); regenerate with 01_bronze.py
+data/bronze/
+
+# dry-run and test artefacts (fake client)
+data/silver_labels_dryrun/
+data/gold_dryrun/
+.pytest_cache/
+
+# the assignment brief as supplied; its text is kept in docs/original_brief.md
+PS_Data_AI_Assignment.pdf
+
+# secrets and local environments
+.env.*
+.venv/
+venv/
+env/
+ENV/
+
+# notebook, editor and OS leftovers
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

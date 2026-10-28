@@ -1,0 +1,9 @@
+primary_theme,feedback_id,department,comment_clean,sentiment,confidence,dissatisfied,words
+Staff attitude,NSW05-c739c75dc0,Parts,Condescending. Explained things to me like I was five.,negative,0.85,True,9
+Communication and updates,NSW03-9f5cbc3cb3,Service,"left a voicemail, sent a text, and emailed. triple silence.",negative,0.9,True,10
+Wait time and turnaround,NSW01-10665fddb0,Service,"the time it took was crazy. quoted two hours, took six.",negative,0.9,True,11
+Price and billing,QLD02-30a8fffcce,Service,Booked in for $199 special. Left paying $384. Special for who?,negative,0.92,True,11
+Work quality and fix,VIC03-82bd08815d,Service,Fault not fixed. Aircon still blowing warm.,negative,0.9,True,7
+Vehicle or product,VIC04-e569c37c5b,Sales,Fuel cap lock key missing.,negative,0.5,True,5
+Process and facilities,NSW01-a8920a43cc,Service,Service booking vanished from the system. Brilliant.,negative,0.85,True,7
+Other,NSW06-802280196f,Sales,"Smooth sailing, thanks team.",positive,0.75,False,4

@@ -1,0 +1,33 @@
+metric,value,source,method
+q1_dealers_thin (<30 dissatisfied comments),5,outputs/q1_theme_by_dealer.csv,thin == True
+q1_dealer_department_cells,66,outputs/q1_theme_by_dealer_department.csv,cells with any dissatisfied comment
+q1_dealer_department_cells_thin,47,outputs/q1_theme_by_dealer_department.csv,thin == True
+q1_dealers_with_30plus_dissatisfied,19,outputs/q1_theme_by_dealer.csv,dealers with thin == False
+q1_dealers_top_theme: Communication and updates,12,outputs/q1_theme_by_dealer.csv,primary-theme share is the dealer's largest (ties go to the first theme in settings order)
+q1_dealers_top_theme: Wait time and turnaround,6,outputs/q1_theme_by_dealer.csv,primary-theme share is the dealer's largest (ties go to the first theme in settings order)
+q1_dealers_top_theme: Work quality and fix,1,outputs/q1_theme_by_dealer.csv,primary-theme share is the dealer's largest (ties go to the first theme in settings order)
+q1_dealers_with_tied_top_theme,1,outputs/q1_theme_by_dealer.csv,two themes share the largest value
+q1_max_share_change_without_essendon_ipswich_pts,1.8,outputs/q1_theme_by_department.csv,"max |all dealers - without| over departments, bases and themes; at Parts / primary / Wait time and turnaround"
+voice_staff_writeups_untagged_share_pct,21.1,outputs/evaluation/voice_check.csv,"hand label staff, tagged customer, of 19 hand-labelled staff rows"
+extra_check_rows: Vehicle or product,14,labelling/extra_check.xlsx + data/silver_labels/labels.csv,rows in the blind sheet whose AI primary theme is this
+ai_primary_theme_comments: Vehicle or product,14,data/silver_labels/labels.csv,all labelled comments
+extra_check_rows: Other,20,labelling/extra_check.xlsx + data/silver_labels/labels.csv,rows in the blind sheet whose AI primary theme is this
+ai_primary_theme_comments: Other,84,data/silver_labels/labels.csv,all labelled comments
+before_fix: comments with a listed staff name left (not in exact case),81,"data/bronze/bronze_rows.csv (comment_raw, old case-sensitive rule re-applied) + data/silver/feedback_silver.csv",included rows with text
+before_fix: comments with an unlisted staff name,71,"data/bronze/bronze_rows.csv (comment_raw, old case-sensitive rule re-applied) + data/silver/feedback_silver.csv","4 reviewed names, hashed in config/redaction.yaml"
+before_fix: comments with any staff first name left,152,"data/bronze/bronze_rows.csv (comment_raw, old case-sensitive rule re-applied) + data/silver/feedback_silver.csv",either of the two above
+before_fix: of which customer voice (sent to the model),152,"data/bronze/bronze_rows.csv (comment_raw, old case-sensitive rule re-applied) + data/silver/feedback_silver.csv",voice == customer
+before_fix: dealers affected,23,"data/bronze/bronze_rows.csv (comment_raw, old case-sensitive rule re-applied) + data/silver/feedback_silver.csv",distinct dealer_code
+comments_with_text_included,5349,data/silver/feedback_silver.csv,denominator
+after_fix: comments with any staff first name left,0,data/silver/feedback_silver.csv,"token-by-token, any case"
+relabelled_after_fix,152,outputs/relabel_redaction_fix.csv,comments whose redacted text changed
+relabelled_primary_theme_changed,10,outputs/relabel_redaction_fix.csv,
+relabelled_secondary_theme_changed,21,outputs/relabel_redaction_fix.csv,
+relabelled_sentiment_changed,1,outputs/relabel_redaction_fix.csv,
+relabelled_any_label_changed,22,outputs/relabel_redaction_fix.csv,"primary, secondary or sentiment"
+relabel_run_api_calls,152,data/silver_labels/run_history.jsonl (last live run),
+relabel_run_cost_usd,0.037,data/silver_labels/run_history.jsonl x config/settings.yaml pricing,325820 in / 9207 out tokens
+labelling_full_run_cost_usd,1.23,data/silver_labels/run_log_live_full_2026-10-28.json x config/settings.yaml pricing,10841009 input and 301015 output tokens at $0.1/$0.5 per M; excludes ~68 trial and check calls
+labelling_full_run_api_calls,5090,data/silver_labels/run_log_live_full_2026-10-28.json,
+labelling_full_run_failures,0,data/silver_labels/run_log_live_full_2026-10-28.json,
+booking_system_go_live_date (Dandenong banner),5 May,"feedback/Dandenong Customer Feedback 2025-26.xlsx, sheet 'May 26', cell A3",quoted from the banner text

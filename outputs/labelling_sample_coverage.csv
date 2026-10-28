@@ -1,0 +1,26 @@
+dealer_code,dealer,pool_comments,sample_rows
+VIC01,Dandenong,373,9
+VIC02,Ringwood,333,9
+VIC03,Essendon,151,3
+VIC04,Frankston,233,6
+VIC05,Box Hill,242,7
+VIC06,Geelong,231,5
+VIC07,Ballarat,227,6
+VIC08,Bendigo,103,2
+VIC09,Shepparton,36,1
+NSW01,Parramatta,362,9
+NSW02,Penrith,335,8
+NSW03,Chatswood,221,5
+NSW04,Liverpool,237,5
+NSW05,Newcastle,223,5
+NSW06,Wollongong,217,4
+NSW07,Tamworth,102,2
+QLD01,Chermside,350,9
+QLD02,Springwood,226,5
+QLD03,Ipswich,112,2
+QLD04,Southport,191,4
+QLD05,Noosa,37,0
+QLD06,Toowoomba,189,4
+QLD07,Rockhampton,156,4
+QLD08,Townsville,263,6
+TOTAL,,5150,120

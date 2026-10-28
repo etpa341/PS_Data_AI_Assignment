@@ -1,0 +1,25 @@
+dealer_code,dealer,n,dissatisfied_share,rank_dissatisfied,at_risk_share,rank_at_risk,rank_change
+NSW01,Parramatta,479,0.2777,1,0.4050,1,0
+QLD07,Rockhampton,202,0.2574,2,0.4010,2,0
+VIC01,Dandenong,484,0.2541,3,0.3822,3,0
+QLD04,Southport,250,0.2520,4,0.3680,5,-1
+NSW03,Chatswood,278,0.2482,5,0.3345,13,-8
+VIC05,Box Hill,309,0.2395,6,0.3592,6,0
+QLD01,Chermside,460,0.2370,7,0.3739,4,3
+QLD06,Toowoomba,248,0.2339,8,0.3427,8,0
+VIC04,Frankston,308,0.2338,9,0.3377,10,-1
+VIC03,Essendon,333,0.2282,10,0.3453,7,3
+VIC06,Geelong,304,0.2270,11,0.3355,12,-1
+QLD08,Townsville,353,0.2266,12,0.3371,11,1
+VIC07,Ballarat,292,0.2226,13,0.3390,9,4
+NSW05,Newcastle,303,0.2211,14,0.3168,14,0
+QLD03,Ipswich,277,0.2202,15,0.2924,19,-4
+NSW02,Penrith,454,0.2159,16,0.3018,16,0
+NSW04,Liverpool,311,0.2154,17,0.3023,15,2
+VIC08,Bendigo,144,0.2014,18,0.2986,18,0
+VIC02,Ringwood,454,0.2004,19,0.2643,22,-3
+QLD02,Springwood,298,0.1711,20,0.2349,23,-3
+NSW06,Wollongong,285,0.1649,21,0.2877,20,1
+NSW07,Tamworth,133,0.1579,22,0.3008,17,5
+VIC09,Shepparton,52,0.1538,23,0.2692,21,2
+QLD05,Noosa,49,0.0204,24,0.0204,24,0

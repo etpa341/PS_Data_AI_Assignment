@@ -1,0 +1,4 @@
+,n,dissatisfied_share,at_risk_share,mean_score
+"group Sales, all rows",1527.0,0.1008513425016372,0.16437459070072036,81.6637197118533
+"group Sales, without Bendigo S rows",1495.0,0.10234113712374582,0.16521739130434782,81.6056856187291
+Bendigo Sales (all S rows),32.0,0.03125,0.125,84.375

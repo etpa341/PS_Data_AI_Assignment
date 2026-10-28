@@ -1,0 +1,2 @@
+# Store every file byte-for-byte: no line-ending conversion, so data, cache and outputs hash the same after a clone
+* -text
